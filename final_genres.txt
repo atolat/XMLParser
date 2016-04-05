@@ -1,0 +1,130 @@
+1,
+2,Comd
+3,Epic
+4,S.F.
+5,stage musical
+6,Dram.Actn
+7,Myst
+8,susp
+9,CmR
+10,Axtn
+11,SxFi
+12,UnDr
+13,AvGa
+14,Scfi
+15,dram
+16,DRam
+17,DRAM
+18,RFP; H* 
+19,DraM
+20,Surl
+21,ram
+22,Actn
+23,CnR
+24,Muscl
+25,Hor
+26,Homo
+27,Draam
+28,anti-Dram
+29,comd
+30,actn
+31,Expm
+32,verite
+33,CnRb
+34,BioPP
+35,Musc
+36,Advt 
+37,Psych Dram
+38,Cart 
+39,BioG
+40,FantH* 
+41,CnRbb
+42,Sati
+43,Muscl 
+44,H
+45,SciF
+46,Kinky
+47,	Susp
+48,porn
+49,Comdx
+50,Weird
+51,Fant 
+52,Romt Dram
+53,Advt
+54,Romt. Comd
+55,Docu Dram
+56,Cart
+57,Hist
+58,Cond
+59,Surr
+60,Road
+61,Susp 
+62,BioP 
+63,Romt 
+64,Allegory
+65,Ctxx
+66,Romt Actn
+67,RomtAdvt
+68,Horr 
+69,Act
+70,ScFi
+71,txx
+72,BioP
+73,Susp
+74,Dram
+75,Docu
+76,Porn 
+77,TV
+78,Romtx
+79,Scat
+80,Horr
+81,H**
+82,Comd West
+83,romt
+84,Docu 
+85,Disa
+86,Avant Garde
+87,Ctcxx
+88,Romt Comd
+89,Mystp
+90,Biop
+91,Faml
+92,Ctxxx
+93,Dramn
+94,Porb
+95,Noir Comd Romt
+96,Natu
+97,Drama
+98,Comd Noir
+99,Comd 
+100,Dramd
+101,West1
+102,Porn
+103,Camp
+104,Art Video
+105,Fant
+106,BioPx
+107,Ducu
+108,Ront
+109,Adctx
+110,Muusc
+111,musc
+112,Sctn
+113,Crim
+114,Romt Fant
+115,Dram>
+116,Viol
+117,Romt
+118,sports
+119,West
+120,Myst 
+121,H0
+122,Bio
+123,Adct
+124,fant
+125,Noir
+126,Noir Comd
+127,Dram Docu
+128,Dram 
+129,Dicu
+130,Duco

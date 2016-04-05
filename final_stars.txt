@@ -1,0 +1,6863 @@
+1,william,aames,1960,\N
+2,william, abbott,1895,\N
+3,, ,0000,\N
+4,george,abbott,1887,\N
+5,john,abbott,1905,\N
+6,philip,abbott,1923,\N
+7,kareem abduljabbar,,0000,\N
+8,walter,abel,1898,\N
+9,f.murray abraham,,0000,\N
+10,james abrahams,,0000,\N
+11,maury abram,,0000,\N
+12,victoria abril,,0000,\N
+13,joss,ackland,1928,\N
+14,dan,ackroyd,0000,\N
+15,david ackroyd,,1940,\N
+16,peter ackroyd,,0000,\N
+17,rodolfo,acosta,1920,\N
+18,eddie,acuff,1902,\N
+19,jean,adair,1872,\N
+20,alfred,adam,1909,\N
+21,ronald,adam,1896,\N
+22,john adames,,0000,\N
+23,beverly,adams,1945,\N
+24,brooke,adams,1949,\N
+25,catlin,barab,1950,\N
+26,dorothy,adams,1915,\N
+27,elizabeth edith,enke,1929,\N
+28,jane,adams,1921,\N
+29,julia,adams,1931,\N
+30,betty may (julia),adams,1926,\N
+31,maude,wikstrom,1950,\N
+32,nicholas,adamschock,1931,\N
+33,robert,adams,1906,\N
+34,sam adams,,0000,\N
+35,tome,adams,1938,\N
+36,dawn,addams,1930,\N
+37,wesley,addy,1912,\N
+38,isabelle,adjani,1955,\N
+39,jay,adler,1899,\N
+40,lutha,adler,1903,\N
+41,jeanne,de la font\`e,1898,\N
+42,mario,adorf,1930,\N
+43,max,bor,1902,\N
+44,ben,affleck,0000,\N
+45,casey,affleck,0000,\N
+46,john,agar,1921,\N
+47,fn,bn,1960,\N
+48,jenny,agutter,1952,\N
+49,brian,aherne,1902,\N
+50,philip,ahn,1911,\N
+51,fran{\c}coise sorya,dreyfus,1932,\N
+52,richard,ainley,1910,\N
+53,maria aitkins,,0000,\N
+54,franklyn ajaye,,1949,\N
+55,muriel,aked,1887,\N
+56,claude,akins,1918,\N
+57,serap,aksoy,0000,\N
+58,josh albee,,0000,\N
+59,anna maria,alberghetti,1936,\N
+60,han,albers,1892,\N
+61,eddie albert,heimberger,1908,\N
+62,edward,albert,1951,\N
+63,edward albert~jr.,,0000,\N
+64,william albert,,0000,\N
+65,frank,albertson,1907,\N
+66,jack,albertson,1907,\N
+67,mabel,albertson,1901,\N
+68,hardy,albrecht,1903,\N
+69,lola,albright,1925,\N
+70,alan,alda,1936,\N
+71,alphonso,d'abruzzo,1914,\N
+72,rutanya alda,,0000,\N
+73,john,alderton,1940,\N
+74,vera alentova,,0000,\N
+75,nicholas benton,alexander,1911,\N
+76,jane,quigley,1939,\N
+77,john,alexander,1901,\N
+78,katherine,alexander,1901,\N
+79,ross,alexander,1907,\N
+80,sandy alexander,,0000,\N
+81,terence,alexander,1923,\N
+82,hope alexanderwells,,0000,\N
+83,cassius,clay,1942,\N
+84,dorothy,alison,1925,\N
+85,andrea allan,,0000,\N
+86,elizabeth,allan,1908,\N
+87,william,alland,1916,\N
+88,chesney,allen,1894,\N
+89,catherine allegret,,0000,\N
+90,elizabeth,gillease,1934,\N
+91,john f.,sullivan,1894,\N
+92,gracie,allen,1902,\N
+93,karen,allen,1955,\N
+94,nancy,allen,1954,\N
+95,patrick,allen,1927,\N
+96,rae allen,,0000,\N
+97,steve,allen,1921,\N
+98,allen stewart,konigsberg,1935,\N
+99,joseph allen~jr.,,0000,\N
+100,kirstie,alley,0000,\N
+101,sara,allgood,1883,\N
+102,claud,palmer,1891,\N
+103,astrid,allwyn,1909,\N
+104,ella,geisman,1917,\N
+105,pedro, almodovar,0000,\N
+106,maria conchita alonso,,0000,\N
+107,corinne alphen,,0000,\N
+108,kirk,alyn,1910,\N
+109,betty amann,,0000,\N
+110,leonora amar,,0000,\N
+111,dominic felix,amici,1908,\N
+112,lucio amelio,,0000,\N
+113,leon,wycoff,1903,\N
+114,ramsay,philips,1919,\N
+115,suzy,amis,1962,\N
+116,john amos,,0000,\N
+117,john amplas,,0000,\N
+118,fn,bn,0000,\N
+119,glenn,anders,1889,\N
+120,luana,anders,1949,\N
+121,merry,anders,1932,\N
+122,bridgette andersen,,0000,\N
+123,bibi anderson,,0000,\N
+124,e. erich anderson,,0000,\N
+125,eddie,anderson,1905,\N
+126,max,aronson,1882,\N
+127,harriet,anderson,0000,\N
+128,herbert,anderson,1917,\N
+129,ingrid anderson,,0000,\N
+130,jean,anderson,1908,\N
+131,john,anderson,1922,\N
+132,dame frances margaret,anderson,1898,\N
+133,lindsay,anderson,1923,\N
+134,loni,anderson,1947,\N
+135,mary,anderson,1920,\N
+136,melissa sue anderson,,0000,\N
+137,michael,anderson,1943,\N
+138,richard,anderson,1926,\N
+139,rona,anderson,1926,\N
+140,warner,anderson,1911,\N
+141,bibi,andersson,1935,\N
+142,harriet,andersson,1932,\N
+143,carole andre,,0000,\N
+144,gabe andre,,0000,\N
+145,fr\'ed\'ric andrei,,0000,\N
+146,andress,ursula,1936,\N
+147,anthony,andrews,1948,\N
+148,brian andrews,,0000,\N
+149,carver daniel,andrews,1909,\N
+150,\'eamonn,andrews,0000,\N
+151,edward,andrews,1914,\N
+152,harry,andrews,1911,\N
+153,julia,wells,1934,\N
+154,,andrews,n.a.,\N
+155,stanley,andrews,1892,\N
+156,heather,angel,1909,\N
+157,anna maria,pierangeli,1932,\N
+158,the hells angels,,0000,\N
+159,maya,angelou,1929,\N
+160,m.a.,findlay,1909,\N
+161,ivy angustain,,0000,\N
+162,evelyn,ankers,1918,\N
+163,stephen,morris,1896,\N
+164,francesca,annis,1944,\N
+165,ann-margret,olsson,1941,\N
+166,michael,ansara,1922,\N
+167,karen anspach,,0000,\N
+168,susan,anspach,1939,\N
+169,adam ant,,0000,\N
+170,lysette anthony,,0000,\N
+171,michael anthony,,0000,\N
+172,susan anton,,0000,\N
+173,laura antonelli,,0000,\N
+174,lou antonio,,0000,\N
+175,scott,antony,1950,\N
+176,burnu,davenbort,1920,\N
+177,alfonso arau,,0000,\N
+178,roscoe (fatty),arbuckle,1887,\N
+179,allan arbus,,0000,\N
+180,anne,archer,0000,\N
+181,fanny,ardant,1949,\N
+182,eunice,quedens,1912,\N
+183,carmen argenziano,,0000,\N
+184,adam arkin,,0000,\N
+185,alan,arkin,1934,\N
+186,david arkin,,0000,\N
+187,cornelius,van mattemore,1898,\N
+188,leonie,bathiat,1898,\N
+189,george augustus,andrews,1868,\N
+190,pedro,armendariz,1912,\N
+191,henry,armetta,1888,\N
+192,bess,armstrong,0000,\N
+193,curtis armstrong,,0000,\N
+194,louis `satchmo',armstrong,1900,\N
+195,r.g.,armstrong,1920,\N
+196,donald robert,smith,1890,\N
+197,todd,armstrong,1939,\N
+198,yvonne,arnaud,1892,\N
+199,lucie,arnaz,1951,\N
+200,desiderio,arnaz y de acha,1915,\N
+201,desi,arnaz,1953,\N
+202,peter arne,albrecht,1920,\N
+203,james,aurness,1923,\N
+204,jeanetta arnette,,0000,\N
+205,guenther,schneider,1890,\N
+206,mark arnott,,0000,\N
+207,charles,arnt,1908,\N
+208,rosanna arquette,,0000,\N
+209,antonin,artaud,1895,\N
+210,bernice,frankel,1923,\N
+211,g.k.a.,brest,1899,\N
+212,gladys,greene,1905,\N
+213,linda,arvidson-griffith,1884,\N
+214,leslie ash,,0000,\N
+215,dame peggy,ashcroft,1907,\N
+216,jane,asher,1946,\N
+217,ren,asherson,1920,\N
+218,e.a.,cooper,1904,\N
+219,elizabeth,cole,1939,\N
+220,jennifer ashley,,0000,\N
+221,john ashley,,0000,\N
+222,gregoire asian,,0000,\N
+223,luke,askew,0000,\N
+224,arthur,askey,1900,\N
+225,edward,asner,1929,\N
+226,chuck aspegren,,0000,\N
+227,armand assante,,0000,\N
+228,asta,,0000,\N
+229,adele astaire,,0000,\N
+230,frederick,austerlitz,1899,\N
+231,nils,asther,1897,\N
+232,john,astin,1930,\N
+233,patty,duke astin,1946,\N
+234,gertrude,astor,1887,\N
+235,lucille,langehanke,1906,\N
+236,william,atherton,1947,\N
+237,christopher,atkins,1961,\N
+238,eileen,atkins,1934,\N
+239,yasuo,tadoroko,1928,\N
+240,sir richard,attenborough,1923,\N
+241,malcolm,atterbury,1907,\N
+242,edith,atwater,1911,\N
+243,lionel,atwill,1885,\N
+244,kim atwood,,0000,\N
+245,brigitte auber,,0000,\N
+246,ren\'e,auberjonois,1940,\N
+247,leonore,aubert,1913,\N
+248,anne-jes\`e,benard,1929,\N
+249,joss auckland,,0000,\N
+250,vladimir,vujovic,1922,\N
+251,maxine,audley,1923,\N
+252,st\'ephane,audran,1932,\N
+253,audrey,,0000,\N
+254,mischa,ounskowsky,1905,\N
+255,claudine,auger,1942,\N
+256,mary,cragg,1870,\N
+257,jean-pierre,salomons,1909,\N
+258,john austin,,0000,\N
+259,daniel,auteuil,0000,\N
+260,gene,autry,1907,\N
+261,francis,avallone,1939,\N
+262,luis avalos,,0000,\N
+263,doe,avedon,1928,\N
+264,brian avery,,0000,\N
+265,margaret avery,,0000,\N
+266,nina axelrod,,0000,\N
+267,hoyt axton,,0000,\N
+268,george ayer,,0000,\N
+269,dan,aykroyd,0000,\N
+270,felix edward,aylmer jones,1889,\N
+271,agnes,hinkle,1896,\N
+272,gregg ayres,,0000,\N
+273,lewis,ayer,1908,\N
+274,robert,ayres,1914,\N
+275,randle,ayrton,1869,\N
+276,shabana azmi,,0000,\N
+277,shahnour,aznavurjan,1924,\N
+278,candy azzara,,0000,\N
+279,hank azaria,,1964,\N
+280,betty jean,perske,1924,\N
+281,barbara,bach,1951,\N
+282,pamela, bach,1962,\N
+283,fn,bn,1942,\N
+284,jim,backus,1913,\N
+285,kevin bacon,,0000,\N
+286,hermione,baddely,0000,\N
+287,alan,badel,1923,\N
+288,jacob henry,baer,1915,\N
+289,harry baer,,0000,\N
+290,max,baer,1909,\N
+291,pearl,bailey,1918,\N
+292,barbara,bain,1932,\N
+293,fay,bainter,1892,\N
+294,scott,baio,1961,\N
+295,blanche baker,,0000,\N
+296,carrol,baker,1931,\N
+297,diane,baker,1936,\N
+298,hylda,baker,1909,\N
+299,joe don,baker,1943,\N
+300,josephine,baker,1906,\N
+301,kathy baker,,0000,\N
+302,kenny,baker,1912,\N
+303,ruby baker,,0000,\N
+304,sir stanley,baker,1927,\N
+305,tom,baker,1935,\N
+306,bob,balaban,1965,\N
+307,jill,balcon,1925,\N
+308,rebecca balding,,0000,\N
+309,adam baldwin,,0000,\N
+310,alec,baldwin,195x,\N
+311,daniel, baldwin,0000,\N
+312,stephen, baldwin,1963+,\N
+313,william (billy),baldwin,1963,\N
+314,betty,balfour,1903,\N
+315,mireille,balin,1909,\N
+316,florinda balkan,,0000,\N
+317,lucille,ball,1910,\N
+318,vincent,ball,*,\N
+319,catherine (kaye),balotta,1926,\N
+320,martin,balsam,1919,\N
+321,anna maria, italiano,1931,\N
+322,george,bancroft,1882,\N
+323,antonio banderas,,1960,\N
+324,victor banerjee,,0000,\N
+325,donatas banionis,,0000,\N
+326,alex bank,,0000,\N
+327,tallulah,bankhead,1902,\N
+328,aaron banks,,0000,\N
+329,leslie,banks,1890,\N
+330,vilma,lonchit,1902,\N
+331,ian,bannen,1928,\N
+332,john,banner,1910,\N
+333,theodosia,goodman,1890,\N
+334,olga baraclanova,,0000,\N
+335,christine baranski,,0000,\N
+336,vanna,barba,1967,\N
+337,adrienne,barbeau,1949,\N
+338,george,barbier,1865,\N
+339,joyce barbour,,0000,\N
+340,camille,javal,1933,\N
+341,mijanou,javal,0000,\N
+342,sonny barger,,0000,\N
+343,marjorie,fisher,1915,\N
+344,norah,baring,1907,\N
+345,erik,barker,1912,\N
+346,ronnie,barker,1929,\N
+347,alexander,barker,0000,\N
+348,ellen,barkin,1954,\N
+349,marcie barkin,,0000,\N
+350,mikhail barishnikov,,0000,\N
+351,gitelle,barnes,1905,\N
+352,jake barnes,,0000,\N
+353,joanna,barnes,1934,\N
+354,julian barnes,,0000,\N
+355,priscilla barnes,,0000,\N
+356,charlie barnett,,0000,\N
+357,nella barnier,,0000,\N
+358,sandy baron,,0000,\N
+359,pierre barouh,,0000,\N
+360,maria barranco,,0000,\N
+361,jean-louis,barrault,1910,\N
+362,marie-christine,barrault,1944,\N
+363,edith,williams,1907,\N
+364,lucille,kelly,1914,\N
+365,barbara,barrie,0000,\N
+366,mona,smith,1909,\N
+367,wendy,jenkins,1912,\N
+368,edgar,barrier,1906,\N
+369,maurice barrier,,0000,\N
+370,george barris,,0000,\N
+371,eugene,klass,1921,\N
+372,joan,barry,1903,\N
+373,diane blanche,barrymore blythe,1921,\N
+374,drew,barrymore,1976,\N
+375,edith mae,blythe,1879,\N
+376,john,blythe,1882,\N
+377,john drew,blythe barrymore,1932,\N
+378,john barrymore~iii,,0000,\N
+379,lionel,blythe,1878,\N
+380,herbert,blythe,0000,\N
+381,paul,bartels,1940,\N
+382,eddie barth,,0000,\N
+383,richard,barthelmess,1895,\N
+384,frederick,llewellyn,1924,\N
+385,eva,sj\"oke,1926,\N
+386,james,barton,1890,\N
+387,richard,basehart,1915,\N
+388,tony basil,,0000,\N
+389,kim,basinger,1953,\N
+390,william,basie,0000,\N
+391,richard,baskin,0000,\N
+392,alfie,bass,0000,\N
+393,lena,basquette,1907,\N
+394,albert,basserman,1867,\N
+395,angela,bassett,1958,\N
+396,steve bassett,,0000,\N
+397,alexandra,bastedo,1946,\N
+398,alan,bates,1934,\N
+399,barbara bates,,0000,\N
+400,florence,rabe,1888,\N
+401,kathy,bates,1958,\N
+402,michael,bates,1920,\N
+403,belinda bauer,,0000,\N
+404,steven bauer,,0000,\N
+405,harry,baur,1880,\N
+406,barbara,baxley,0000,\N
+407,alan,baxter,1908,\N
+408,ann,baxter,1923,\N
+409,feodora,forde,1909,\N
+410,warner,baxter,1889,\N
+411,rosalba,neri,0000,\N
+412,nathalie,baye,0000,\N
+413,gary bayer,,0000,\N
+414,geoffrey,bayldon,1924,\N
+415,stephanie,beacham,1949,\N
+416,alexander,bliedung,1909,\N
+417,jennifer beals,,0000,\N
+418,emanuelle,b\'eart,1965,\N
+419,,the beatles,n.a.,\N
+420,ned,beatty,1937,\N
+421,robert,beatty,1909,\N
+422,warren,beaty,1937,\N
+423,louise,beavers,1902,\N
+424,john c. becher,,0000,\N
+425,sidney,bechet,1892,\N
+426,jennifer,beck,1974,\N
+427,john,beck,1943,\N
+428,kimberly beck,,0000,\N
+429,michael,beck,1948,\N
+430,stanley beck,,0000,\N
+431,barry beckerman,,0000,\N
+432,scotty,beckett,1929,\N
+433,reginald,beckwith,1908,\N
+434,don,beddoe,1888,\N
+435,bonnie,bedelia,1946,\N
+436,kabir,bedi,1935,\N
+437,alfonso,bedoya,1904,\N
+438,molly bee,,0000,\N
+439,noah,beery,1884,\N
+440,noah,beery~jr.,1913,\N
+441,wallace,beery,1880,\N
+442,hagan beggs,,0000,\N
+443,ed,begley,1901,\N
+444,ed,begley~jr.,0000,\N
+445,harry,belafonte,1927,\N
+446,charles belcher,,0000,\N
+447,barbara geddes,lewis, 1927,\N
+448,ann,bell,0000,\N
+449,james,bell,1891,\N
+450,marie-jeanne,bellon-downey,1900,\N
+451,george f.,beldam,1905,\N
+452,tom,bell,1933,\N
+453,margaret,philpott,1903,\N
+454,ralph,bellamy,1904,\N
+455,harry,bellaver,1905,\N
+456,kathleen,beller,1955,\N
+457,agostina belli,,0000,\N
+458,olga bellin,,0000,\N
+459,jean,belmondo,1933,\N
+460,belmonts,,0000,\N
+461,lionel,belmore,1867,\N
+462,richard beltran,,0000,\N
+463,robert beltran,,0000,\N
+464,jim belushi,,0000,\N
+465,john,belushi,1949,\N
+466,richard belzer,,0000,\N
+467,pat benatar,,0000,\N
+468,brian benben,,0000,\N
+469,robert,benchley,1889,\N
+470,william,bendix,1906,\N
+471,billy,benedict,1906,\N
+472,dirk,niewoehner,1945,\N
+473,paul benedict,,0000,\N
+474,riccardo,benedetto,1916,\N
+475,annette,bening,0000,\N
+476,richard,benjamin,1938,\N
+477,belle,bennett,1889,\N
+478,barbara,bennett,1902,\N
+479,belle,bennett,1891,\N
+480,herman,brix,1909,\N
+481,constance,bennett,1904,\N
+482,hywel,bennett,1944,\N
+483,jill,bennett,1944,\N
+484,joan,bennett,1910,\N
+485,joe bennett,,0000,\N
+486,john,bennett,1928,\N
+487,marjorie,bennett,1894,\N
+488,richard,bennett,1873,\N
+489,anette,benning,1958,\N
+490,benjamin,kubelsky,1894,\N
+491,martin,benson,1918,\N
+492,robert,segal,1956,\N
+493,michael,bentine,1922,\N
+494,barbi benton,,0000,\N
+495,susanne benton,,0000,\N
+496,iris berben,,0000,\N
+497,tom,berenger,1950,\N
+498,marisa,berenson,1946,\N
+499,judith-marie bergan,,0000,\N
+500,candice,bergen,1946,\N
+501,nellie,burgin,1929,\N
+502,william bergen,,0000,\N
+503,helmut,steinberger,1944,\N
+504,katya berger,,0000,\N
+505,senta,berger,1941,\N
+506,sidney berger,,1962,\N
+507,william berger,,0000,\N
+508,jacques,bergerac,1927,\N
+509,herbert,berghof,1909,\N
+510,ingrid,bergman,1915,\N
+511,harold bergman,,0000,\N
+512,henry bergman,,0000,\N
+513,sandahl bergman,,0000,\N
+514,tracy bergman,,0000,\N
+515,elisabeth,ettel,1898,\N
+516,thommy bergren,,0000,\N
+517,steven berkoff,,0000,\N
+518,mendel,berlinger,1908,\N
+519,israel,baline,1888,\N
+520,jean,berlin,0000,\N
+521,shelley,berman,1926,\N
+522,susan berman,,0000,\N
+523,jason bernhard,,0000,\N
+524,sandra,bernhard,0000,\N
+525,herschel,bernardi,1923,\N
+526,rosalie,bernard,1844,\N
+527,elizabeth berridge,,0000,\N
+528,phillip berrigan,,0000,\N
+529,chuck berry,,0000,\N
+530,halle,berry,196x,\N
+531,jules,paufichet,1883,\N
+532,ken,berry,1933,\N
+533,michael berryman,,0000,\N
+534,marina,berti,1928,\N
+535,bibi besch,,0000,\N
+536,joe,besser,1916,\N
+537,eugenie,besserer,1870,\N
+538,edna,best,1900,\N
+539,willie,best,1916,\N
+540,barbara bestar,,0000,\N
+541,jack beutel,,0000,\N
+542,turhan,bey,0000,\N
+543,richard,beymer,1939,\N
+544,daniela,bianchi,1942,\N
+545,charles,bickford,1889,\N
+546,michael biehn,,0000,\N
+547,ramon bieri,,0000,\N
+548,theodore,bikel,1924,\N
+549,tony,bill,1940,\N
+550,peter billingsley,,0000,\N
+551,herman,bing,1889,\N
+552,geoff binney,,0000,\N
+553,edward,binns,0000,\N
+554,julliette,binoche,1964,\N
+555,paul,birch,1900,\N
+556,brad bird,,0000,\N
+557,norman,bird,1920,\N
+558,david,birney,1944,\N
+559,jennifer bishop,,0000,\N
+560,pat bishop,,0000,\N
+561,jacqueline,brown,1914,\N
+562,whit,bissell,1919,\N
+563,jacqueline,bisset,1944,\N
+564,bonnie bittner,,0000,\N
+565,bill,bixby,1934,\N
+566,gunnar,gunnar bj\"ornstrand,0000,\N
+567,karen,ziegeler,1942,\N
+568,honor,blackman,1926,\N
+569,joan,blackman,1938,\N
+570,sidney,blackmer,1895,\N
+571,ruben,blades,1948,\N
+572,gerard,blain,1930,\N
+573,vivienne,stapleton,1921,\N
+574,elizabeth,boger,1923,\N
+575,martha,lafferty,1921,\N
+576,linda,blair,1959,\N
+577,beverly,neill,1929,\N
+578,jon blake,,0000,\N
+579,blossom, mcdonald,1896,\N
+580,michael (bobby),gubitosi,1933,\N
+581,whitney,blake,0000,\N
+582,colin,blakely,1930,\N
+583,susan,blakely,1950,\N
+584,ronee,blakley,1946,\N
+585,michel,blanc,0000,\N
+586,pierre,blanchar,1892,\N
+587,alan blanchard,,0000,\N
+588,mary,blanchard,1927,\N
+589,pierre blanchard,,0000,\N
+590,clara,blandick,1880,\N
+591,elizabeth,jung,1910,\N
+592,mark blankfield,,0000,\N
+593,roger blay,,0000,\N
+594,debra blee,,0000,\N
+595,brian,blessed,1937,\N
+596,bernard,blier,1916,\N
+597,dan,blocker,1928,\N
+598,michael blodgett,,0000,\N
+599,joan,blondell,1909,\N
+600,claire,bloom,1931,\N
+601,verna,bloom,0000,\N
+602,eric,blore,1887,\N
+603,monte,blue,1890,\N
+604,ann,blyth,1928,\N
+605,elizabeth blythe,slaughter,1893,\N
+606,john,blythe,1921,\N
+607,eleanor,boardman,1898,\N
+608,hart bochner,,0000,\N
+609,lloyd,bochner,1924,\N
+610,karlheinz,boehm,1928,\N
+611,paul boensh~iii,,0000,\N
+612,derek,van den bogaerd,1921,\N
+613,humphrey deforest,bogart,1899,\N
+614,roman,bohnen,1894,\N
+615,richard bohringer,,0000,\N
+616,curt,bois,1900,\N
+617,mary,boland,1880,\N
+618,ray,bolger,1904,\N
+619,tiffany,bolling,0000,\N
+620,joseph,bologna,1938,\N
+621,fortunio,bonanova,1893,\N
+622,derek,bond,1919,\N
+623,lillian,bond,1910,\N
+624,sudie bond,,0000,\N
+625,ward,bond,1903,\N
+626,natalya bondartchuk,,0000,\N
+627,sergei,bondartchuk,1920,\N
+628,beulah,bondy,1889,\N
+629,peter bonerz,,0000,\N
+630,sandrine,bonnaire,1967,\N
+631,beverly bonner,,0000,\N
+632,val\'erie bonnier,,0000,\N
+633,salvatore, bono,1940,\N
+634,,bonzo,0000,\N
+635,pat,boone,1934,\N
+636,richard,boone,1917,\N
+637,john,boorman,1933,\N
+638,connie booth,,0000,\N
+639,david,geeves-booth,1930,\N
+640,thelma ford,booth,1907,\N
+641,powers,boothe,0000,\N
+642,paola borboni,,0000,\N
+643,matt borel,,0000,\N
+644,veda,borg,1915,\N
+645,dirk borgarde,,0000,\N
+646,victor,borge,0000,\N
+647,nelly borgeaud,,0000,\N
+648,ermes,borgnino,1915,\N
+649,tom,bosley,1927,\N
+650,barry,bostwick,1946,\N
+651,benjamin bottoms,,0000,\N
+652,joseph,bottoms,1954,\N
+653,sam,bottoms,1960,\N
+654,timothy,bottoms,1949,\N
+655,barbara,gutscher,1943,\N
+656,daniel boulanger,,0000,\N
+657,mathew boulton,,0000,\N
+658,carole bouquet,,0000,\N
+659,michel,bouquet,1926,\N
+660,charon bourke,,0000,\N
+661,phillip,bourneuf,1912,\N
+662,julie bovasso,,0000,\N
+663,tony bova,,0000,\N
+664,clara,bow,1905,\N
+665,dorris,bowdon,1915,\N
+666,elizabeth bowen,,0000,\N
+667,roger bowen,,0000,\N
+668,malick bowes,,0000,\N
+669,david robert,jones,1947,\N
+670,judy,bowker,1954,\N
+671,lee,bowman,1910,\N
+672,bruce,boxleitner,1950,\N
+673,dorothy boyd,,0000,\N
+674,guy boyd,,0000,\N
+675,william,millar,1928,\N
+676,william,boyd,1895,\N
+677,william `stage',boyd,0000,\N
+678,charles,boyer,1899,\N
+679,lara flynn,boyle,1970,\N
+680,peter,boyle,1933,\N
+681,the bowery boys,,n.a.,\N
+682,reizel,bozyk,1914,\N
+683,marcel,bozzuffi,1929,\N
+684,eddie,bracken,1920,\N
+685,jean bradin,,0000,\N
+686,terry bradshaw,,0000,\N
+687,alice,brady,1892,\N
+688,pat, brady,0000,\N
+689,rob brady,,0000,\N
+690,gerald,tierney,1924,\N
+691,sonia,braga,0000,\N
+692,dame lilian,braithwaite,1873,\N
+693,wilfrid,brambell,1912,\N
+694,kenneth,branagh,1960,\N
+695,miriam,brickman,dob,\N
+696,a.wilford,brimley,0000,\N
+697,kenneth branagh,,0000,\N
+698,neville,brand,1921,\N
+699,klaus maria,brandauer,1944,\N
+700,marlon,brando,1924,\N
+701,henry,kleinbach,1912,\N
+702,michael,brandon,0000,\N
+703,betsy, brantley,0000,\N
+704,claude,brasseur,1936,\N
+705,pierre,brasseur,1903,\N
+706,rossano,brazzi,1916,\N
+707,larry breeding,,0000,\N
+708,hanna brejchova,,0000,\N
+709,el,brendel,1890,\N
+710,eileen,brennan,1935,\N
+711,walter,brennan,1894,\N
+712,eve,brent,1930,\N
+713,mary elizabeth,riggs,1899,\N
+714,george brent,nolan,1904,\N
+715,timothy brent,,0000,\N
+716,edmund,mclaverty,1882,\N
+717,fn,bn,0000,\N
+718,felix,bressart,1890,\N
+719,jeremy,huggins,1935,\N
+720,jarn-claudegn, brialy,0000,\N
+721,david,brian,1914,\N
+722,louise,dantzler,1908,\N
+723,fanny,borach,1891,\N
+724,gn,bn,0000,\N
+725,beau,bridges,1941,\N
+726,jeff,bridges,1949,\N
+727,lloyd,bridges,1913,\N
+728,a. wilford, brimley,0000,\N
+729,carl,pedersen,1895,\N
+730,maybritt,wilkens,1933,\N
+731,susanne,cupito,1953,\N
+732,barbara brantingham,crukor,1920,\N
+733,pamela,britton,1923,\N
+734,tony,britton,1925,\N
+735,herman,brix,1909,\N
+736,peter brocco,,0000,\N
+737,phil brock,,0000,\N
+738,gary brockette,,0000,\N
+739,helen,broderick,1890,\N
+740,james,broderick,1927,\N
+741,matthew,broderick,1951,\N
+742,john,stevens,1919,\N
+743,estelle,brody,1905,\N
+744,james,brolin,1940,\N
+745,j.~edward,bromberg,1903,\N
+746,john,bromfield,1922,\N
+747,eleanor,bron,1934,\N
+748,charles,buchinski,1922,\N
+749,clifford,brook,1887,\N
+750,faith,brook,1922,\N
+751,beatrice,peterson,1914,\N
+752,albert lawrence,einstein,1947,\N
+753,elisabeth brooks,,0000,\N
+754,geraldine,stroock,1925,\N
+755,hildy brooks,,0000,\N
+756,james l., brooks,0000,\N
+757,louise brooks,,0000,\N
+758,melvin,kaminsky,1926,\N
+759,phyllis,weiler,1914,\N
+760,rand,brooks,1918,\N
+761,ray,brooks,1939,\N
+762,edward s.,brophy,1895,\N
+763,pierce brosnan,,1952,\N
+764,antonia brough,,0000,\N
+765,mary,brough,1863,\N
+766,blair,brown,1948,\N
+767,bruce brown,,0000,\N
+768,bryan,brown,1947,\N
+769,eric brown,,0000,\N
+770,juanita,brown,0000,\N
+771,gary brown,,0000,\N
+772,gaye brown,,0000,\N
+773,george,brown,1943,\N
+774,georgia,klot,1933,\N
+775,james,brown,1920,\N
+776,janet brown,,0000,\N
+777,jim,brown,1936,\N
+778,joe e.,brown,1892,\N
+779,john mack,brown,1904,\N
+780,ken brown,,0000,\N
+781,lou brown,,0000,\N
+782,peter brown,,0000,\N
+783,reb brown,,0000,\N
+784,roger aaron brown,,0000,\N
+785,tom,brown,1913,\N
+786,smylla,brind,1928,\N
+787,wally,brown,1989,\N
+788,coral,browne,1913,\N
+789,,browne,0000,\N
+790,roscoe lee,browne,1925,\N
+791,marden,mcbroom,1914,\N
+792,lenny bruce,,0000,\N
+793,bruce,nigel,1895,\N
+794,helen virginia,briggs,1910,\N
+795,nadja brunkhorst,,0000,\N
+796,phil bruns,,0000,\N
+797,dora,broadbent,1923,\N
+798,jane,o'brien,1918,\N
+799,michael,bryant,1928,\N
+800,nana,bryant,1888,\N
+801,pamela bryant,,0000,\N
+802,youl,bryner,1915,\N
+803,john,buchan,0000,\N
+804,jack,buchanan,1891,\N
+805,horst,buchholz,1933,\N
+806,betty buckley,,0000,\N
+807,john buckwalter,,0000,\N
+808,genevieve,bujold,1942,\N
+809,raymond buktencia,,0000,\N
+810,peter,bull,1912,\N
+811,jeremy bulloch,,0000,\N
+812,sandra,bullock,1967,\N
+813,avis,bunnage,0000,\N
+814,victor,buono,1938,\N
+815,robert bur,,0000,\N
+816,burdinelli,valerie,1960,\N
+817,eric burdon,,0000,\N
+818,scott burgess,,0000,\N
+819,gary burghoff,,0000,\N
+820,mary william ethelbert appleton,burke,1885,\N
+821,james,burke,1886,\N
+822,paul,burke,1926,\N
+823,dennis burkley,,0000,\N
+824,tom burlinson,,0000,\N
+825,carol,burnett,1933,\N
+826,gn,burnette,0000,\N
+827,bob,burns,1893,\N
+828,catherine,burns,1945,\N
+829,nathan,birnbaum,1896,\N
+830,marilyn burns,,0000,\N
+831,mark,burns,1936,\N
+832,stephan w. burns,,0000,\N
+833,tim burns,,0000,\N
+834,raymond,burr,1917,\N
+835,terri burrell,,0000,\N
+836,jackie burroughs,,0000,\N
+837,bill burrows,,0000,\N
+838,edna,gilhooley,1932,\N
+839,jeff burton,,0000,\N
+840,kate, burton,1958,\N
+841,levar,burton,0000,\N
+842,richard,jenkins,1925,\N
+843,robert,burton,1894,\N
+844,steve,buscemi,1958,\N
+845,mae,busch,1879,\N
+846,gary,busey,1944,\N
+847,billy,bush,0000,\N
+848,anthony,bushell,1904,\N
+849,francis x.,bushman,1883,\N
+850,robert, butler,0000,\N
+851,william butler,,0000,\N
+852,yancy,butler,0000,\N
+853,charles,butterworth,1896,\N
+854,aaron,chwatt,1918,\N
+855,pat buttram,,0000,\N
+856,ruth,buzzi,0000,\N
+857,spring,byington,1893,\N
+858,john byner,,0000,\N
+859,ralph,byrd,1909,\N
+860,tom byrd,,0000,\N
+861,anne byrne,,0000,\N
+862,eddie,byrne,1911,\N
+863,martha byrne,,0000,\N
+864,kathleen,byron,0000,\N
+865,walter,butler,1899,\N
+866,james,caan,1938,\N
+867,etienne pelissier,debujac,1904,\N
+868,sebastian,cabot,1918,\N
+869,jean,cadell,1884,\N
+870,sid,caesar,1922,\N
+871,cheri caffaro,,0000,\N
+872,nicolas,coppola,1964,\N
+873,jean,cagney,1919,\N
+874,james,cagney,1899,\N
+875,william,cagney,0000,\N
+876,howard,cohen,1926,\N
+877,maurice,micklewhite,1933,\N
+878,shakira caine,,0000,\N
+879,anna,calder-marshall,1949,\N
+880,carl,vogt,1895,\N
+881,frances timothy,durgin,1922,\N
+882,joseph cali,,0000,\N
+883,martin,caliniff,1935,\N
+884,maria,kalogeropolos,1923,\N
+885,joseph,spurin-calleia,1897,\N
+886,simon callow,,0000,\N
+887,cabell,calloway,1907,\N
+888,donald,calthrop,1888,\N
+889,phyllis,bickle,1915,\N
+890,corinne,dibos,1925,\N
+891,wimberly,calvin goodman jr.,1918,\N
+892,godfrey,cambridge,1929,\N
+893,nathan,cox,1910,\N
+894,coleen camp,,0000,\N
+895,hamilton camp,,0000,\N
+896,rosemary camp,,1913,\N
+897,frank campanella,,0000,\N
+898,joseph,campanella,1927,\N
+899,beatrice,campbell,1923,\N
+900,william o.,campbell,0000,\N
+901,cheryl campbell,,0000,\N
+902,colin,campbell,1883,\N
+903,colin,campbell,1937,\N
+904,daisy campbell,,0000,\N
+905,eric,campbell,1878,\N
+906,glen,campbell,1935,\N
+907,william,campbell,1926,\N
+908,gianna maria,canale,1927,\N
+909,john,candy,1951,\N
+910,james canning,,0000,\N
+911,samile diane,friesen,1938,\N
+912,freedy cannon,,0000,\N
+913,j.d.,cannon,1922,\N
+914,kathy cannon,,0000,\N
+915,juliet,canova,1916,\N
+916,,cantil\`ene,0000,\N
+917,mario,moreno,1911,\N
+918,edward israel,itskowitz,1892,\N
+919,truman,capote,1925,\N
+920,ahna capri,,0000,\N
+921,kate capshaw,,0000,\N
+922,germaine,lefebre,1933,\N
+923,irene cara,,0000,\N
+924,richard cardella,,0000,\N
+925,pat cardi,,0000,\N
+926,claudia,cardinale,1939,\N
+927,arthur carewe,,0000,\N
+928,harry,carey,1878,\N
+929,harry,carey jr.,0000,\N
+930,joyce,lawrence,1898,\N
+931,leonard,carey,1893,\N
+932,macdonald,carey,1913,\N
+933,philip,carey,1925,\N
+934,ron carey,,0000,\N
+935,timothy,carey,1925,\N
+936,patrick,cargill,1918,\N
+937,tim carhart,,0000,\N
+938,leo carillo,,0000,\N
+939,george carlin,,0000,\N
+940,anne carlisle,,0000,\N
+941,catherine,conn holzman,1915,\N
+942,johanna carlo,,0000,\N
+943,charles carlson,,0000,\N
+944,karen carlson,,0000,\N
+945,moose carlson,,0000,\N
+946,richard,carlson,0000,\N
+947,ingmari carlssen,,0000,\N
+948,pamela carme,,0000,\N
+949,julie carmen,,0000,\N
+950,hoagland howard,carmichael,1899,\N
+951,ian,carmichael,1920,\N
+952,count tullio,carminati de brambilla,1894,\N
+953,judy,carne,1939,\N
+954,art,carney,1918,\N
+955,george,carney,1887,\N
+956,angela carnon,,0000,\N
+957,morris,carnovsky,1897,\N
+958,maryse,mourer,1922,\N
+959,evelyn,lederer,1907,\N
+960,leslie,caron,1931,\N
+961,horace carpenter,,0000,\N
+962,linda carpenter,,0000,\N
+963,carpin,,0000,\N
+964,carol carr,,0000,\N
+965,charmian,carr,1944,\N
+966,darleen,carr,0000,\N
+967,mary,carr,1874,\N
+968,paul carr,,0000,\N
+969,bruce carradine,,0000,\N
+970,john arthur,carradine,1940,\N
+971,richmond reed,carradine,1906,\N
+972,keith,carradine,1945,\N
+973,robert,carradine,1954,\N
+974,barbara,carrera,1945,\N
+975,jim,carrey,0000,\N
+976,matthew carriere,,0000,\N
+977,pat carrol,,0000,\N
+978,regina carrol,,0000,\N
+979,julian,lafaye,1906,\N
+980,leo g.,carroll,1892,\N
+981,marie madelaine bernadette,o'carrol,1906,\N
+982,ann,lahiff,1905,\N
+983,regina,carrol,0000,\N
+984,charles,carson,1898,\N
+985,jack,carson,1910,\N
+986,john david,carson,1927,\N
+987,kit carson,,0000,\N
+988,ann,carter,1936,\N
+989,ben,carter,1911,\N
+990,helen,rickerts,1923,\N
+991,helena (helly) bonham,carter,1966,\N
+992,john,chakrin,1922,\N
+993,jim carter,,0000,\N
+994,lydia carter,,0000,\N
+995,lynda carter,,0000,\N
+996,t.k. carter,,0000,\N
+997,veronica,cartwright,1949,\N
+998,anthony,caruso,1913,\N
+999,louise spilger,murray,1898,\N
+1000,maria casar\`es,quiroga,1922,\N
+1001,bernie,casey,0000,\N
+1002,johnny,cash,1932,\N
+1003,rosalind,cash,1945,\N
+1004,john,cassavetes,1929,\N
+1005,jean-pierre,crochon,1932,\N
+1006,seymour,cassel,1935,\N
+1007,jack,cassidy,0000,\N
+1008,joanna,cassidy,1944,\N
+1009,ted,cassidy,1932,\N
+1010,jeanpierre castaldi,,0000,\N
+1011,richard,castellano,1931,\N
+1012,william,schloss,1914,\N
+1013,phoebe,cates,1963,\N
+1014,walter,catlett,1889,\N
+1015,kim cattrall,,0000,\N
+1016,joan,caulfield,1922,\N
+1017,olimpia cavalli,,0000,\N
+1018,paul,cavanagh,1895,\N
+1019,hobart,cavanaugh,1886,\N
+1020,dick cavett,,0000,\N
+1021,joseph,cawthorn,1868,\N
+1022,john,cazale,1936,\N
+1023,christopher cazenove,,0000,\N
+1024,adolfo,celi,1922,\N
+1025,gino,cervi,1901,\N
+1026,renzo cesana,,0000,\N
+1027,june chadwick,,0000,\N
+1028,george,chakiris,1933,\N
+1029,william challee,,0000,\N
+1030,richard,chamberlain,1935,\N
+1031,wilt chamberlain,,0000,\N
+1032,marilyn chambers,,0000,\N
+1033,lolita, chammah,1983,\N
+1034,majorie,belcher,1923,\N
+1035,jack,chan,0000,\N
+1036,chick,chandler,1905,\N
+1037,george,chandler,1902,\N
+1038,helen,chandler,1909,\N
+1039,ira,grossel,1918,\N
+1040,joan,chandler,1923,\N
+1041,john davis,chandler,1937,\N
+1042,simon chandler,,0000,\N
+1043,alonzo,chaney,1883,\N
+1044,creighton,chaney,1906,\N
+1045,carol,channing,1921,\N
+1046,margo channing,,0000,\N
+1047,susan,channing,1944,\N
+1048,sir charlie,chaplin,1889,\N
+1049,esme,chaplin,0000,\N
+1050,geraldine,chaplin,1944,\N
+1051,josephine chaplin,,0000,\N
+1052,oona,chaplin,1926,\N
+1053,sydney,chaplin,1926,\N
+1054,edward,chapman,1901,\N
+1055,geraldine chapman,,0000,\N
+1056,graham,chapman,0000,\N
+1057,lonny,chapman,0000,\N
+1058,marguerite,chapman,1916,\N
+1059,tula ellice,finklea,1921,\N
+1060,bobby h. charles,,0000,\N
+1061,ray charles,robinson,1930,\N
+1062,ian,charleson,0000,\N
+1063,henri charrieri,,0000,\N
+1064,spencer,charters,1878,\N
+1065,charles,parrott,1893,\N
+1066,chevy,chase,1949,\N
+1067,stephen chase,,0000,\N
+1068,martine chassaing,,0000,\N
+1069,marvin chatinover,,0000,\N
+1070,soumitra,chatterjee,19bb,\N
+1071,ruth,chatterton,1893,\N
+1072,ernest,evans,1941,\N
+1073,michael,chekhov,1891,\N
+1074,joan chen,,0000,\N
+1075,cherilyn,sarkisian,1946,\N
+1076,patrice chereau,,0000,\N
+1077,nicolai,cherkassov,1903,\N
+1078,virginia,cherrill,1908,\N
+1079,arthur chesney,,0000,\N
+1080,helen chester,,0000,\N
+1081,leslie,cheung,0000,\N
+1082,none,reri,1915+,\N
+1083,maurice,chevalier,1888,\N
+1084,walter,annichiarico,1924,\N
+1085,sonny chiba,,0000,\N
+1086,lois,chiles,1950,\N
+1087,eric,chitty,0000,\N
+1088,rae dawn chong,,1961,\N
+1089,shelby chong,,0000,\N
+1090,thomas chong,,0000,\N
+1091,sarita,choudhury,0000,\N
+1092,navin chowdhury,,0000,\N
+1093,linda cristian,,0000,\N
+1094,suzanne christian,,0000,\N
+1095,audrey,christie,1912,\N
+1096,julie,christie,1940,\N
+1097,dennis,christopher,1955,\N
+1098,kay christopher,,0000,\N
+1099,william christopher,,0000,\N
+1100,william,bn,1951,\N
+1101,berton,churchill,1876,\N
+1102,sarah, lady audley,churchill,0000,\N
+1103,eduardo,cianelli,1887,\N
+1104,diane,cilento,1933,\N
+1105,michael, cimino,1940,\N
+1106,augusta ciolli,,0000,\N
+1107,audrey claire,,0000,\N
+1108,ina,fagan,1892,\N
+1109,jimmy clanton,,0000,\N
+1110,gordon clapp,,0000,\N
+1111,eric clapton,,0000,\N
+1112,mary,clare,1894,\N
+1113,o.b.,clarence,1870,\N
+1114,d. greydon clark,,0000,\N
+1115,candy,clark,1949,\N
+1116,cliff, clark,1893,\N
+1117,bernard,zanville,1913,\N
+1118,ernest,clark,1912,\N
+1119,fred,clark,1914,\N
+1120,ken,clark,0000,\N
+1121,marguerite,clark,1883,\N
+1122,petula,clark,1932,\N
+1123,susan,clark,1940,\N
+1124,mary,klotz,1910,\N
+1125,caitlin clarke,,0000,\N
+1126,sharon d. clarke,,0000,\N
+1127,warren clarke,,0000,\N
+1128,d.a.,clarke-smith,1888,\N
+1129,jill,clayburgh,1945,\N
+1130,ethel,clayton,1884,\N
+1131,john marwood,cleese,1939,\N
+1132,pierre,clementi,1941,\N
+1133,sir john,clements,1910,\N
+1134,david clendinning,,0000,\N
+1135,david clennon,,0000,\N
+1136,corinne clery,,0000,\N
+1137,jimmy cliff,,0000,\N
+1138,montgomery, clift,1920,\N
+1139,clive,greig,1898,\N
+1140,e.e.,clive,1879,\N
+1141,al cliver,,0000,\N
+1142,george,clooney,dob,\N
+1143,rosemary,clooney,1928,\N
+1144,glenn,close,1947,\N
+1145,raymond cloutier,,0000,\N
+1146,suzanne,cloutier,1927,\N
+1147,vera, clouzot,1921,\N
+1148,jennifer cluff,,0000,\N
+1149,alec,clunes,1912,\N
+1150,andy,clyde,1892,\N
+1151,june clyde,,0000,\N
+1152,leo,jacoby,1911,\N
+1153,charles,coburn,1877,\N
+1154,james,coburn,1928,\N
+1155,robert,cochran,1917,\N
+1156,james,coco,1928,\N
+1157,ann,codee,1890,\N
+1158,cote,louis,1884,\N
+1159,george coe,,0000,\N
+1160,peter,coe,1929,\N
+1161,tristam,coffin,0000,\N
+1162,george m.,cohan,1878,\N
+1163,mindy cohen,,0000,\N
+1164,nicholas colasanto,,0000,\N
+1165,lily claudette,chauchoin,1905,\N
+1166,mabel colcord,,0000,\N
+1167,george,cole,1925,\N
+1168,nathaniel,coles,1919,\N
+1169,rosalie cole,,0000,\N
+1170,robert coleby,,0000,\N
+1171,charles,coleman,1885,\N
+1172,dabney,coleman,0000,\N
+1173,gary,coleman,1968,\N
+1174,nancy,coleman,1917,\N
+1175,david colin~jr.,,0000,\N
+1176,jean,colin,1905,\N
+1177,bonar,sullivan,1924,\N
+1178,kenneth colley,,0000,\N
+1179,laura constance,hardie,1878,\N
+1180,dan collier,,0000,\N
+1181,john,collier,1931,\N
+1182,madelyn,jones,1919,\N
+1183,patience,collier,0000,\N
+1184,richard,collier,1919,\N
+1185,william,senior,1866,\N
+1186,patricia,collinge,1892,\N
+1187,cora sue,collins,1927,\N
+1188,eddie,collins,1884,\N
+1189,joan,collins,1933,\N
+1190,lewis,collins,1946,\N
+1191,phil collins,,0000,\N
+1192,ray,collins,1890,\N
+1193,pauline,collins,1940,\N
+1194,roberta collins,,0000,\N
+1195,russell,collins,1897,\N
+1196,dorothy,heermance,1891,\N
+1197,richard,colman,1891,\N
+1198,ronald,colman,1891,\N
+1199,scott colomby,,0000,\N
+1200,miriam colon,,0000,\N
+1201,willie colon,,0000,\N
+1202,jerry,colonna,1903,\N
+1203,tita colorado,,0000,\N
+1204,norman combes,,0000,\N
+1205,frederick combs,,0000,\N
+1206,anjanette,comer,1942,\N
+1207,kay or linda,winters,1913,\N
+1208,the commodores,,n.a.,\N
+1209,betty,compson,1896,\N
+1210,fay,compton,0000,\N
+1211,eleanor,hunt,1907,\N
+1212,oliver conant,,0000,\N
+1213,jeff,conaway,1950,\N
+1214,jules,cowles,1888,\N
+1215,jimmy,conlin,1884,\N
+1216,didi conn,,0000,\N
+1217,betty connell,,0000,\N
+1218,christopher,connelly,0000,\N
+1219,jenifer connelly,,0000,\N
+1220,neil,connery,1938,\N
+1221,thomas,connery,1929,\N
+1222,walter,connolly,1887,\N
+1223,kenneth,connolly,1918,\N
+1224,kevin, connors,1937,\N
+1225,krekor,ohanian,1925,\N
+1226,krekor,ohanian,1925,\N
+1227,krekor,ohanian,1925,\N
+1228,conrad robert,falk,1935,\N
+1229,william,conrad,1920,\N
+1230,hans,conried,1917,\N
+1231,frank,conroy,1890,\N
+1232,john considine,,0000,\N
+1233,tim considine,,0000,\N
+1234,michel constantin,,0000,\N
+1235,richard,conte,1914,\N
+1236,mario conti,,0000,\N
+1237,tom,conti,1945,\N
+1238,frank,converse,1938,\N
+1239,bert,convy,1932,\N
+1240,gareth,carmody,1938,\N
+1241,morgan,conway,1903,\N
+1242,tim,conway,1933,\N
+1243,carolyn conwell,,0000,\N
+1244,jackie,coogan,1914,\N
+1245,clyde,cook,1891,\N
+1246,elisha~jr.,cook,1902,\N
+1247,fielder,cook,1923,\N
+1248,perry cook,,0000,\N
+1249,peter,cook,1937,\N
+1250,ron,cook,0000,\N
+1251,alice cooper,,0000,\N
+1252,frank j.,cooper,1901,\N
+1253,dame gladys,cooper,1888,\N
+1254,jackie,cooper,1921,\N
+1255,melville,cooper,1896,\N
+1256,miriam,cooper,1900,\N
+1257,terrec cooper,,0000,\N
+1258,robert,coote,1909,\N
+1259,francis,coppola,1939,\N
+1260,sofia,coppola,0000,\N
+1261,gretchen,corbett,1947,\N
+1262,harry,corbett,1925,\N
+1263,barry corbin,,0000,\N
+1264,ellen,hansen,1913,\N
+1265,kevin,corcoran,1949,\N
+1266,alexander,viespi,1931,\N
+1267,lola,cordova,0000,\N
+1268,r,cordiaux,1898,\N
+1269,irwin corey,,0000,\N
+1270,jeff,corey,1914,\N
+1271,wendell,corey,1914,\N
+1272,roger, corman,1926,\N
+1273,judy cornwell,,0000,\N
+1274,adrienne,riccobonii,1930,\N
+1275,douglas,corrigan,1907,\N
+1276,lloyd,corrigan,1900,\N
+1277,salvatore corsitto,,0000,\N
+1278,bud,cort,1950,\N
+1279,valentina,cortesa,1924,\N
+1280,joseph cortese,,0000,\N
+1281,ricardo,cortez,1899,\N
+1282,nicholas cortland,,0000,\N
+1283,henry cory,,0000,\N
+1284,wendell cory,,0000,\N
+1285,cybil cosack,,0000,\N
+1286,ernest cosart,,0000,\N
+1287,bill,cosby,1938,\N
+1288,cosell,howard,1919,\N
+1289,rich cosentino,,0000,\N
+1290,james,cossins,1933,\N
+1291,,cossey,1955,\N
+1292,desir\'ee,,0000,\N
+1293,dolores,costello,1905,\N
+1294,helene,costello,1904,\N
+1295,lou,costello,1906,\N
+1296,kevin,costner,1955,\N
+1297,joseph,cotten,1905,\N
+1298,george,coulouris,1903,\N
+1299,carolyn courage,,0000,\N
+1300,gn,famn,1969,\N
+1301,hazel,court,1926,\N
+1302,tom,courtenay,1937,\N
+1303,dame cicely,courtneige,0000,\N
+1304,maggie cousineauarndt,,0000,\N
+1305,jerome,cowan,1897,\N
+1306,herbert `cowboy' coward,,0000,\N
+1307,sir noel,coward,1899,\N
+1308,ronny,cox,1938,\N
+1309,ruth cox,,0000,\N
+1310,wally,cox,1924,\N
+1311,peter coyote,,0000,\N
+1312,clarence linden,crabbe,1907,\N
+1313,donald crabtree,,0000,\N
+1314,john,meador,1912,\N
+1315,michael,gregson,1928,\N
+1316,wendy,craig,1934,\N
+1317,jack crain,,0000,\N
+1318,jeanne,crain,1925,\N
+1319,grant cramer,,0000,\N
+1320,norma crane,,0000,\N
+1321,nick,cravat,1911,\N
+1322,frank,craven,1875,\N
+1323,gemma,craven,1950,\N
+1324,andrew,crawford,1917,\N
+1325,broderick,crawford,1910,\N
+1326,lucille,lesueur,1906,\N
+1327,john,crawford, ,\N
+1328,michael,crawford,1942,\N
+1329,laird,cregar,1916,\N
+1330,plett creighton,,0000,\N
+1331,jack creley,,0000,\N
+1332,richard,crenna,1926,\N
+1333,robert crenna,,0000,\N
+1334,laura hope,crews,1880,\N
+1335,bernard,cribbins,1928,\N
+1336,michael,crichton,0000,\N
+1337,lou crisoula,,0000,\N
+1338,donald,crisp,1880,\N
+1339,victoria,maya,1936,\N
+1340,barry,crocker,0000,\N
+1341,dick crockett,,0000,\N
+1342,roy,radebaugh,1910,\N
+1343,hume,blake,1911,\N
+1344,harry lillis,crosby,1904,\N
+1345,cathy lee crosby,,0000,\N
+1346,harry,crosby,0000,\N
+1347,kim crosby,,0000,\N
+1348,lindsay crosby,,1938,\N
+1349,mary crosby,,0000,\N
+1350,henrietta,crosman,1861,\N
+1351,ben,cross,1948,\N
+1352,rupert,crosse,1927,\N
+1353,scatman,crothers,0000,\N
+1354,lindsay crouse,,0000,\N
+1355,pat,crowley,1929,\N
+1356,andrew,cruickshank,1907,\N
+1357,tom cruise iv,mapother,1961,\N
+1358,rosalie,crutchley,1921,\N
+1359,jens cruz,bosen,1884,\N
+1360,billy,crystal,1948,\N
+1361,riccardo,cucciola,1932,\N
+1362,macaulay,culkin,1980,\N
+1363,kieran,culkin,1982,\N
+1364,john cullum,,0000,\N
+1365,robert,culp,1930,\N
+1366,roland,culver,1900,\N
+1367,ruth cumming,cors.,0000,\N
+1368,constance,halverstadt,1910,\N
+1369,robert,cummings,1908,\N
+1370,quinn cummings,,0000,\N
+1371,susan cummings,,0000,\N
+1372,peggy cummins,,0000,\N
+1373,cecil,cunningham,1888,\N
+1374,john cunningham,,0000,\N
+1375,alain,cuny,1908,\N
+1376,lee curreri,,0000,\N
+1377,finlay,jefferson,1878,\N
+1378,michael currie,,0000,\N
+1379,sondra currie,,0000,\N
+1380,steve curry,,0000,\N
+1381,tim,curry,1946,\N
+1382,jane curtin,,0000,\N
+1383,valerie curtin,,0000,\N
+1384,alan,curtis,1909,\N
+1385,jamie lee,curtis,1958,\N
+1386,kelly,curtis,0000,\N
+1387,ken,curtis,1916,\N
+1388,bernard,schwarz,1925,\N
+1389,george,curzon,1896,\N
+1390,cyril,cusack,1910,\N
+1391,peter,cushing,1913,\N
+1392,allan,cuthbertson,1920,\N
+1393,zbigniew,cybulski,1927,\N
+1394,maryam,d'abo,0000,\N
+1395,olivia,d'abo,1970,\N
+1396,willem,dafoe,0000,\N
+1397,marta maria,lilets,0000,\N
+1398,arlene,dahl,1924,\N
+1399,eva,dahlbeck,1920,\N
+1400,dan,daily,1914,\N
+1401,elizabeth daily,,0000,\N
+1402,irene daily,,0000,\N
+1403,amy,dalby,1888,\N
+1404,charles,marks,1881,\N
+1405,jennifer dale,,0000,\N
+1406,james,smith,1935,\N
+1407,marcel benoit,bleuschild,1900,\N
+1408,john,dall,1918,\N
+1409,b\'eatrice,dalle,0000,\N
+1410,timothy,dalton,1944,\N
+1411,roger,daltrey,1944,\N
+1412,james,daly,1918,\N
+1413,tyne,daly,1947,\N
+1414,mark,doman,0000,\N
+1415,vito,farinola,1929,\N
+1416,claude,cowan,1879,\N
+1417,bill,dana,0000,\N
+1418,leona dana,,0000,\N
+1419,leora,dana,1923,\N
+1420,mara danaud,,0000,\N
+1421,charles dance,,0000,\N
+1422,tom,d'andrea,0000,\N
+1423,dorothy,dandridge,1923,\N
+1424,karl,daen,1886,\N
+1425,beverly,d'angelo,1854,\N
+1426,mirella d'angelo,,0000,\N
+1427,rodney dangerfield,,0000,\N
+1428,henry,daniell,1894,\N
+1429,suzanne danielle,,0000,\N
+1430,anthony daniels,,0000,\N
+1431,virginia,daniels,1901,\N
+1432,jeff daniels,,0000,\N
+1433,william,daniels,1927,\N
+1434,blythe,danner,1945,\N
+1435,sybil danning,,0000,\N
+1436,royal,dano,1922,\N
+1437,ted,danson,1952,\N
+1438,ralph,vitti,1931,\N
+1439,helmut,dantine,1917,\N
+1440,ray,danton,1931,\N
+1441,tony danza,,0000,\N
+1442,patti d'arbanville,,0000,\N
+1443,deborah,zenby,1947,\N
+1444,denise,billecard,1925,\N
+1445,alexander,sarruf,1908,\N
+1446,ruth dardick,,0000,\N
+1447,frank darien,,0000,\N
+1448,walden robert,cassotto,1936,\N
+1449,monetta eloisa,darnell,1921,\N
+1450,james,ercolani,1936,\N
+1451,danielle,darrieux,1917,\N
+1452,patti,woodward,1880,\N
+1453,harold,siverblatt,1909,\N
+1454,jules,dassin,1911,\N
+1455,jean daste,,0000,\N
+1456,claude,dauphin,1903,\N
+1457,elyssa davalos,,0000,\N
+1458,doris davenport,,0000,\N
+1459,harry,davenport,1866,\N
+1460,nigel,davenport,1928,\N
+1461,thayer,david,1926,\N
+1462,eileen davidson,,0000,\N
+1463,john,davidson,1886,\N
+1464,william b.,davidson,1888,\N
+1465,john howard,davies,1939,\N
+1466,lolita,davidovich,0000,\N
+1467,marion,douras,1897,\N
+1468,rupert,davies,1916,\N
+1469,ruth elizabeth,davis,1908,\N
+1470,brad,davis,1950,\N
+1471,clifton davis,,0000,\N
+1472,geena davis,,0000,\N
+1473,gene davis,,0000,\N
+1474,jim,davis,1915,\N
+1475,joan,davis,1907,\N
+1476,judy,davis,1956,\N
+1477,larry davis,,0000,\N
+1478,lyndon davis,,0000,\N
+1479,mac davis,,0000,\N
+1480,miles davis,,0000,\N
+1481,anne frances,robbins,1956,\N
+1482,ossie,davis,1917,\N
+1483,phyllis davis,,0000,\N
+1484,roger davis,,0000,\N
+1485,samuel,davis,1925,\N
+1486,sonny carl davis,,0000,\N
+1487,bruce,davison,1948,\N
+1488,marjorie daw,,0000,\N
+1489,marpessa dawn,,0000,\N
+1490,anthony,dawson,1916,\N
+1491,clayton day,,0000,\N
+1492,dennis,day,0000,\N
+1493,doris,kappelhoff,1924,\N
+1494,frances,day,1908,\N
+1495,josette,day,1914,\N
+1496,laraine,johnson,1917,\N
+1497,lawrence day,,0000,\N
+1498,marceline day,,0000,\N
+1499,daniel,day-lewis,1957,\N
+1500,brian deacon,,0000,\N
+1501,richard,deacon,1923,\N
+1502,isabel,hodgkinson,1918,\N
+1503,james,dean,1931,\N
+1504,laura dean,,0000,\N
+1505,darcia deane,,0000,\N
+1506,maria dearagon,,0000,\N
+1507,brenda,debanzie,1915,\N
+1508,kristine debell,,0000,\N
+1509,john debello,,0000,\N
+1510,yvonne,debray,1889,\N
+1511,nigel,debrulier,1878,\N
+1512,rosemary,camp,1913,\N
+1513,peggy,middleton,1922,\N
+1514,jeanne,casalis,1896,\N
+1515,pedro,decordoba,1881,\N
+1516,arturo,garcia,1908,\N
+1517,ted,decorsia,1904,\N
+1518,jean,dee,1908,\N
+1519,ruby,dee,1923,\N
+1520,alexandra,zuck,1942,\N
+1521,ermelinda defelice,,0000,\N
+1522,eduardo,passarelli,1900,\N
+1523,luca,passarelli,0000,\N
+1524,peppino,passarelli,0000,\N
+1525,willem defoe,,0000,\N
+1526,don,defore,1917,\N
+1527,louis,de fun\`es,1908,\N
+1528,pia,degermark,1949,\N
+1529,julian,west,0000,\N
+1530,gloria,de haven,1924,\N
+1531,olivia,de havilland,1916,\N
+1532,john,forkum,1915,\N
+1533,albert,dekker,1905,\N
+1534,frank dekova,,0000,\N
+1535,marguerite,de la motte,1903,\N
+1536,suzy,delair,1916,\N
+1537,cyril,delevanti,1887,\N
+1538,alain,delon,1935,\N
+1539,gabrielle,girard,1926,\N
+1540,carla,delpoggio,0000,\N
+1541,julie,delpy,1969,\N
+1542,dolores,asunsolo,1905,\N
+1543,dom,de luise,1933,\N
+1544,robert deman,,0000,\N
+1545,william,demarest,1892,\N
+1546,derrick,de marney,1906,\N
+1547,terrence,de marney,1909,\N
+1548,maria,demadeiros,0000,\N
+1549,cecil, de mille,1881,\N
+1550,katherine,lester,1911,\N
+1551,mylene,demongeot,1936,\N
+1552,rebecca demorney,,0000,\N
+1553,carol,dempster,1901,\N
+1554,judi,dench,1934,\N
+1555,catherine,dorleac,1943,\N
+1556,maurice,denham,1909,\N
+1557,robert,de niro,1943,\N
+1558,michael,denison,1915,\N
+1559,brian,dennehy,1940,\N
+1560,charles,denner,1926,\N
+1561,louis a.,denninger,1914,\N
+1562,sandra dale,dennis,1937,\N
+1563,raymond denny,,0000,\N
+1564,reginald leigh,daymore,1891,\N
+1565,bob,denver,1935,\N
+1566,rossy depalma,,0000,\N
+1567,elisabeth depardieu,,0000,\N
+1568,g\'erard,depardieu,1948,\N
+1569,frederic depasquale,,0000,\N
+1570,johnny,depp,1963,\N
+1571,lya,de putti,1901,\N
+1572,emilie,dequenne,1971,\N
+1573,mary cathleen,collins,1957,\N
+1574,derek,harris,1926,\N
+1575,joe,de rita, ,\N
+1576,bruce,dern,1936,\N
+1577,laura,dern,1967,\N
+1578,richard,derr,1917,\N
+1579,cleavant derricks,,0000,\N
+1580,jean,desailly,1920,\N
+1581,anne desalvo,,0000,\N
+1582,joe desantis,,0000,\N
+1583,vittorio,desica,1901,\N
+1584,ivan,desny,1922,\N
+1585,edward,desouza,1933,\N
+1586,ed destefane,,0000,\N
+1587,gn,bn,0000,\N
+1588,ernst,deutsch,1890,\N
+1589,william devane,,0000,\N
+1590,william devane,,0000,\N
+1591,andy,devine,1905,\N
+1592,danny devito,,0000,\N
+1593,j.g.,devlin,0000,\N
+1594,william,devlin,0000,\N
+1595,patrick,dewaere,0000,\N
+1596,brandon,dewilde,1942,\N
+1597,colleen,dewhurst,1926,\N
+1598,william dewhurst,,0000,\N
+1599,billy dewolf,,0000,\N
+1600,francis,dewolff,1913,\N
+1601,elliot dexter,,0000,\N
+1602,susan,dey,0000,\N
+1603,cliff,deyoung,1945,\N
+1604,khigh,dheigh,1910,\N
+1605,selma,diamond,0000,\N
+1606,cameron,diaz,1970,\N
+1607,bobby dicicco,,0000,\N
+1608,lucinda dickey,,0000,\N
+1609,angeline,brown,1931,\N
+1610,john,dierkes,1905,\N
+1611,wilhelm,dieterle,1893,\N
+1612,maria m.,von losch,1901,\N
+1613,anton,diffring,1918,\N
+1614,arhur,dignam,0000,\N
+1615,basil,dignam,1905,\N
+1616,mark,dignam,1909,\N
+1617,phyllis,diller,1917,\N
+1618,bradford,dillman,1930,\N
+1619,matt,dillon,1964,\N
+1620,melinda,dillon,1939,\N
+1621,richard dimbleby,,0000,\N
+1622,charles,dingle,1887,\N
+1623,dion,celine,1969,\N
+1624,piero diorio,,0000,\N
+1625,dante, dipaolo,0000,\N
+1626,bob,dishy,0000,\N
+1627,divine,,0000,\N
+1628,loretta divine,,0000,\N
+1629,richard,dix,1894,\N
+1630,donna dixon,,0000,\N
+1631,ivan dixon,,0000,\N
+1632,jean,dixon,1896,\N
+1633,gitty djamal,,0000,\N
+1634,joe dobisch,,0000,\N
+1635,tamara,dobson,1947,\N
+1636,claire,dodd,1908,\N
+1637,fn, bn,1953,\N
+1638,shannon doherty,,1971,\N
+1639,william doherty,,0000,\N
+1640,faith,domergue,1925,\N
+1641,placido,domingo,1940,\N
+1642,arturo dominici,,0000,\N
+1643,merle,johnson,1936,\N
+1644,james,donald,1917,\N
+1645,peter,donat,0000,\N
+1646,robert,donat,1905,\N
+1647,ludwig,donath,1900,\N
+1648,ruth donelly,,0000,\N
+1649,yolande,donlan,1920,\N
+1650,brian,donlevy,1899,\N
+1651,jeff,donnell,1921,\N
+1652,donal,donelly,0000,\N
+1653,patrice donnelly,,0000,\N
+1654,ruth,donnelly,1896,\N
+1655,amanda,donohue,1962,\N
+1656,king,donovan,1919,\N
+1657,gn,fn,0000,\N
+1658,james doohan,,0000,\N
+1659,paul,dooley,1928,\N
+1660,robert doqui,,0000,\N
+1661,karin,dor,0000,\N
+1662,ann,doran,1914,\N
+1663,gn,bn,0000,\N
+1664,angela dorian,,0000,\N
+1665,francoise,dorleac,1941,\N
+1666,d,dorn-heft,1935,\N
+1667,frits,vandongen,1905,\N
+1668,sandra,dorn,1925,\N
+1669,diana,fluck,1931,\N
+1670,yvonne,lussier,1904,\N
+1671,g,moppert,1880,\N
+1672,susana dosamantes,,0000,\N
+1673,roy,dotrice,1923,\N
+1674,catherine,green,1875,\N
+1675,diana douglas,,0000,\N
+1676,donald,douglas,1905,\N
+1677,donna,douglas,1933,\N
+1678,kent douglas,,0000,\N
+1679,issur danielovitch,demsky,1916,\N
+1680,melvyn,hesselberg,1901,\N
+1681,michael,douglas,1945,\N
+1682,paul,douglas,1907,\N
+1683,robert douglas,finlayson,1909,\N
+1684,robyn douglas,,0000,\N
+1685,sarah douglas,,0000,\N
+1686,brad,dourif,1950,\N
+1687,lilian,bohny,1904,\N
+1688,peggy,varnadow,1928,\N
+1689,ned,dowd,0000,\N
+1690,doris,dowling,1921,\N
+1691,joan,dowling,1929,\N
+1692,lesley-anne,down,1954,\N
+1693,robert~jr.,downey,1965,\N
+1694,johnny,downs,1913,\N
+1695,betsy,drake,0000,\N
+1696,charles,ruppert,1914,\N
+1697,rita,novella,1920,\N
+1698,frances,drake,1908,\N
+1699,paul drake,,0000,\N
+1700,tom,drake,1918,\N
+1701,patrick dray,,0000,\N
+1702,alfred,varick,1881,\N
+1703,alex,dreier,1916,\N
+1704,lois,obee,1909,\N
+1705,louise,dresser,1881,\N
+1706,leila,von koerber,1869,\N
+1707,terry,ray,1915,\N
+1708,herbert, blythe,0000,\N
+1709,richard,dreyfuss,1948,\N
+1710,bobby,driscoll,1937,\N
+1711,kate,driver,1969,\N
+1712,minnie,driver,1971,\N
+1713,joanne,la coque,1923,\N
+1714,james,drury,1934,\N
+1715,don,dubbins,1929,\N
+1716,david,duchovny,1960,\N
+1717,lesley dudley,,0000,\N
+1718,peter,deuel,1940,\N
+1719,howard,duff,1917,\N
+1720,julia,hinds,1951,\N
+1721,patrick duffy,,0000,\N
+1722,dennis,dugan,1948,\N
+1723,tom,dugan,1889,\N
+1724,andrew,duggan,1923,\N
+1725,richard duggan,,0000,\N
+1726,olympia dukakis,,0000,\N
+1727,david,dukes,0000,\N
+1728,keir,dullea,1936,\N
+1729,jane dulo,,0000,\N
+1730,sandra dumas,,0000,\N
+1731,gerald dumaurier,,0000,\N
+1732,douglass,dumbrille,1890,\N
+1733,ralph,dumke,1900,\N
+1734,margaret,baker,1889,\N
+1735,faye,dunaway,1941,\N
+1736,christina elizabeth,dunbar,1919,\N
+1737,archie,duncan,1914,\N
+1738,carmen duncan,,0000,\N
+1739,, ,0000,\N
+1740,mary,duncan,1903,\N
+1741,sandy,duncan,1946,\N
+1742,victor dunlop,,0000,\N
+1743,emma,dunn,1875,\N
+1744,james,dunn,1905,\N
+1745,liam dunn,,0000,\N
+1746,gary neil,miller,1935,\N
+1747,robert dunn,,0000,\N
+1748,griffin, dunne,1955,\N
+1749,irene,dunne,1901,\N
+1750,steve dunne,,0000,\N
+1751,mildred,dunnock,1904,\N
+1752,don dunphy,,0000,\N
+1753,minnie,dupree,1873,\N
+1754,ann duprey,,0000,\N
+1755,june,duprez,1918,\N
+1756,paul,dupuis,1916,\N
+1757,jimmy,durante,1893,\N
+1758,anthony durbee,,0000,\N
+1759,edna mae,durbin,1921,\N
+1760,charles,durning,1933,\N
+1761,monique dury,,0000,\N
+1762,dan,duryea,1907,\N
+1763,robert,duvall,1931,\N
+1764,shelley,duvall,1949,\N
+1765,ann,mckim,1912,\N
+1766,peter dvorsky,,0000,\N
+1767,leslie,dwyer,1906,\N
+1768,franklin,dyall,1874,\N
+1769,valentine,dyall,1908,\N
+1770,cameron dye,,0000,\N
+1771,robert, zimmerman,0000,\N
+1772,richard dysart,,0000,\N
+1773,william dysart,,0000,\N
+1774,george,dzunda,0000,\N
+1775,george eastman,,0000,\N
+1776,marilyn eastman,,0000,\N
+1777,alison eastwood,,0000,\N
+1778,clint,eastwood,1930,\N
+1779,francesca eastwood,,1994,\N
+1780,kimber eastwood,,0000,\N
+1781,kyle eastwood,,0000,\N
+1782,mary,eaton,1901,\N
+1783,shirley,eaton,0000,\N
+1784,horst ebersberg,,0000,\N
+1785,christine ebersole,,0000,\N
+1786,christian rudolf,ebsen,1908,\N
+1787,maude,eburne,1875,\N
+1788,eileen eckhart,,0000,\N
+1789,g\"osta,eckman,0000,\N
+1790,g\"osta,eckman,0000,\N
+1791,eckman,hasse,1915,\N
+1792,hallie eckstein,,0000,\N
+1793,helen jerome,eddy,1897,\N
+1794,nelson,eddy,1901,\N
+1795,herb,edelman,1930,\N
+1796,barbara,huffman,1934,\N
+1797,elizabeth edmonds,,0000,\N
+1798,anthony edwards,,0000,\N
+1799,blake,edwards,1922,\N
+1800,cliff,edwards,1895,\N
+1801,henry,edwards,1882,\N
+1802,james,edwards,1922,\N
+1803,jennifer edwards,,0000,\N
+1804,luke edmonds,,0000,\N
+1805,snitz edwards,,0000,\N
+1806,vincento eduardo,zoine,1928,\N
+1807,eddie,egan,1924,\N
+1808,richard,egan,1921,\N
+1809,julie,ege,1943,\N
+1810,samantha,eggar,1939,\N
+1811,lisa,eichhorn,1952,\N
+1812,jill,eikenberry,1947,\N
+1813,lisa eilbacher,,0000,\N
+1814,janet eilber,,0000,\N
+1815,sally,eilers,1908,\N
+1816,fred,eisley,0000,\N
+1817,ike eisenmann,,0000,\N
+1818,anita,ekberg,1931,\N
+1819,britt-marie,ekland,1942,\N
+1820,jack,elam,1916,\N
+1821,john,eldredge,1917,\N
+1822,florence,mackechnie,1901,\N
+1823,hector,elizondo,1936,\N
+1824,edward,ellington,0000,\N
+1825,laura,elliot,1929,\N
+1826,biff elliott,,0000,\N
+1827,denholm,elliott,1922,\N
+1828,frank elliott,,0000,\N
+1829,jane elliott,,0000,\N
+1830,robert,elliott,1879,\N
+1831,sam,elliott,1944,\N
+1832,stephen elliott,,0000,\N
+1833,gordon,elliott,1904,\N
+1834,edward,ellis,1872,\N
+1835,mary,elsas,1900,\N
+1836,patricia gene,obrien,1916,\N
+1837,robin ellis,,0000,\N
+1838,art ellison,,0000,\N
+1839,frank ellison,smith,1910,\N
+1840,james ellison,smith,1910,\N
+1841,michael,elphick,1946,\N
+1842,isobel,reed,1893,\N
+1843,sallee elyse,,0000,\N
+1844,faye,emerson,1917,\N
+1845,hope,emerson,1897,\N
+1846,roy,emerton,1892,\N
+1847,dick,emery,1918,\N
+1848,gilbert,emery,1875,\N
+1849,robert,emhardt,1916,\N
+1850,michael emil,,0000,\N
+1851,fred,emney,1900,\N
+1852,robert englund,,0000,\N
+1853,rene enriquez,,1932,\N
+1854,henry,ephron,1911,\N
+1855,margaret eppie,,1930,\N
+1856,richard,erdmann,1925,\N
+1857,doc erickson,,0000,\N
+1858,william,anderson,1911,\N
+1859,joseph,meibes,1927,\N
+1860,krista errickson,,0000,\N
+1861,leon,errol,1881,\N
+1862,howard erskine,,0000,\N
+1863,stuart,erwin,1903,\N
+1864,willy,eichberger,1905,\N
+1865,jill,esmond,1908,\N
+1866,david,essex,1947,\N
+1867,emilio estevez,,0000,\N
+1868,shari eubank,,0000,\N
+1869,barry,evans,1945,\N
+1870,clifford,evans,1912,\N
+1871,frances octavia,smith,1912,\N
+1872,dame edith,evans,1888,\N
+1873,gene,evans,1922,\N
+1874,linda,evans,1943,\N
+1875,maurice,evans,1901,\N
+1876,michael evans,,0000,\N
+1877,rex,evans,1903,\N
+1878,robert,evans,1930,\N
+1879,j.e.,allen,1913,\N
+1880,barbara,everest,1890,\N
+1881,raymond,cramton,1937,\N
+1882,trish everly,,0000,\N
+1883,herbert,evers,1922,\N
+1884,john ewart,,0000,\N
+1885,s.~yewell,tompkins,1909,\N
+1886,richard eyer,,0000,\N
+1887,william,eythe,1918,\N
+1888,francoise,fabian,1935,\N
+1889,fabio,lanzoni,1961,\N
+1890,nanette,fabares,1920,\N
+1891,aldo,fabrizi,1905,\N
+1892,douglas,ullman,1883,\N
+1893,douglas~jr.,fairbanks,1909,\N
+1894,s.,tapping,1873,\N
+1895,morgan,fairchild,1950,\N
+1896,terence,nelhams,1940,\N
+1897,eduardo fajardo,,0000,\N
+1898,lola falana,,0000,\N
+1899,fabray falconetti,,0000,\N
+1900,peter,falk,1927,\N
+1901,deborah fallender,,0000,\N
+1902,dennis lee falt,,0000,\N
+1903,sergio,fantoni,1930,\N
+1904,daniel faraldo,,0000,\N
+1905,amy farber,,0000,\N
+1906,maria farebrother,,0000,\N
+1907,violet farebrother,,0000,\N
+1908,james,farentino,1938,\N
+1909,antonio,fargas,0000,\N
+1910,chris ,farley,1964,\N
+1911,frances,farmer,1914,\N
+1912,mimsy,farmer,1945,\N
+1913,richard farnsworth,,0000,\N
+1914,dustin,farnum,0000,\N
+1915,franklyn, farnum,1876,\N
+1916,william,farnum,1876,\N
+1917,derek,farr,1912,\N
+1918,felicia farr,,0000,\N
+1919,jamie,farr,0000,\N
+1920,derek,farr,0000,\N
+1921,david,farrar,1908,\N
+1922,geraldine,farrar,1882,\N
+1923,charles,farrell,1901,\N
+1924,charles,farrell,1901,\N
+1925,glenda,farrell,1904,\N
+1926,nick farrell,,0000,\N
+1927,sharon,farrell,0000,\N
+1928,maria,farrow,1945,\N
+1929,stephanie farrow,,0000,\N
+1930,tisa farrow,,0000,\N
+1931,rainer werner,fassbinder,1945,\N
+1932,graham faulkner,,0000,\N
+1933,james faulkner,,0000,\N
+1934,farrah,fawcettmajors,1947,\N
+1935,michelle fawden,,0000,\N
+1936,alice,leppert,1912,\N
+1937,frank,ruf,1907,\N
+1938,louise,fazenda,1895,\N
+1939,lynne federicks,,0000,\N
+1940,birgitte federspiel,,0000,\N
+1941,bekim,fehmiu,1932,\N
+1942,frances feist,,0000,\N
+1943,fritz,feld,1900,\N
+1944,marty,feldman,1933,\N
+1945,barbara,feldon,1939,\N
+1946,tovah,feldshuh,0000,\N
+1947,maria,felix,1915,\N
+1948,norman,fell,1928,\N
+1949,rockliffe,fellowes,1885,\N
+1950,edith,fellows,1923,\N
+1951,hansjoerg,felmy,1931,\N
+1952,verna,felton,1890,\N
+1953,sherilyn,fenn,1965,\N
+1954,sylvie,fennec,0000,\N
+1955,willie fennell,,0000,\N
+1956,frank,fenton,1906,\N
+1957,irene, fenwick,0000,\N
+1958,pamelyn ferdin,,0000,\N
+1959,elsie,ferguson,1883,\N
+1960,frank,ferguson,1899,\N
+1961,j. don ferguson,,0000,\N
+1962,jane ferguson,,0000,\N
+1963,fernand,contandin,1903,\N
+1964,wilhelmina wiggins,fernandez,0000,\N
+1965,conchata,ferrell,1943,\N
+1966,jos\'e vincente,ferrer y centron,1909,\N
+1967,mel,ferrer,1917,\N
+1968,benoit ferreux,,1955,\N
+1969,noel ferrier,,0000,\N
+1970,lou ferrigno,,0000,\N
+1971,pasquale,ferzetti,1925,\N
+1972,lincoln,perry,1898,\N
+1973,edwige,cunati,1907,\N
+1974,lewis,fiander,1938,\N
+1975,john,fiedler,1925,\N
+1976,betty,field,1918,\N
+1977,karen field,,0000,\N
+1978,mary,field,1905,\N
+1979,sally,field,1946,\N
+1980,shirley anne,field,1938,\N
+1981,sid,field,1904,\N
+1982,margaret cynthia,field,1917,\N
+1983,edward fielding,,0000,\N
+1984,fenella,fielding,1930,\N
+1985,margaret fielding,,0000,\N
+1986,marjorie,fielding,1892,\N
+1987,charles fields,,0000,\N
+1988,gracie,stansfield,1898,\N
+1989,william claude, dukenfield,0000,\N
+1990,tom filer,,0000,\N
+1991,dennis fimple,,0000,\N
+1992,flora, finch,1869,\N
+1993,jon,finch,1941,\N
+1994,peter,finch,1916,\N
+1995,louis,fienberg,1911,\N
+1996,t.g. finkbinder,,0000,\N
+1997,frank,finlay,1926,\N
+1998,james,finlayson,1877,\N
+1999,william finley,,0000,\N
+2000,warren finnerty,,0000,\N
+2001,albert,finney,1936,\N
+2002,shirley jo finney,,0000,\N
+2003,elena fiore,,0000,\N
+2004,eddie firestone,,0000,\N
+2005,peter,firth,1953,\N
+2006,frances fisher,,1952,\N
+2007,o.w.,fischer,1915,\N
+2008,larry fishburne,,0000,\N
+2009,carrie,fisher,1956,\N
+2010,cindy fisher,,0000,\N
+2011,edwin jack,fisher,1928,\N
+2012,frances fisher,,0000,\N
+2013,minnie,fiske,1866,\N
+2014,william,shields,1888,\N
+2015,ella,fitzgerald,1918,\N
+2016,geraldine,fitzgerald,1912,\N
+2017,walter,bond,1896,\N
+2018,paul ,morrison,1901,\N
+2019,fannie,flagg,0000,\N
+2020,michael,st. angel,0000,\N
+2021,kirsten,flagstad,1895,\N
+2022,ed,flanders,1934,\N
+2023,susan,flannery,1943,\N
+2024,james,flavin,1906,\N
+2025,marilyn, louis,1922,\N
+2026,cyril,fletcher,1913,\N
+2027,louise,fletcher,1936,\N
+2028,jay c.,flippen,1898,\N
+2029,george "buck" flower,,0000,\N
+2030,darlanne fluegel,,1958,\N
+2031,joel,fluellen,0000,\N
+2032,errol,flynn,1909,\N
+2033,joe,flynn,1924,\N
+2034,sean,flynn,1941,\N
+2035,nina consuelo maud,fock,1924,\N
+2036,bridget,fonda,1964,\N
+2037,henry fonda,,1905,\N
+2038,jane,fonda,1937,\N
+2039,peter,fonda,1939,\N
+2040,leo fong,,0000,\N
+2041,joan de beauvoir,dehavilland,1917,\N
+2042,genevi\`eve,fontanel,0000,\N
+2043,peggy,hookham,0000,\N
+2044,nicholas,foran,1910,\N
+2045,john,clarke,1926,\N
+2046,mary,forbes,1882,\N
+2047,ralph,taylor,1902,\N
+2048,david ford,,0000,\N
+2049,dorothy,ford,1923,\N
+2050,francis,ford,1883,\N
+2051,gwyllyn,ford,1916,\N
+2052,harrison,ford,1917,\N
+2053,paul ford,weaver,1901,\N
+2054,sam,grundy,1897,\N
+2055,deborah foreman,,0000,\N
+2056,lou,degni,1933,\N
+2057,george,formby,1905,\N
+2058,frederic,forrest,0000,\N
+2059,mike forrest,,0000,\N
+2060,william forrest,andrews,1924,\N
+2061,constance forslund,,0000,\N
+2062,robert,forster,1942,\N
+2063,rudolph,forster,1884,\N
+2064,bruce,forsyth,1927,\N
+2065,rosemary,forsyth,1944,\N
+2066,henderson forsythe,,0000,\N
+2067,john,freund,1918,\N
+2068,nick apollo forte,,0000,\N
+2069,brigitte,fossey,1945,\N
+2070,barry,foster,1931,\N
+2071,d.,laruska,1928,\N
+2072,alicia christian,foster,1962,\N
+2073,john foster,,0000,\N
+2074,julia,foster,1941,\N
+2075,meg,foster,0000,\N
+2076,norman,foster,1900,\N
+2077,phil foster,,0000,\N
+2078,preston,foster,1901,\N
+2079,robert foster,,0000,\N
+2080,susan,larsen,1924,\N
+2081,byron,foulger,1900,\N
+2082,susannah fowle,,0000,\N
+2083,harry,fowler,1926,\N
+2084,douglas,fowley,1911,\N
+2085,bernard,fox,0000,\N
+2086,edward,fox,1937,\N
+2087,james,fox,1939,\N
+2088,michael j.,fox,1961,\N
+2089,sidney,fox,1910,\N
+2090,wilhelm, fried,1879,\N
+2091,john elroy,sanford,1922,\N
+2092,eddie,foy~jr,1905,\N
+2093,c.v.,france,1868,\N
+2094,rolla france,,0000,\N
+2095,victor,francen,1888,\N
+2096,anthony,papaleo,1928,\N
+2097,alec b.,francis,1869,\N
+2098,anne,francis,1930,\N
+2099,arlene,francis,1908,\N
+2100,constance,franconero,1938,\N
+2101,eve,francis,0000,\N
+2102,ivor,francis,0000,\N
+2103,katherine,gibbs,1899,\N
+2104,robert,francis,1930,\N
+2105,james,franciscus,1934,\N
+2106,don,francks,1932,\N
+2107,jacques,fran{\c}cois,0000,\N
+2108,ben frank,,0000,\N
+2109,charles,frank,1910,\N
+2110,richard frank,,0000,\N
+2111,steve franken,,0000,\N
+2112,paul frankeur,,0000,\N
+2113,aretha franklin,,0000,\N
+2114,pamela,franklin,1949,\N
+2115,james franks,,0000,\N
+2116,arthur,franz,1920,\N
+2117,eduard,franz,1902,\N
+2118,william,fraser,0000,\N
+2119,john,fraser,1931,\N
+2120,liz,fraser,1933,\N
+2121,richard,fraser,1913,\N
+2122,ronald,fraser,1930,\N
+2123,william,frawley,1887,\N
+2124,robert frazer,,0000,\N
+2125,sheila frazer,,0000,\N
+2126,lynn,frederick,*,\N
+2127,pauline,frederick,1883,\N
+2128,vicki frederick,,0000,\N
+2129,alan freed,,0000,\N
+2130,bert,freed,0000,\N
+2131,paul freedman,,0000,\N
+2132,al,freeman~jr,1934,\N
+2133,amy freeman,,0000,\N
+2134,howard,freeman,1899,\N
+2135,kathleen,freeman,1919,\N
+2136,monica,freeman,1926,\N
+2137,paul freeman,,0000,\N
+2138,morna freeman,,0000,\N
+2139,morgan freeman,,0000,\N
+2140,leslie,french,1899,\N
+2141,pierre-jules-lions,laudenbach,1897,\N
+2142,bernard,fresson,1933,\N
+2143,leonard,frey,1938,\N
+2144,sauri frey,,0000,\N
+2145,jonathan,frid,1925,\N
+2146,blanche,friderici,1878,\N
+2147,steve friedman,,0000,\N
+2148,john friedrich,,0000,\N
+2149,philip,friend,1915,\N
+2150,willy,fritsch,1901,\N
+2151,gert,fr\"obe,1913,\N
+2152,gustav,fr\"ohlich,0000,\N
+2153,dominic,frontiere,1931,\N
+2154,dwight,frye,1899,\N
+2155,eric fryer,,0000,\N
+2156,alan fudge,,0000,\N
+2157,dale fuller,,0000,\N
+2158,dolores fuller,,0000,\N
+2159,lance fuller,,0000,\N
+2160,robert,fuller,1934,\N
+2161,fiona,fullerton,1955,\N
+2162,jessie lee fulton,,0000,\N
+2163,annette,funicello,1942,\N
+2164,yvonne,furneaux,1928,\N
+2165,judith,furse,1912,\N
+2166,edward, furlong,1977,\N
+2167,stephen furst,,0000,\N
+2168,will,fyffe,1884,\N
+2169,martin,gabel,1912,\N
+2170,alexis,moncourg\'e,1904,\N
+2171,clark,gable,1901,\N
+2172,john clark,gable,1960,\N
+2173,eva,gabor,1921,\N
+2174,sari,gabor,1917,\N
+2175,helen,gahagan douglas,0000,\N
+2176,max gail,,0000,\N
+2177,charlotte,gainsbourg,*,\N
+2178,serge, gainsbourg,0000,\N
+2179,peter,gallagher,0000,\N
+2180,rita,gam,1940,\N
+2181,michael,gambon,0000,\N
+2182,robin gammell,,0000,\N
+2183,ken gampu,,0000,\N
+2184,abel,gance,0000,\N
+2185,bruno,ganz,0000,\N
+2186,teresa ganzel,,0000,\N
+2187,matthew,garber,1956,\N
+2188,greta,gustafson,1905,\N
+2189,andres garcia,,0000,\N
+2190,carlos,gardel,1893,\N
+2191,vincent,scognamiglio,1922,\N
+2192,reginald,gardiner,1903,\N
+2193,ava,gardner,1922,\N
+2194,ed,gardner,1901,\N
+2195,allen,goorwitz,1939,\N
+2196,jacob julius,garfinkle,1913,\N
+2197,arthur,garfunkel,0000,\N
+2198,ed,gargan,1902,\N
+2199,william,gargan,1905,\N
+2200,john garko,,0000,\N
+2201,beverly,fessenden,1926,\N
+2202,frances,gumm,1922,\N
+2203,james,baumgarner,1928,\N
+2204,peggy ann,garner,1931,\N
+2205,steve garay,,0000,\N
+2206,joaquin garay~iii,,0000,\N
+2207,teri,garr,1952,\N
+2208,fn,garofalo,1965,\N
+2209,betty,garrett,1919,\N
+2210,eliza garrett,,0000,\N
+2211,leif garrett,,0000,\N
+2212,ellen garrison,,0000,\N
+2213,reginald,doudy,1902,\N
+2214,greer,garson,1908,\N
+2215,jennie,garth,1972,\N
+2216,harold gary,,0000,\N
+2217,lorraine,gary,0000,\N
+2218,marie-louise gassen,,0000,\N
+2219,vittoria,gassman,1922,\N
+2220,lisa,gastoni,1935,\N
+2221,larry,gates,1915,\N
+2222,nancy,gates,1926,\N
+2223,marjorie,gateson,1891,\N
+2224,alexander,gauge,1914,\N
+2225,mikkel,gaup,1973,\N
+2226,fernand gavet,,0000,\N
+2227,erica gavin,,0000,\N
+2228,john gavin,,1928,\N
+2229,peter,gawthorne,1884,\N
+2230,gregory,gaye,1900,\N
+2231,george gaynes,,0000,\N
+2232,laura,gainer,1906,\N
+2233,francesca mitzi,vongerber,1930,\N
+2234,ben,gazzara,1930,\N
+2235,michael gazzo,,0000,\N
+2236,ellen geer,,0000,\N
+2237,william,ghere,1902,\N
+2238,judy,geeson,1948,\N
+2239,emma auguste,gehrts,1891,\N
+2240,daniel,g\'elin,1921,\N
+2241,guiliano,gemma,1940,\N
+2242,laura gemser,,0000,\N
+2243,leo,genn,1905,\N
+2244,linda gentile,,0000,\N
+2245,chief,george,1899,\N
+2246,christopher,george,1929,\N
+2247,gladys,clare,1900,\N
+2248,grace,george,1879,\N
+2249,linda,day,1944,\N
+2250,muriel,george,1883,\N
+2251,nathan george,,0000,\N
+2252,rita george,,0000,\N
+2253,susan,george,1950,\N
+2254,carmelita geraghty,,0000,\N
+2255,gil,gerard,1943,\N
+2256,stefan,gyergyay,1904,\N
+2257,bill gerber,,0000,\N
+2258,richard,gere,1949,\N
+2259,flo gerish,,0000,\N
+2260,gene,gerrard,1892,\N
+2261,balthazar,getty,1975,\N
+2262,john getz,,0000,\N
+2263,alice,ghostley,1926,\N
+2264,stathis,giallelis,1939,\N
+2265,giancarlo,giannini,1942,\N
+2266,judi gibbs,,0000,\N
+2267,colin gibson,,0000,\N
+2268,rose august,wenger,1892,\N
+2269,henry,gibson,1935,\N
+2270,edward,richard,1892,\N
+2271,mel,gibson,1951,\N
+2272,sir john,gielgud,1904,\N
+2273,stefan gierasch,,0000,\N
+2274,frank gifford,,0000,\N
+2275,gloria gifford,,0000,\N
+2276,billy,gilbert,1893,\N
+2277,john,pringle,1895,\N
+2278,melissa gilbert,,0000,\N
+2279,bruce gilchrist,,0000,\N
+2280,connie,gilchrist,1901,\N
+2281,jacob,gellman,1907,\N
+2282,maude gill,,0000,\N
+2283,dana gillespie,,0000,\N
+2284,anita gillette,,0000,\N
+2285,william,gillette,1855,\N
+2286,stu gilliam,,0000,\N
+2287,terry gilliam,,0000,\N
+2288,jean,gillie,1915,\N
+2289,claude,gillingwater,1870,\N
+2290,alma,o'connor,1927,\N
+2291,margalo,gillmore,1897,\N
+2292,lowell,gilmore,1907,\N
+2293,virginia,gilmore,0000,\N
+2294,ian gilmour,,0000,\N
+2295,hermione,gingold,1897,\N
+2296,robert ginty,,0000,\N
+2297,annie,girardot,1931,\N
+2298,etienne,girardot,1856,\N
+2299,dorothy,gish,1898,\N
+2300,lillian,deguiche,1894,\N
+2301,kathryn,givney,1897,\N
+2302,anton glanzelius,,0000,\N
+2303,yves glary,,0000,\N
+2304,gil glasco,,0000,\N
+2305,paul,glaser,1943,\N
+2306,sabine glaser,,0000,\N
+2307,ron glass,,0000,\N
+2308,jackie,gleason,1916,\N
+2309,james austin,gleason,1886,\N
+2310,lucille,gleason,1886,\N
+2311,paul gleason,,0000,\N
+2312,russell,gleason,1908,\N
+2313,roy glenister,,0000,\N
+2314,roy,glenn,1901,\N
+2315,scott,glenn,1942,\N
+2316,sharon gless,,0000,\N
+2317,bruce glover,,0000,\N
+2318,crispin glover,,0000,\N
+2319,danny,glover,1947,\N
+2320,john glover,,0000,\N
+2321,julian,glover,1935,\N
+2322,carlin,glynn,0000,\N
+2323,mary,glynne,1898,\N
+2324,george,gobel,1919,\N
+2325,marion,levy,1911,\N
+2326,willoughby,goddard,1932,\N
+2327,peter,godfrey,1899,\N
+2328,jacques godin,,0000,\N
+2329,bernard goetzke,,0000,\N
+2330,john goff,,0000,\N
+2331,norris,goff,1906,\N
+2332,gila,golan,1940,\N
+2333,whoopi,goldberg,1950,\N
+2334,jeff,goldblum,1952,\N
+2335,charles,goldner,1900,\N
+2336,lelia,goldoni,1938,\N
+2337,matt goldsby,,0000,\N
+2338,clio goldsmith,,0000,\N
+2339,bobcat goldthwait,,0000,\N
+2340,arlene golonka,,0000,\N
+2341,minna,gombell,1900,\N
+2342,thomas,gomez,1905,\N
+2343,peter,gonzales,0000,\N
+2344,michael,goodliffe,1914,\N
+2345,benny,goodman,1909,\N
+2346,dody goodman,,0000,\N
+2347,bill,goodwin,1910,\N
+2348,harold,goodwin,1917,\N
+2349,suki goodwin,,0000,\N
+2350,allen goorwitz,,0000,\N
+2351,leo,gorcey,1915,\N
+2352,colin gordin,,0000,\N
+2353,bruce,gordon,1919,\N
+2354,c.~henry,gordon,1882,\N
+2355,colin,gordon,1911,\N
+2356,dexter gordon,,0000,\N
+2357,don gordon,,0000,\N
+2358,gaylord,aldrich,1905,\N
+2359,keith gordon,,0000,\N
+2360,leo,gordon,1922,\N
+2361,mary,gordon,1882,\N
+2362,robert gordon,,0000,\N
+2363,ruth gordon,jones,1896,\N
+2364,marius,goring,1912,\N
+2365,cliff,gorman,1936,\N
+2366,lynee gorman,,0000,\N
+2367,karen lynn,gorney,0000,\N
+2368,frank,gorshin,1935,\N
+2369,marjoe,gortner,1941,\N
+2370,louis,gosset,1936,\N
+2371,louis, gosset,0000,\N
+2372,walter,gotell,0000,\N
+2373,ferdinand,gottschalk,1869,\N
+2374,jetta,goudal,1898,\N
+2375,michael,gough,1917,\N
+2376,elliott,goldstein,1938,\N
+2377,harold,gould,1923,\N
+2378,jason,gould,0000,\N
+2379,stanley,applebaum,1933,\N
+2380,michael gover,,0000,\N
+2381,gibson,gowland,1872,\N
+2382,harry goz,,0000,\N
+2383,patricia,gozzi,1950,\N
+2384,ruth elizabeth,grable,1916,\N
+2385,nickolas grace,,0000,\N
+2386,gerrit graham,,0000,\N
+2387,gloria,hallward,1924,\N
+2388,margot,grahame,1911,\N
+2389,alexander,granach,1890,\N
+2390,farley,granger,1928,\N
+2391,james lablanche,stewart,1913,\N
+2392,archibald,leach,1904,\N
+2393,olive,grandstaff,1933,\N
+2394,lawrence,grant,1870,\N
+2395,lyova,rosenthal,0000,\N
+2396,richard e.,grant,0000,\N
+2397,bonita,granville,1923,\N
+2398,charley,grapewin,1869,\N
+2399,peter,aurnes,1925,\N
+2400,peter,graves,1911,\N
+2401,fernand,martens,1904,\N
+2402,billy,gray,1940,\N
+2403,donald m.,gray,1928,\N
+2404,doris,jensen,1922,\N
+2405,dolores,gray,1924,\N
+2406,erin gray,,0000,\N
+2407,joel gray,,0000,\N
+2408,nadia,gray,1923,\N
+2409,constance,stevens,1916,\N
+2410,zelma,hedrick,1922,\N
+2411,juliette,greco,1927,\N
+2412,danny,green,1903,\N
+2413,gilbert green,,0000,\N
+2414,keith green,,0000,\N
+2415,marika green,,0000,\N
+2416,martyn,green,1899,\N
+2417,nigel,green,1924,\N
+2418,seth green,,0000,\N
+2419,graham,greene,1904,\N
+2420,h.richard greene,,0000,\N
+2421,leon,green,0000,\N
+2422,lorne,greene,1915,\N
+2423,mean joe greene,,0000,\N
+2424,michael greene,,0000,\N
+2425,richard,greene,1914,\N
+2426,raymond,greenleaf,1892,\N
+2427,sidney,greenstreet,1879,\N
+2428,charlotte,greenwood,1890,\N
+2429,joan,greenwood,1921,\N
+2430,john,greenwood,1889,\N
+2431,bettyjane,greer,1924,\N
+2432,clare greet,,0000,\N
+2433,everley,gregg,1898,\N
+2434,nora,gregor,1890,\N
+2435,andre gregory,,0000,\N
+2436,celia gregory,,0000,\N
+2437,dora gregory,,0000,\N
+2438,james,gregory,1911,\N
+2439,mark gregory,,0000,\N
+2440,john,gregson,1919,\N
+2441,robert,greig,1880,\N
+2442,joyce,phipps,1910,\N
+2443,anne grey,,0000,\N
+2444,jennifer,grey,1960,\N
+2445,joe,katz,1932,\N
+2446,lillita,macmurray,1909,\N
+2447,eschol loleet,miller,1918,\N
+2448,virginia,grey,1917,\N
+2449,robert grieg,,0000,\N
+2450,helmut,griem,0000,\N
+2451,david alan grier,,0000,\N
+2452,pam,grier,1949,\N
+2453,rosie grier,,0000,\N
+2454,ethel,woods,1878,\N
+2455,andy,griffith,1926,\N
+2456,corinne,griffith,1898,\N
+2457,hugh,griffith,1912,\N
+2458,kenneth,griffith,1921,\N
+2459,kirstin griffith,,0000,\N
+2460,melanie,griffith,1957,\N
+2461,simone griffith,,0000,\N
+2462,tracy griffith,,0000,\N
+2463,jane,griffiths,1929,\N
+2464,ele grigsby,,0000,\N
+2465,dan grimaldi,,0000,\N
+2466,gary,grimes,1955,\N
+2467,jonathan griss,,0000,\N
+2468,claire griswold,,0000,\N
+2469,george,grizzard,1925,\N
+2470,charles,grodin,1935,\N
+2471,ake groenberg,,0000,\N
+2472,herbert gronemeyer,,0000,\N
+2473,sam groom,,0000,\N
+2474,muriel gross,,0000,\N
+2475,linda grovenor,,0000,\N
+2476,gustav,gr\"undgens,0000,\N
+2477,oliver,gruner,1960,\N
+2478,dominic,guard,1925,\N
+2479,harry,guardino,1925,\N
+2480,fran\c cois,gu\'erin,0000,\N
+2481,ruy guerra,,0000,\N
+2482,christopher guest,,0000,\N
+2483,lance guest,,0000,\N
+2484,nicholas guest,,0000,\N
+2485,nancy,guild,1925,\N
+2486,paul,guilfoyle,1902,\N
+2487,jack, guilford,0000,\N
+2488,robert,guillaume,0000,\N
+2489,fernando guill\'en,,0000,\N
+2490,sir alec,guinness,1914,\N
+2491,clu,gulager,1929,\N
+2492,moses,gunn,1929,\N
+2493,robert gunner,,0000,\N
+2494,sigrid,gurie,1911,\N
+2495,ray guth,,0000,\N
+2496,steve guttenberg,,0000,\N
+2497,n.a.,n.a.,n.a.,\N
+2498,edmund,gwenn,1875,\N
+2499,jack gwillin,,0000,\N
+2500,marguerite gwynne,trice,1918,\N
+2501,frederick hubbard,gwynne,1927,\N
+2502,michael,gwynne,1916,\N
+2503,peter gwynne,,0000,\N
+2504,greta,gynt,1916,\N
+2505,james haake,,0000,\N
+2506,dolly,haas,1910,\N
+2507,hugo,haas,1901,\N
+2508,leonard,hackett,1924,\N
+2509,joan,hackett,1934,\N
+2510,raymond,hackett,1902,\N
+2511,gene,hackman,1930,\N
+2512,sayle haddon,,0000,\N
+2513,sara,haden,1897,\N
+2514,reed,herring,1911,\N
+2515,jean,verhagen,1924,\N
+2516,ross hagen,,0000,\N
+2517,julie hagerty,,0000,\N
+2518,merle haggard,,0000,\N
+2519,dan,haggerty,0000,\N
+2520,brahim haggiag,,0000,\N
+2521,larry,hagman,1930,\N
+2522,gisela hahn,,0000,\N
+2523,charles haid,,0000,\N
+2524,sig haig,,0000,\N
+2525,kenneth,haigh,1929,\N
+2526,ron haines,,0000,\N
+2527,william,haines,1900,\N
+2528,rufus alan,mckahan,1892,\N
+2529,alan,jr,1918,\N
+2530,barbara,hale,1922,\N
+2531,patrick,fitzgerald,1882,\N
+2532,j.,hatley,1892,\N
+2533,louise closser,hale,1872,\N
+2534,monte,hale,1919,\N
+2535,richard,hale,1893,\N
+2536,robert hale,,0000,\N
+2537,robert hale,monroe,1902,\N
+2538,jackie earle haley,,0000,\N
+2539,jack,haley,1899,\N
+2540,h.b. halicki,,0000,\N
+2541,albert hall,,0000,\N
+2542,anthony michael hall,,1968,\N
+2543,henry,hall,1920,\N
+2544,james,brown,1900,\N
+2545,jerry hall,,1957,\N
+2546,charles,locher,1913,\N
+2547,juanita, hall,1901,\N
+2548,porter,hall,1888,\N
+2549,thurston,hall,1883,\N
+2550,ray,hallam,[1]1905,\N
+2551,may,hallatt,1882,\N
+2552,lillian halldavis,,0000,\N
+2553,john,halliday,1880,\N
+2554,billy,halop,1920,\N
+2555,brett,halsey,0000,\N
+2556,charles,halton,1876,\N
+2557,mie hama,,0000,\N
+2558,veronica hamel,,0000,\N
+2559,,hamer,1947,\N
+2560,mark,hamill,1952,\N
+2561,bernie,hamilton,0000,\N
+2562,george,hamilton,1939,\N
+2563,john,hamilton,1886,\N
+2564,linda hamilton,,0000,\N
+2565,margaret hamilton,hamilton,1902,\N
+2566,murray,hamilton,1923,\N
+2567,neil,hamilton,1899,\N
+2568,suzanne hamilton,,0000,\N
+2569,harry, hamlin,1951,\N
+2570,ben hammer,,0000,\N
+2571,dorothy,standing,1909,\N
+2572,walter hampden,dougherty,1879,\N
+2573,susan,hampshire,1938,\N
+2574,james hampton,,0000,\N
+2575,master bong soo han,,0000,\N
+2576,miyi hana,,0000,\N
+2577,irene,handl,1902,\N
+2578,lloyd hanes,,0000,\N
+2579,carol,haney,1928,\N
+2580,tom,hanks,1956,\N
+2581,jenny,hanley,1947,\N
+2582,jimmy,hanley,1918,\N
+2583,mie hanna,,0000,\N
+2584,darryl hannah,,0000,\N
+2585,lawrence,hanray,1874,\N
+2586,lars,hansen,1887,\N
+2587,patti hansen,,0000,\N
+2588,haya,hararit,1934,\N
+2589,james harcourt,,0000,\N
+2590,jerry hardin,,0000,\N
+2591,ty hardin,,0000,\N
+2592,dorothy,gatley,1902,\N
+2593,david llewellyn,harding,0000,\N
+2594,karl hardman,,0000,\N
+2595,sir cedric,hardwicke,1893,\N
+2596,oliver norvell,hardy,1892,\N
+2597,robert,hardy,1925,\N
+2598,lumsden,hare,1875,\N
+2599,robertson,hare,1891,\N
+2600,dorian,harewood,1950,\N
+2601,john hargreaves,,0000,\N
+2602,gordon,harker,1885,\N
+2603,harlean,carpentier,1911,\N
+2604,deborah harmon,,0000,\N
+2605,mark,harmon,1951,\N
+2606,jessica,harper,1955,\N
+2607,ron harper,,0000,\N
+2608,tess harper,,0000,\N
+2609,valerie,harper,1940,\N
+2610,william,harrigan,1894,\N
+2611,pat,harrington,0000,\N
+2612,aaron harris,,0000,\N
+2613,anita harris,,0000,\N
+2614,barbara,harris,1936,\N
+2615,brad harris,,0000,\N
+2616,cassandra harris,,1952,\N
+2617,ed harris,,0000,\N
+2618,joann harris,,0000,\N
+2619,jonathan,harris,1914,\N
+2620,julie,harris,1925,\N
+2621,julius w.\,harris,0000,\N
+2622,leigh harris,,0000,\N
+2623,leonard harris,,0000,\N
+2624,lynette harris,,0000,\N
+2625,m.k. harris,,0000,\N
+2626,phillip,harris,1904,\N
+2627,richard,harris,1932,\N
+2628,robert,harris,1900,\N
+2629,robert h.,harris,1911,\N
+2630,rosemary,harris,1930,\N
+2631,cathryn harrison,,0000,\N
+2632,george,harrison,0000,\N
+2633,gregory harrison,,0000,\N
+2634,jenilee harrison,,0000,\N
+2635,kathleen,harrison,1898,\N
+2636,linda,harrison,1945,\N
+2637,sir reginald,carey,1908,\N
+2638,kathryn,harrold,1950,\N
+2639,lisa harrow,,0000,\N
+2640,deborah harry,,0000,\N
+2641,dolores,hicks,1938,\N
+2642,dorothy,hart,1923,\N
+2643,john hart,,0000,\N
+2644,veronica hart,,0000,\N
+2645,william surrey,hart,1870,\N
+2646,mariette,hartley,1940,\N
+2647,david,hartman,1937,\N
+2648,elizabeth,hartman,1941,\N
+2649,ena hartman,,0000,\N
+2650,lisa hartman,,0000,\N
+2651,paul hartman,,0000,\N
+2652,phil, hartmann,1948,\N
+2653,william,hartnell,1908,\N
+2654,laurence,harvey,0000,\N
+2655,forrester,harvey,1880,\N
+2656,herk harvey,,0000,\N
+2657,larushka mischa,skikne,1928,\N
+2658,lilian,harvey,1906,\N
+2659,paul,harvey,1884,\N
+2660,bob haskins,,0000,\N
+2661,otto eduard,hasse,1903,\N
+2662,david hasselhoff,,0000,\N
+2663,marilyn,hassett,1947,\N
+2664,signe,larsson,1915,\N
+2665,terry,hatcher,dob,\N
+2666,richard hatch,,0000,\N
+2667,hurd,hatfield,1918,\N
+2668,rohini hattangady,,0000,\N
+2669,raymond,hatton,1887,\N
+2670,fn?,hatton,0000,\N
+2671,rutger,hauer,1944,\N
+2672,max,haufler,19bb,\N
+2673,fay hauser,,0000,\N
+2674,joachim hauser,,0000,\N
+2675,wings hauser,,0000,\N
+2676,thomas haustein,,0000,\N
+2677,june,stovenour,1926,\N
+2678,nigel havers,,0000,\N
+2679,ellen evangeline,hovick,1916,\N
+2680,jack,hawkins,1910,\N
+2681,jim,hawkins,1942,\N
+2682,william hawley,,0000,\N
+2683,goldie,hawn,1945,\N
+2684,jill,haworth,1945,\N
+2685,nigel,hawthorne,1929,\N
+2686,charles,hawtrey,1914,\N
+2687,sessue,hayakawa,1889,\N
+2688,harry,hayden,1884,\N
+2689,linda,hayden,1951,\N
+2690,pate,lucid,1912,\N
+2691,sterling,hayden,1916,\N
+2692,richard,haydn,1905,\N
+2693,julie haydon,,0000,\N
+2694,helen,hay,1874,\N
+2695,mary jane,hayes,1930,\N
+2696,george,hayes,1885,\N
+2697,helen,hayesbrown,1900,\N
+2698,margaret,hayes,1915,\N
+2699,melvyn,hayes,1935,\N
+2700,peter lind,hayes,0000,\N
+2701,dick,haymes,1916,\N
+2702,linda haynes,,0000,\N
+2703,robert,hays,1948,\N
+2704,joan,haythornthwaite,1915,\N
+2705,seafield,grant,1909,\N
+2706,edythe,marrener,1918,\N
+2707,margarita carmen,cansino,1918,\N
+2708,jonathan haze,,0000,\N
+2709,katherine healy,,0000,\N
+2710,john,heard,1946,\N
+2711,joey,heatherton,1944,\N
+2712,eileen,heckart,1919,\N
+2713,ara (al),heditsian,1926,\N
+2714,nathalie,hedren,1935,\N
+2715,marta heflin,,0000,\N
+2716,emmet evan,heflin,1910,\N
+2717,michael hegarty,,0000,\N
+2718,julie hegerty,,0000,\N
+2719,o.p.\,heggie,1879,\N
+2720,elayne heilveil,,0000,\N
+2721,richard hell,,0000,\N
+2722,randee heller,,0000,\N
+2723,anne helm,,0000,\N
+2724,florence helminger,,0000,\N
+2725,katherine,helmond,1929,\N
+2726,tom helmore,,0000,\N
+2727,sir robert,helpmann,1909,\N
+2728,margaux,hemingway,1955,\N
+2729,mariel,hemingway,1961,\N
+2730,david,hemmings,1941,\N
+2731,albert henderson,,0000,\N
+2732,skitch henderson,,0000,\N
+2733,nancy hendrickson,,0000,\N
+2734,wanada,hendrix,1928,\N
+2735,janet henfrey,,0000,\N
+2736,sonja,henie,1912,\N
+2737,marilu henner,,0000,\N
+2738,eva,henning,1920,\N
+2739,pat henning,,0000,\N
+2740,paul george julius,vonhenreid,1907,\N
+2741,bobby,henrey,1939,\N
+2742,lance henriksen,,0000,\N
+2743,b.,zuckerman,1930,\N
+2744,charlotte,henry,1913,\N
+2745,gregg henry,,0000,\N
+2746,justin,henry,1971,\N
+2747,mike,henry,1939,\N
+2748,william,henry,1918,\N
+2749,pamela hensley,,0000,\N
+2750,gladys,gunn,1897,\N
+2751,jim, henson,1936,\N
+2752,nicky,henson,0000,\N
+2753,leslie,henson,1891,\N
+2754,nicky,henson,1945,\N
+2755,audrey,hepburn-ruston,1929,\N
+2756,dee hepburn,,0000,\N
+2757,katherine,hepburn,1907,\N
+2758,bernard,hepton,1925,\N
+2759,holmes,herbert,1882,\N
+2760,hugh,herbert,1887,\N
+2761,percy,herbert,1925,\N
+2762,tim herbert,,0000,\N
+2763,richard herd,,0000,\N
+2764,eileen,herlihy,1919,\N
+2765,paul,rubens,0000,\N
+2766,woodie herman,,0000,\N
+2767,leila hermosa,,0000,\N
+2768,juano,hernandez,1896,\N
+2769,marcel herrand,,0000,\N
+2770,edward,herrmann,1943,\N
+2771,barbara,herzstine,1948,\N
+2772,jean,hersholt,1886,\N
+2773,irene,hervey,1910,\N
+2774,arnold hess~jr.,,0000,\N
+2775,howard hesseman,,0000,\N
+2776,charlton,heston,1924,\N
+2777,christopher hewett,,0000,\N
+2778,martin hewitt,,0000,\N
+2779,louis,heydt,1905,\N
+2780,pretty,violet,1931,\N
+2781,pat,heywood,1927,\N
+2782,hibbert,geoffrey,1922,\N
+2783,william,hickey,1928,\N
+2784,bill hickman,,0000,\N
+2785,darryl,hickman,1931,\N
+2786,catherine hicks,,0000,\N
+2787,russell,hicks,1895,\N
+2788,sir seymour,hicks,1871,\N
+2789,joan,hickson,1906,\N
+2790,arthur,hill,1922,\N
+2791,alfred hawthorne,hill,1925,\N
+2792,dana hill,,0000,\N
+2793,howard, hill,1898,\N
+2794,marianna hill,,0000,\N
+2795,norman hill,,0000,\N
+2796,mario,girotti,1941,\N
+2797,tommy hill,,0000,\N
+2798,wendy,hiller,1912,\N
+2799,john,hillerman,1931,\N
+2800,peggy lou,snyder,1914,\N
+2801,candace,hilligoss,0000,\N
+2802,warren hillman,,0000,\N
+2803,daisy,hilton,1908,\N
+2804,violet,hilton,1908,\N
+2805,art,hindle,1948,\N
+2806,samuel s.,hinds,1875,\N
+2807,gregory hines,,0000,\N
+2808,johnny,hines,1895,\N
+2809,maurice hines,,0000,\N
+2810,pat,hingle,1923,\N
+2811,patrick k. hinses,,0000,\N
+2812,darby hinton,,0000,\N
+2813,thora,hird,1913,\N
+2814,judd,hirsch,1936,\N
+2815,robert,hirsch,1929,\N
+2816,sir alfred,hitchcock,1899,\N
+2817,patricia,hitchcock-o'connell,1928,\N
+2818,rose,keefer,1906,\N
+2819,halliwell,hobbes,1877,\N
+2820,jack,hobbs,1893,\N
+2821,valerie,hobson,1917,\N
+2822,patricia,hodge,1946,\N
+2823,john,hodiak,1914,\N
+2824,samuel david,hyams,1893,\N
+2825,sir michael,hodern,0000,\N
+2826,basil,hoffman,1941,\N
+2827,dustin,hoffman,1937,\N
+2828,hulk hogan,,0000,\N
+2829,robert hogan,,0000,\N
+2830,paul hogan,,0000,\N
+2831,arthur,hohl,1889,\N
+2832,fred holbert,,0000,\N
+2833,hal,holbrook,1925,\N
+2834,sarah holcomb,,0000,\N
+2835,fay,hammerton,1894,\N
+2836,gloria,holden,1908,\N
+2837,mark holden,,0000,\N
+2838,william,holden,1872,\N
+2839,william,beedle,1918,\N
+2840,geoffrey holder,,0000,\N
+2841,heidi holicker,,0000,\N
+2842,eleanor gough,mckay,1915,\N
+2843,anthony holland,,0000,\N
+2844,judith,tuvim,1922,\N
+2845,martha holliday,,0000,\N
+2846,earl,holliman,1928,\N
+2847,stanley,holloway,1890,\N
+2848,sterling,holloway,1905,\N
+2849,celeste,holm,1919,\N
+2850,ian holm,cuhbert,1932,\N
+2851,hollye holmes,,0000,\N
+2852,jennifer holmes,,0000,\N
+2853,phillips,holmes,1907,\N
+2854,taylor,holmes,1872,\N
+2855,charles john,holt ii,1888,\N
+2856,elizabeth,holt,1920,\N
+2857,patrick,parsons,1912,\N
+2858,charles john,holt iii,1919,\N
+2859,robert,homans,1874,\N
+2860,skip,homeier,1929,\N
+2861,oskar,homolka,0000,\N
+2862,robert,hooks,1937,\N
+2863,peter hooten,,0000,\N
+2864,beverly hope,,0000,\N
+2865,leslie townes,hope,1903,\N
+2866,leslie hope,,0000,\N
+2867,vida,hope,1918,\N
+2868,anthony,hopkins,1941,\N
+2869,bo,hopkins,1942,\N
+2870,miriam,hopkins,1902,\N
+2871,dennis,hoper,1935,\N
+2872,elda,furry,1890,\N
+2873,victoria,hopper,1909,\N
+2874,william,furry,1915,\N
+2875,christiane,h\"orbiger,0000,\N
+2876,paul,h\"orbiger,0000,\N
+2877,sir michael,hordern,1911,\N
+2878,david,horne,1898,\N
+2879,geoffrey,horne,1926,\N
+2880,len horne,,0000,\N
+2881,lena,horne,1917,\N
+2882,victoria,horne,1920,\N
+2883,lee horsley,,0000,\N
+2884,edward everett,horton,1886,\N
+2885,mead howard,horton,1924,\N
+2886,peter,horton,0000,\N
+2887,bob,hoskins,1942,\N
+2888,robert,hossein,1927,\N
+2889,erich,weiss,1873,\N
+2890,jacques,haussmann,1902,\N
+2891,jerry houser,,0000,\N
+2892,patrick houser,,0000,\N
+2893,arthur,housman,1888,\N
+2894,donald,houston,1923,\N
+2895,katherina houston,gribbin,1901,\N
+2896,whitney,houston,1960,\N
+2897,arthur,howard,1910,\N
+2898,barbara howard,,0000,\N
+2899,brie howard,,0000,\N
+2900,dan howard,,0000,\N
+2901,clint howard,,0000,\N
+2902,jerome,horwitz,1906,\N
+2903,esther,howard,1893,\N
+2904,john,cox,1913,\N
+2905,kathleen,howard,1879,\N
+2906,ken,howard,1944,\N
+2907,leslie,stainer,1890,\N
+2908,mel howard,,0000,\N
+2909,muses,horowitz,1895,\N
+2910,ronald,howard,1918,\N
+2911,ronald,howard,1953,\N
+2912,samuel,horowitz,1891,\N
+2913,susan howard,,0000,\N
+2914,sydney,howard,1884,\N
+2915,trevor,howard,1916,\N
+2916,c.thomas howell,,1967,\N
+2917,cherie howell,,0000,\N
+2918,francis,howard,1921,\N
+2919,bobby,howes,1895,\N
+2920,sally,howes,1930,\N
+2921,arthur,hoyt,1873,\N
+2922,john,hoysradt,1905,\N
+2923,kelly,hu,0000,\N
+2924,allan hubbard,,0000,\N
+2925,john hubbard,,0000,\N
+2926,harold,huber,1904,\N
+2927,season,hubley,0000,\N
+2928,paul,hubschmid,1917,\N
+2929,cooper huckabee,,0000,\N
+2930,walter,hudd,1898,\N
+2931,david,huddleston,1930,\N
+2932,michael huddleston,,0000,\N
+2933,bill hudson,,0000,\N
+2934,ernie hudson,,0000,\N
+2935,rochelle,hudson,1914,\N
+2936,roy,scherer,1925,\N
+2937,brent huff,,0000,\N
+2938,david,huffman,1945,\N
+2939,barnard,hughes,1915,\N
+2940,betty,vongerlean,1929,\N
+2941,lloyd,hughes,1896,\N
+2942,mary,hughes,1919,\N
+2943,wendy,hughes,0000,\N
+2944,daniel hughkelly,,0000,\N
+2945,claude,hulbert,1900,\N
+2946,jack,hulbert,1892,\N
+2947,tom,hulce,0000,\N
+2948,dianne hull,,0000,\N
+2949,henry,hull,1890,\N
+2950,josephine,sherwood,1884,\N
+2951,benita,hume,1906,\N
+2952,barry humphries,,0000,\N
+2953,arthur,hunicutt,1911,\N
+2954,gayle,hunicutt,1942,\N
+2955,helen hunt,,1963,\N
+2956,jimmy hunt,,0000,\N
+2957,linda hunt,,0000,\N
+2958,marcia,hunt,1917,\N
+2959,martita,hunt,1900,\N
+2960,glenn,hunter,1897,\N
+2961,holly ii,hunter,1958,\N
+2962,ian,hunter,1900,\N
+2963,henry h.,mckinnies,1925,\N
+2964,kaki hunter,,0000,\N
+2965,janet,cole,1922,\N
+2966,andrew arthur,kelm,1931,\N
+2967,pam huntington,,0000,\N
+2968,raymond,huntley,1904,\N
+2969,isabelle,huppert,1955,\N
+2970,elizabeth,hurley,1965,\N
+2971,brandon,hurst,1866,\N
+2972,david,hurst,1925,\N
+2973,paul,hurst,1889,\N
+2974,veronica,hurst,1931,\N
+2975,john,hurt,1940,\N
+2976,mary beth,supinger,1948,\N
+2977,tom hurt,,0000,\N
+2978,william,hurt,1950,\N
+2979,ferlin husky,,0000,\N
+2980,olivia,hussey,1951,\N
+2981,ruth carol,o\'rourke,1914,\N
+2982,anjelica,huston,1951,\N
+2983,john,huston,1906,\N
+2984,walter,houghston,1884,\N
+2985,david,hucheson,1905,\N
+2986,will,hutchins,1932,\N
+2987,josephine,hutchinson,1898,\N
+2988,harold,huth,1892,\N
+2989,betty,hutton,1921,\N
+2990,jim,hutton,1934,\N
+2991,mary,hutton,1943,\N
+2992,robert bruce,winne,1920,\N
+2993,timothy,hutton,1960,\N
+2994,leila,hyams,1905,\N
+2995,wilfred,hydewhite,1903,\N
+2996,martha,hyer,1929,\N
+2997,diana,gentner,1936,\N
+2998,scott,hylands,0000,\N
+2999,jane,hylton,1926,\N
+3000,warren,hymer,1906,\N
+3001,mike hynson,,0000,\N
+3002,olaf,hytten,1888,\N
+3003,eric idle,,0000,\N
+3004,james iglehart,,0000,\N
+3005,iman,,1956,\N
+3006,a.b. imenson,,0000,\N
+3007,ralph,ince,1882,\N
+3008,frieda,wightman,1900,\N
+3009,amy ingersoll,,0000,\N
+3010,reginald,hitchcock,1892,\N
+3011,rex,ingram,1895,\N
+3012,jill,ireland,1936,\N
+3013,john,ireland,1914,\N
+3014,jeremy,irons,1948,\N
+3015,michael ironside,,0000,\N
+3016,robin irvine,,0000,\N
+3017,amy,irving,1953,\N
+3018,juzo,itami,1934,\N
+3019,manpeii,itami,1976,\N
+3020,zachary ittimangnaq,,0000,\N
+3021,gregory itzin,,0000,\N
+3022,rosalind,ivan,1884,\N
+3023,burl icle,ivanhoe,1909,\N
+3024,judith ivey,,0000,\N
+3025,kereem abdul jabar,,0000,\N
+3026,wolfman jack,,0000,\N
+3027,anne,jackson,1925,\N
+3028,freda,jackson,1909,\N
+3029,glenda,jackson,1937,\N
+3030,gordon,jackson,1923,\N
+3031,jamie smith jackson,,0000,\N
+3032,kate,jackson,1950,\N
+3033,michael jackson,,0000,\N
+3034,samuel leroy,jackson,1948,\N
+3035,selmer,jackson,1888,\N
+3036,sherry jackson,,0000,\N
+3037,thomas e.,jackson,1886,\N
+3038,ir\`ene,jacob,0000,\N
+3039,derek,jacobi,1938,\N
+3040,lou,jacobi,1913,\N
+3041,scott,jacoby,1956,\N
+3042,hattie,jacques,1924,\N
+3043,richard,jaeckel,1926,\N
+3044,sam,jaffe,1893,\N
+3045,saeed jaffrey,,0000,\N
+3046,blanca,perez-macias,1945,\N
+3047,dean,jeffries,1903,\N
+3048,henry,jaglom,0000,\N
+3049,clifton,james,1921,\N
+3050,elizabeth james,,0000,\N
+3051,harry,james,1916,\N
+3052,jessica james,,0000,\N
+3053,sidney,james,1913,\N
+3054,sonny james,,0000,\N
+3055,thomas,jameson,1892,\N
+3056,fr\'ed\'erique jamet,,0000,\N
+3057,theodor janenz,janenz,1881,\N
+3058,horst janson,,0000,\N
+3059,david,janssen,1930,\N
+3060,famke,janssen,0000,\N
+3061,louis january,,0000,\N
+3062,claude,jarman~jr.,1934,\N
+3063,peter jason,,0000,\N
+3064,rick,jason,1929,\N
+3065,sybil,jason,1929,\N
+3066,michael,james,1936,\N
+3067,gloria,jean,1928,\N
+3068,renee,jeanmaire,1924,\N
+3069,isabel,jeans,1891,\N
+3070,ursula,mcminn,1906,\N
+3071,allan,jeayes,1885,\N
+3072,barbara,jefford,1930,\N
+3073,anne,carmichael,1923,\N
+3074,lang jeffries,,0000,\N
+3075,lionel,jeffries,1926,\N
+3076,ian jenble,,0000,\N
+3077,alfred,mcgonegal,1900,\N
+3078,jackie,jenkins,1937,\N
+3079,megs,jenkins,1917,\N
+3080,frank,jenks,1902,\N
+3081,claudia jennings,,0000,\N
+3082,dewitt,jennings,1879,\N
+3083,salome,jens,1935,\N
+3084,roy cameron jensen,,0000,\N
+3085,roy jenson,,0000,\N
+3086,mary,allen,1877,\N
+3087,george,jessel,1898,\N
+3088,patricia,jessel,1920,\N
+3089,isabel,jewell,1913,\N
+3090,ann jillian,,0000,\N
+3091,zita,johann,1904,\N
+3092,david johansen,,0000,\N
+3093,reginald dennis,dwight,1947,\N
+3094,rosamund,john,1913,\N
+3095,glynis,johns,1923,\N
+3096,glynis,mervyn,1899,\N
+3097,arte,johnson,1934,\N
+3098,arthur,johnson,1876,\N
+3099,ben,johnson,1920,\N
+3100,dame celia,johnson,1908,\N
+3101,harold ogden,johnson,1891,\N
+3102,don,johnson,0000,\N
+3103,glynis johnson,,0000,\N
+3104,johnny johnston,,0000,\N
+3105,katie,johnson,1878,\N
+3106,catherine,townsend,1904,\N
+3107,laura johnson,,0000,\N
+3108,lynn-holly,johnson,0000,\N
+3109,michelle johnson,,0000,\N
+3110,noble,johnson,1897,\N
+3111,rafer,johnson,1935,\N
+3112,richard,johnson,1927,\N
+3113,stephen johnson,,0000,\N
+3114,johnson,tor,0000,\N
+3115,charles,van johnson,1916,\N
+3116,jo johnston,,0000,\N
+3117,margaret,johnston,1917,\N
+3118,oliver,johnston,1888,\N
+3119,asa,yoelson,1886,\N
+3120,allan,jones,1907,\N
+3121,barry,jones,1893,\N
+3122,charles,gebhardt,1889,\N
+3123,carolyn,jones,1929,\N
+3124,christopher,jones,1941,\N
+3125,dean,jones,1933,\N
+3126,duane jones,,0000,\N
+3127,emrys,jones,1915,\N
+3128,freddie,jones,1927,\N
+3129,grace jones,,0000,\N
+3130,griffith,jones,1910,\N
+3131,hannah jones,,0000,\N
+3132,henry,jones,1912,\N
+3133,james earl,jones,1931,\N
+3134,jeffrey jones,,0000,\N
+3135,phyllis,isley,0000,\N
+3136,jocelyn jones,,0000,\N
+3137,j.e.,mcqueen,1936,\N
+3138,jones,o-lan,0000,\N
+3139,shirley,jones,1934,\N
+3140,lindley armstrong,jones,1911,\N
+3141,susan jones,,0000,\N
+3142,terry jones,,0000,\N
+3143,tommy lee,jones,1946,\N
+3144,samson jorah,,0000,\N
+3145,bobbie,jordan,1923,\N
+3146,richard,jordan,1938,\N
+3147,christopher, jorgenson,0000,\N
+3148,victor,jory,1902,\N
+3149,jackie joseph,,0000,\N
+3150,erland,josephson,0000,\N
+3151,allyn,joslyn,1905,\N
+3152,darwin joston,,0000,\N
+3153,louis, gendre,1919,\N
+3154,louis,jouvet,1887,\N
+3155,leatrice,joy,1899,\N
+3156,robert joy,,0000,\N
+3157,alice,joyce,1889,\N
+3158,betty,leabo,1918,\N
+3159,marguerite,upton,1893,\N
+3160,ashley,judd,1970,\N
+3161,edward,judd,1932,\N
+3162,robert judd,,0000,\N
+3163,raul,julia,1940,\N
+3164,gordon,jump,0000,\N
+3165,june,tripp,0000,\N
+3166,maria jurado,garcia,1927,\N
+3167,curt,j\"urgens,1912,\N
+3168,deana jurgens,,0000,\N
+3169,james robertson justice,,0000,\N
+3170,gabi,just,0000,\N
+3171,george justin,,0000,\N
+3172,john,justin,1917,\N
+3173,suzanne kaaren,,0000,\N
+3174,wolf kahler,,0000,\N
+3175,florence,kahn,0000,\N
+3176,jonathan kahn,,0000,\N
+3177,madeleine,kahn,1942,\N
+3178,toni kalem,,0000,\N
+3179,helena,kallianoites,0000,\N
+3180,ida kaminska,,0000,\N
+3181,anna kanakis,,0000,\N
+3182,steve kanaly,,0000,\N
+3183,byron kane,,0000,\N
+3184,carol,kane,1952,\N
+3185,helen,schroeder,1904,\N
+3186,jimmy kane,,0000,\N
+3187,michael kane,,0000,\N
+3188,gabe kaplan,,0000,\N
+3189,marvin,kaplin,1924,\N
+3190,sashi,kapoor,0000,\N
+3191,valerie kaprisky,,0000,\N
+3192,frank kaquitts,,0000,\N
+3193,hanne karin,beyer,1940,\N
+3194,john,karlen,1935,\N
+3195,miriam,karlin,1925,\N
+3196,william henry,pratt,1887,\N
+3197,roscoe,karns,1893,\N
+3198,alex,karras,1935,\N
+3199,kevin karson,,0000,\N
+3200,harold,kasket,1916,\N
+3201,peter,kastner,1944,\N
+3202,isser,kac,1913,\N
+3203,isser,kac,1896,\N
+3204,rosanne katon,,0000,\N
+3205,william,katt,1955,\N
+3206,daniel kauffman,,0000,\N
+3207,andy kaufman,,0000,\N
+3208,joseph kaufmann,,0000,\N
+3209,dorrie kavanaugh,,0000,\N
+3210,julie,kavner,0000,\N
+3211,charles kay,,0000,\N
+3212,diane kay,,0000,\N
+3213,caren kaye,,0000,\N
+3214,david daniel,kaminsky,1913,\N
+3215,stubby,kaye,1918,\N
+3216,elia,kazanjoglous,1909,\N
+3217,lainie kazan,,0000,\N
+3218,james,keach,0000,\N
+3219,stacy,keach,1941,\N
+3220,robert emmett,keane,1883,\N
+3221,joseph francis,keaton,1895,\N
+3222,diane,hall,1949,\N
+3223,michael,keaton,1952,\N
+3224,steven,keats,1945,\N
+3225,lila,kedrova,1918,\N
+3226,harold,leek,1917,\N
+3227,ethel,keeler,1909,\N
+3228,geoffrey,keen,1916,\N
+3229,malcolm,keen,1888,\N
+3230,george,duryea,1896,\N
+3231,jack kehoe,,0000,\N
+3232,kishi keiko,,0000,\N
+3233,andrew,keir,1926,\N
+3234,harvey,keitel,1947,\N
+3235,robert~jr.,keith,1921,\N
+3236,david keith,,0000,\N
+3237,keith,ross,1899,\N
+3238,robert,keith,1896,\N
+3239,cecil,kellaway,1891,\N
+3240,dorothy keller,,0000,\N
+3241,helen,keller,1881,\N
+3242,marthe,keller,1945,\N
+3243,annette,kellerman,1888,\N
+3244,sally,kellerman,1941,\N
+3245,susan kellerman,,0000,\N
+3246,deforest,kelley,1920,\N
+3247,mike,kellin,1922,\N
+3248,emmett,kelly,1895,\N
+3249,frederick,kelly,0000,\N
+3250,eugene curran,kelly,1912,\N
+3251,princess grace of monaco,kelly,1928,\N
+3252,jeanette kelly,,0000,\N
+3253,jim kelly,,0000,\N
+3254,moira,kelly,1969,\N
+3255,nancy,kelly,1921,\N
+3256,patsy,kelly,1910,\N
+3257,paul,kelly,1899,\N
+3258,paula,kelly,0000,\N
+3259,sharon kelly,,0000,\N
+3260,tommy,kelly,1928,\N
+3261,moultrie,kelsall,1901,\N
+3262,fred,kelsey,1884,\N
+3263,pert,kelton,1907,\N
+3264,gary,kemp,1959,\N
+3265,edmund,walker,1934,\N
+3266,martin,kemp,1961,\N
+3267,rachel kempson,,0000,\N
+3268,joan,kemp-welch,1906,\N
+3269,takakura ken,,0000,\N
+3270,cyrus,kendall,1898,\N
+3271,henry,kendall,1887,\N
+3272,justine,mccarthy,1926,\N
+3273,frieda,harrison,1943,\N
+3274,tony kendall,,0000,\N
+3275,alexa kenin,,0000,\N
+3276,arthur,kennedy,1914,\N
+3277,keith,douglas,1915,\N
+3278,edgar,kennedy,1890,\N
+3279,george,kennedy,1925,\N
+3280,gerard kennedy,,0000,\N
+3281,jayne kennedy,,0000,\N
+3282,maude,kahler,1908,\N
+3283,leon isaac kennedy,,0000,\N
+3284,james,kenney,1930,\N
+3285,sean kenney,,0000,\N
+3286,jill kennington,,0000,\N
+3287,gn,kensit,1969,\N
+3288,dorothea kent,,0000,\N
+3289,joan,field,1921,\N
+3290,keneth,kent,1882,\N
+3291,doris,kenyon,0000,\N
+3292,bill kerr,,0000,\N
+3293,deborah,kerr-trimmer,1921,\N
+3294,j. herbert kerr~jr.,,0000,\N
+3295,john,kerr,1931,\N
+3296,linda kerridge,,0000,\N
+3297,j.m.,kerrigan,1885,\N
+3298,arnold,kaiser,1889,\N
+3299,kathy kersh,,0000,\N
+3300,brian kerwin,,0000,\N
+3301,lance kerwin,,0000,\N
+3302,jillian kessner,,0000,\N
+3303,sara kestelman,,0000,\N
+3304,evelyn,keyes,1919,\N
+3305,mark keyloun,,0000,\N
+3306,persis,khambatta,1950,\N
+3307,chaka khan,,0000,\N
+3308,guy,kibbee,1882,\N
+3309,milton,greenwald,0000,\N
+3310,margot,kidder,1948,\N
+3311,nicole,kidman,1967,\N
+3312,dead end kids,,n.a.,\N
+3313,n.a.,n.a.,n.a.,\N
+3314,richard,kiel,1939,\N
+3315,wolfgang,kieling,1924,\N
+3316,percy,kilbride,1888,\N
+3317,terry,kilburn,1926,\N
+3318,richard,kiley,1922,\N
+3319,victor,kilian,1897,\N
+3320,val,kilmer,1959,\N
+3321,patricia,reid,1921,\N
+3322,bruce kimmel,,0000,\N
+3323,anthony,kimmins,1901,\N
+3324,stephen kinanju,,0000,\N
+3325,adrienne king,,0000,\N
+3326,irwin,kniberg,1924,\N
+3327,georgetta,barry,1915,\N
+3328,anita,king,1889,\N
+3329,bernard king,,0000,\N
+3330,charles,king,1889,\N
+3331,charles,king,1899,\N
+3332,mabel king,,0000,\N
+3333,pamela king,,0000,\N
+3334,perry,king,1948,\N
+3335,stephen,king,1940,\N
+3336,walter woolf,king,1899,\N
+3337,zalman king,,0000,\N
+3338,walter,kingsford,1882,\N
+3339,krishna,banji,1944,\N
+3340,melinda kinnaman,,0000,\N
+3341,greg,kinnear,1963,\N
+3342,roy,kinnear,1934,\N
+3343,leonid,kinskey,1903,\N
+3344,claus gunther,nakszynski,1926,\N
+3345,nastassia,kinski,1959,\N
+3346,lee,kinsolving,1938,\N
+3347,bruno kirby,,0000,\N
+3348,phyllis,kirkegaard,1926,\N
+3349,tommy,kirk,1941,\N
+3350,al kirkeby,,0000,\N
+3351,sally kirkland,,0000,\N
+3352,gn,bn,0000,\N
+3353,oreste,kirkop,0000,\N
+3354,terry kiser,,0000,\N
+3355,tawny kitaen,,0000,\N
+3356,michael kitchen,,0000,\N
+3357,eartha,kitt,1928,\N
+3358,john,kitzmiller,1913,\N
+3359,alf,kjellin,1920,\N
+3360,bodil kjer,,0000,\N
+3361,robert klein,,0000,\N
+3362,rudolf,klein-rogge,1888,\N
+3363,werner,klemperer,1919,\N
+3364,kevin kline,,0000,\N
+3365,val kline,,0000,\N
+3366,debra klose,,0000,\N
+3367,jack,klugman,1922,\N
+3368,evelyn,knapp,1908,\N
+3369,david knell,,0000,\N
+3370,evel knievel,,0000,\N
+3371,david,mintz,1927,\N
+3372,esmond,knight,1906,\N
+3373,sandra knight,,0000,\N
+3374,shirley,knight hopkins,1937,\N
+3375,ted knight,,0000,\N
+3376,don,knotts,1924,\N
+3377,reginald,knowles,1911,\N
+3378,alexander,knox,1907,\N
+3379,walter koenig,,0000,\N
+3380,fred,kohler sr.,1889,\N
+3381,clarence,kolb,1874,\N
+3382,henry,kolker,1874,\N
+3383,anna konstam,,0000,\N
+3384,phyllis,konstam,1907,\N
+3385,leopoldine konstatin,,0000,\N
+3386,ford,sterling,n.a.,\N
+3387,miliza,korjus,1908,\N
+3388,harvey,korman,1927,\N
+3389,charlie korsmo,,0000,\N
+3390,fritz nathan,kohn,1892,\N
+3391,geza,kaiser,1907,\N
+3392,sylva,koscina,1935,\N
+3393,nicolai,yoshkin,1907,\N
+3394,linda,koslovski,0000,\N
+3395,david,kossoff,1919,\N
+3396,sho kosugi,,0000,\N
+3397,yaphet,kotto,1937,\N
+3398,nancy,kovack,1935,\N
+3399,jeroen,krabbe,0000,\N
+3400,ernie,kovacs,1919,\N
+3401,jeffrey kramer,,0000,\N
+3402,werner,krauss,1884,\N
+3403,kurt,kreuger,1917,\N
+3404,lisa kreuzer,,0000,\N
+3405,anneline kriel,,0000,\N
+3406,alice,krige,0000,\N
+3407,sylvia,kristel,1952,\N
+3408,marta kristen,,0000,\N
+3409,kris,kristofferson,1936,\N
+3410,joseph kroner,,0000,\N
+3411,alma,kruger,1868,\N
+3412,hardy,kruger,1928,\N
+3413,otto,kruger,1885,\N
+3414,gene krupa,,0000,\N
+3415,jack,kruschen,1922,\N
+3416,vivian kubrick,,0000,\N
+3417,youki,kudoh,1971,\N
+3418,paul kukas,,0000,\N
+3419,nancy,kulp,1919,\N
+3420,cal kuniholme,,0000,\N
+3421,alwyn kurts,,0000,\N
+3422,katy kurtzman,,0000,\N
+3423,james kushner,,0000,\N
+3424,nancy,kwan,1938,\N
+3425,burt,kwouk,1930,\N
+3426,sam,kydd,1917,\N
+3427,machiko,kyo,1924,\N
+3428,kay,kyser,1897,\N
+3429,david labiosa,,0000,\N
+3430,catherine,lacey,1904,\N
+3431,ronald lacey,,0000,\N
+3432,taylor lacher,,0000,\N
+3433,stephen lack,,0000,\N
+3434,frank,lackteen,1894,\N
+3435,denis lacroix,,0000,\N
+3436,jerry lacy,,0000,\N
+3437,alan,ladd,1913,\N
+3438,cheryl,stoppelmoor,1951,\N
+3439,david ladd,,0000,\N
+3440,diane,ladnier,1932,\N
+3441,patricia,laffan,1919,\N
+3442,marcy lafferty,,0000,\N
+3443,irving,lahrheim,1895,\N
+3444,christine lahti,,0000,\N
+3445,gary lahti,,0000,\N
+3446,frank paul,lovecchio,1913,\N
+3447,jenny,laird,1917,\N
+3448,arthur,silverlake,1905,\N
+3449,constance,ockleman,1919,\N
+3450,barbara,lamarr,1896,\N
+3451,hedwig,kiesler,1913,\N
+3452,fernando,lamas,1915,\N
+3453,lorenzo lamas,,0000,\N
+3454,gil,lamb,1906,\N
+3455,christopher,lambert,0000,\N
+3456,constant,lambert,1905,\N
+3457,jack,lambert,1899,\N
+3458,jack,lambert,1920,\N
+3459,paul lambert,,0000,\N
+3460,heath lamberts,,0000,\N
+3461,lloyd,lamble,1914,\N
+3462,duncan,lamont,1918,\N
+3463,molly lamont,,0000,\N
+3464,dorothy,kaumeyer,1914,\N
+3465,charles lampkin,,0000,\N
+3466,burt,lancaster,1913,\N
+3467,karl lanchbury,,0000,\N
+3468,elizabeth,sullivan,1902,\N
+3469,geoffrey land,,0000,\N
+3470,david,landau,1878,\N
+3471,martin,landau,1933,\N
+3472,judy landers,,0000,\N
+3473,elizabeth,kuhnelt,1904,\N
+3474,maria,landi,1937,\N
+3475,frances,ridste,1919,\N
+3476,cullen,landis,1896,\N
+3477,jessie royce,medbury,1904,\N
+3478,laurene landon,,0000,\N
+3479,michael,orowitz,1937,\N
+3480,valerie landsburg,,0000,\N
+3481,abbe lane,,0000,\N
+3482,harry,albershart,1901,\N
+3483,charles,lane,1899,\N
+3484,diane,lane,1965,\N
+3485,jocelyn lane,,0000,\N
+3486,lola,mulligan,1909,\N
+3487,henry george,lupino,1892,\N
+3488,gn,fn,0000,\N
+3489,mike lane,,0000,\N
+3490,priscilla,mulligan,1917,\N
+3491,rosemary,mulligan,1913,\N
+3492,richard,lane,1900,\N
+3493,fn,lane,0000,\N
+3494,tom,lenesky,0000,\N
+3495,matheson,lang,1879,\N
+3496,perry lang,,0000,\N
+3497,robert,lang,1934,\N
+3498,glenn,langan,1917,\N
+3499,harry,langdon,1884,\N
+3500,michael,langdon,0000,\N
+3501,sue ane,langdon,1940,\N
+3502,hope,lange,1931,\N
+3503,jessica,lange,1949,\N
+3504,frank,langella,1940,\N
+3505,frances,langford,1914,\N
+3506,emilie charlotte,lebreton,1853,\N
+3507,angela,lansbury,1925,\N
+3508,joyce,wassmansdoff,1928,\N
+3509,robert h.,broom,1929,\N
+3510,alfredo,cocozza,1921,\N
+3511,laurie lapinski,,0000,\N
+3512,laura,laplante,1904,\N
+3513,jane,lapotaire,1941,\N
+3514,roderick,larocque de la rour,1896,\N
+3515,erik larsen,,0000,\N
+3516,ham larsen,,0000,\N
+3517,keith,larsen,1925,\N
+3518,wolf larson,,1959,\N
+3519,gaspare,biondolillo,1927,\N
+3520,louise,lasser,1939,\N
+3521,sidney lassick,,0000,\N
+3522,pal,,0000,\N
+3523,louise,latham,0000,\N
+3524,dana,owens,19bb,\N
+3525,frank,kline,0000,\N
+3526,matt lattanzi,,0000,\N
+3527,lyle lattel,,0000,\N
+3528,gn,latzen,0000,\N
+3529,chester,lauck,1902,\N
+3530,tom,laughlin,1938,\N
+3531,charles laughton,,1899,\N
+3532,cynthia,lauper,1953,\N
+3533,carol laure,,0000,\N
+3534,arthur stanley,jefferson,1890,\N
+3535,stan and oliver,laurel and hardy,n.a.,\N
+3536,john laurie,,0000,\N
+3537,rosetta,jacobs,1932,\N
+3538,ed,lauter,1940,\N
+3539,harry,lauter,1920,\N
+3540,daliah,lavi,1940,\N
+3541,john phillip,law,1937,\N
+3542,peter,lawford,1923,\N
+3543,josephine lawrence,goddard,1930,\N
+3544,adam lawrence,,0000,\N
+3545,barbara,lawrence,1928,\N
+3546,bruno lawrence,,0000,\N
+3547,delphi,lawrence,1927,\N
+3548,florence,lawrence,1886,\N
+3549,alexandra dagmar,lawrence-klasen,1898,\N
+3550,max,goldsmith,1910,\N
+3551,steve lawrence,,0000,\N
+3552,leigh,lawson,1944,\N
+3553,wilfrid,worsnop,1900,\N
+3554,frank,lawton,1904,\N
+3555,george,lazenby,1939,\N
+3556,robin leach,,0000,\N
+3557,rosemary leach,,0000,\N
+3558,cloris,leachman,1926,\N
+3559,gn,bn,1907,\N
+3560,michael,learned,1939,\N
+3561,denis,leary,1958,\N
+3562,jean-pierre,l\'eaud,1944,\N
+3563,stanley leavitt,,0000,\N
+3564,kelly,lebrock,0000,\N
+3565,francis,lederer,1906,\N
+3566,otto lederer,,0000,\N
+3567,joanna,winnifrith,1914,\N
+3568,berlinda,lee,1935,\N
+3569,bill,lee,1928,\N
+3570,bernard,lee,1908,\N
+3571,brandon,lee,1964,\N
+3572,bruce,lee,1940,\N
+3573,lionel,canegata,1907,\N
+3574,carl lee,,0000,\N
+3575,china lee,,0000,\N
+3576,christopher,lee,1922,\N
+3577,cinqu\'e,lee,0000,\N
+3578,cynthia lee,,0000,\N
+3579,davey,lee,1925,\N
+3580,wilma,wyatt,1911,\N
+3581,dorothy,lee,1911,\N
+3582,louise,hovick,1913,\N
+3583,joie,lee,0000,\N
+3584,mark lee,,0000,\N
+3585,michele,dusiak,1942,\N
+3586,robbie lee,,0000,\N
+3587,norma,egstrom,1921,\N
+3588,pinky lee,,0000,\N
+3589,spike,lee,0000,\N
+3590,richard,mcclelland,1922,\N
+3591,antoinette,lees,1914,\N
+3592,thelma,leeds,1914,\N
+3593,roger leenhardt,,0000,\N
+3594,le gallienne,eva,0000,\N
+3595,james,le gros,1950,\N
+3596,beatrix lehman,,0000,\N
+3597,fritz,leiber,1883,\N
+3598,ron,leibman,1937,\N
+3599,don leifert,,0000,\N
+3600,jeanette,morrison,1927,\N
+3601,jennifer,morrow,1961,\N
+3602,vivien,hartley,1913,\N
+3603,barbara,leigh-hunt,1935,\N
+3604,margaret,leighton,1922,\N
+3605,tom leindecker,,0000,\N
+3606,frederick,leister,1885,\N
+3607,donovan,leitch,0000,\N
+3608,virginia,leith,1932,\N
+3609,paul,le mat,1952,\N
+3610,harvey,lembeck,1925,\N
+3611,michael lembeck,,0000,\N
+3612,jack,lemmon,1925,\N
+3613,meadowlark lemon,,0000,\N
+3614,john lennon,,0000,\N
+3615,jean lenoir,,0000,\N
+3616,rula,lenska,0000,\N
+3617,leib lensky,,0000,\N
+3618,caroline,blamauer,1899,\N
+3619,kay,lenz,1953,\N
+3620,rick,lenz,1939,\N
+3621,valerie,leon,0000,\N
+3622,murray,leonard,1898,\N
+3623,sheldon,bershad,1907,\N
+3624,t\'ea,leoni,0000,\N
+3625,michael,lerner,0000,\N
+3626,madeleine,leroux,0000,\N
+3627,joan,brodell,1925,\N
+3628,bob lesser,,0000,\N
+3629,bruce,lister,1912,\N
+3630,buddy lester,,0000,\N
+3631,mark,lester,1958,\N
+3632,al,lettieri,1927,\N
+3633,oscar,levant,1906,\N
+3634,sam,levene,1905,\N
+3635,david lewis,,0000,\N
+3636,diana,lewis,1915,\N
+3637,fiona,lewis,1946,\N
+3638,geoffrey lewis,,0000,\N
+3639,jenny lewis,,1975,\N
+3640,joseph,lewis,1926,\N
+3641,jerry lee lewis,,0000,\N
+3642,joe lewis,,0000,\N
+3643,ronald,lewis,1928,\N
+3644,sheldon,lewis,1868,\N
+3645,edward gerald,little,1897,\N
+3646,viola leyel,,0000,\N
+3647,john,leyton,1939,\N
+3648,brian libby,,0000,\N
+3649,gn,bn,0000,\N
+3650,anne libert,,0000,\N
+3651,jeremy licht,,0000,\N
+3652,mitchell lichtenstein,,0000,\N
+3653,anki liden,,0000,\N
+3654,ron liebman,,0000,\N
+3655,lo lieh,,0000,\N
+3656,albert,lieven,1906,\N
+3657,gordon lightfoot,,0000,\N
+3658,constance sylvia,munston,1898,\N
+3659,otto elmo,linkenhelter,1889,\N
+3660,gunnel,lindblom,1931,\N
+3661,eric,linden,1909,\N
+3662,harold,lipshitz,1932,\N
+3663,jennie,linden,1939,\N
+3664,cec,linder,1921,\N
+3665,gabriel,leuvielle,1883,\N
+3666,viveca,lindfors,1920,\N
+3667,audra,lindley,0000,\N
+3668,olga,lindo,1898,\N
+3669,margaret,kies,1910,\N
+3670,mark linnbaker,,0000,\N
+3671,l\'eon m. lion,,0000,\N
+3672,eugene lipinski,,0000,\N
+3673,dennis lipscomb,,0000,\N
+3674,virna,pieralisi,1937,\N
+3675,francis,lister,1899,\N
+3676,moira,lister,1923,\N
+3677,john,litel,1895,\N
+3678,john lithgow,,0000,\N
+3679,ann little,,0000,\N
+3680,cleavon,little,1939,\N
+3681,lucien,littlefield,1895,\N
+3682,jack,livesey,1901,\N
+3683,roger,livesey,1906,\N
+3684,sam,livesey,1873,\N
+3685,margaret,livingston,1900,\N
+3686,stanley livingston,,0000,\N
+3687,desmond llewellyn,,0000,\N
+3688,christopher lloyd,,0000,\N
+3689,doris,lloyd,1899,\N
+3690,emily,lloyd,0000,\N
+3691,harold,lloyd,1893,\N
+3692,kathleen lloyd,,0000,\N
+3693,norman,lloyd,1914,\N
+3694,charles,pack,1905,\N
+3695,tony,lobianco,0000,\N
+3696,philip locke,,0000,\N
+3697,sondra,locke,1947,\N
+3698,calvin,lockhart,1934,\N
+3699,gene,lockhart,1891,\N
+3700,june,lockhart,1925,\N
+3701,kathleen,lockhart,1893,\N
+3702,heather locklear,,0000,\N
+3703,john gary,yusolfsky,1937,\N
+3704,margaret,day,1916,\N
+3705,barbara,loden,0000,\N
+3706,john,lowe,1898,\N
+3707,david,lodge,1922,\N
+3708,john,lodge,1903,\N
+3709,jaqueline logan,,0000,\N
+3710,robert,logan,0000,\N
+3711,robert,loggia,1930,\N
+3712,marie,lohr,1890,\N
+3713,gina,lollobrigida,1927,\N
+3714,herbert charles angelo,kuchacevich ze schluderpacheru,1917,\N
+3715,herbert,lomas,1887,\N
+3716,karina,lombard,1969,\N
+3717,jane,peters,1908,\N
+3718,sol lomita,,0000,\N
+3719,julie,peck,1926,\N
+3720,john lone,,0000,\N
+3721,audrey,long,1924,\N
+3722,avon long,,0000,\N
+3723,richard,long,1927,\N
+3724,shelley long,,0000,\N
+3725,walter,long,1879,\N
+3726,john,longden,1900,\N
+3727,terence,longden,1922,\N
+3728,claudine longet,,0000,\N
+3729,ray lonnen,,0000,\N
+3730,michael,lonsdale,1931,\N
+3731,richard,loo,1903,\N
+3732,herbert loom,,0000,\N
+3733,nancy loomis,,0000,\N
+3734,rod loomis,,0000,\N
+3735,gerry lopez,,0000,\N
+3736,perry lopez,,0000,\N
+3737,trini,lopez,1933,\N
+3738,gail lorber,,0000,\N
+3739,john joseph,ryan,1922,\N
+3740,marjorie,lord,1922,\N
+3741,pauline,lord,1890,\N
+3742,traci lords,,0000,\N
+3743,tony lorea,,0000,\N
+3744,sophia,scicoloni,1934,\N
+3745,m.l.,macdougal,1886,\N
+3746,laszlo,l\"owenstein,1904,\N
+3747,magdalen,ellis,1926,\N
+3748,tilly,losch,1901,\N
+3749,bill louie,,0000,\N
+3750,joe louis,,0000,\N
+3751,willard louis,,0000,\N
+3752,anita louise,fremault,1915,\N
+3753,tina,louise,1934,\N
+3754,juanita,horton,1898,\N
+3755,montagu,love,1877,\N
+3756,phyllis love,,0000,\N
+3757,frank,lovejoy,1912,\N
+3758,linda,marchiano,1952,\N
+3759,dyson, lovell,0000,\N
+3760,raymond,lovell,1900,\N
+3761,lyle,lovett,1958,\N
+3762,arthur,lowe,1914,\N
+3763,edmund,lowe,1890,\N
+3764,rob lowe,,0000,\N
+3765,carey, lowell,1964,\N
+3766,r.l.,hanks,1916,\N
+3767,lynn lowry,,0000,\N
+3768,morton,lowry,1908,\N
+3769,myrna,williams,1905,\N
+3770,lisa lu,,0000,\N
+3771,antoinetta,depasquale,1931,\N
+3772,arthur,towle,1887,\N
+3773,lisa lucas,,0000,\N
+3774,wilfred,lucas,1926,\N
+3775,deborah luce,,0000,\N
+3776,corinne,luchaire,1921,\N
+3777,laurence,luckinbill,1934,\N
+3778,charles,ludlam,0000,\N
+3779,lorna luft,,0000,\N
+3780,bela ferenc,blasko,1882,\N
+3781,pal,lukacs,1887,\N
+3782,jorge luke,,0000,\N
+3783,keye,luke,1904,\N
+3784,aldrick lukes,,0000,\N
+3785,folco,lulli,1912,\N
+3786,marie,lawrie,1948,\N
+3787,joanna,lumley,1946,\N
+3788,dayton,lummis,1903,\N
+3789,barbara,luna,1937,\N
+3790,arthur,london,1915,\N
+3791,john,lund,1913,\N
+3792,alfred,lund,1892,\N
+3793,ida,lupino,1914,\N
+3794,stanley,lupino,1893,\N
+3795,paul lupone,,0000,\N
+3796,alfred lutter,,0000,\N
+3797,thuy an luu,,1967,\N
+3798,james,lydon,1923,\N
+3799,viola,lyel,1900,\N
+3800,alfred,lynch,1933,\N
+3801,richard,lynch,1936,\N
+3802,paul,lynde,1926,\N
+3803,robert,lynen,1921,\N
+3804,carol,lynley,1942,\N
+3805,ann,lynn,1934,\N
+3806,dolores,loehr,1926,\N
+3807,ragnar,lind,1909,\N
+3808,leni,lynn,1925,\N
+3809,ralph,lynn,1882,\N
+3810,sharon,lynn,1910,\N
+3811,vera,lynn,1921,\N
+3812,ben,lyon,1901,\N
+3813,sue,lyon,1946,\N
+3814,tom lyons,,0000,\N
+3815,bert,lytell,1888,\N
+3816,james,macarthur,1937,\N
+3817,ralph macchio,,0000,\N
+3818,simon,maccorkindale,1952,\N
+3819,j.farrell,macdonald,1875,\N
+3820,jeanette,macdonald,0000,\N
+3821,andie macdowell,,0000,\N
+3822,niall,macginnis,1913,\N
+3823,jack,macgowran,1916,\N
+3824,alice,macgraw,1938,\N
+3825,marlena macguire,,0000,\N
+3826,stephen,macht,0000,\N
+3827,helen,mack,1913,\N
+3828,kerry mack,,0000,\N
+3829,marion mack,,0000,\N
+3830,dorothy,mackaill,1903,\N
+3831,barry,mackay,1906,\N
+3832,fulton,mackay,0000,\N
+3833,janet maclachian,,0000,\N
+3834,kyle maclachlan,,0000,\N
+3835,alexander, mackendrick,1912,\N
+3836,leo, mielziner,1899,\N
+3837,shirley maclaine,beaty,1934,\N
+3838,barton,maclane,1900,\N
+3839,douglass,maclean,1890,\N
+3840,micheal,macliammoir,1899,\N
+3841,malone,jena,1984,\N
+3842,aline,macmahon,1899,\N
+3843,horace,macmahon,1907,\N
+3844,fred,macmurray,1907,\N
+3845,robert macnaughton,,0000,\N
+3846,patrick,macnee,1922,\N
+3847,kristy, macnichol,1976,\N
+3848,peter macnicol,,0000,\N
+3849,norman,macowan,1877,\N
+3850,douglas,macphail,1910,\N
+3851,elle,macpherson,1966,\N
+3852,jeanie,macpherson,1878,\N
+3853,duncan,macrae,1905,\N
+3854,gordon,macrae,1921,\N
+3855,michael macrae,,0000,\N
+3856,george,macready,1909,\N
+3857,bill,macy,1922,\N
+3858,william h. macy,macy,0000,\N
+3859,donald madden,,0000,\N
+3860,peter,madden,1905,\N
+3861,victor,maddern,1926,\N
+3862,amy madigan,,0000,\N
+3863,robert,moseley,1922,\N
+3864,nathaniel,moscovitch,1898,\N
+3865,fn,ciccone,1959,\N
+3866,patrick,magee,1924,\N
+3867,anna,magnani,1907,\N
+3868,george,maharis,1928,\N
+3869,jacques,o\'mahoney,1919,\N
+3870,john mahoney,,0000,\N
+3871,mary,tomlinson,1890,\N
+3872,marne,maitland,1920,\N
+3873,lee,majors,1940,\N
+3874,eliot,makeham,1882,\N
+3875,chris makepeace,,0000,\N
+3876,mako,,0000,\N
+3877,ray,wyse,1906,\N
+3878,patrick malahide,,0000,\N
+3879,john malcolm,,0000,\N
+3880,malden,sekulovich,1913,\N
+3881,laurent malet,,0000,\N
+3882,john,malkovich,0000,\N
+3883,miles,malleson,1888,\N
+3884,tania mallett,,0000,\N
+3885,patricia,mallory,1913,\N
+3886,janet,flynn,1909,\N
+3887,dorothy,maloney,1925,\N
+3888,eily,malyon,1879,\N
+3889,nick,mancuso,1956,\N
+3890,robert mandan,,0000,\N
+3891,lionel,mander,1888,\N
+3892,silvana,mangano,1937,\N
+3893,karin mani,,0000,\N
+3894,david,liebermann,1887,\N
+3895,guido mannari,,0000,\N
+3896,rauff,deryther duan acklom,1901,\N
+3897,lucie,mannheim,1895,\N
+3898,ettori,manni,1927,\N
+3899,inez,harvuot,1917,\N
+3900,dinah manoff,,0000,\N
+3901,vera jane,palmer,1932,\N
+3902,clelia mantania,,0000,\N
+3903,paul,marianetti,1936,\N
+3904,joe mantell,,0000,\N
+3905,kiti manver,,0000,\N
+3906,leslie manville,,0000,\N
+3907,linda,manz,1961,\N
+3908,david manzy,,0000,\N
+3909,adelaida,delgado,1923,\N
+3910,jean,marais-villain,1913,\N
+3911,marcel, marceau,0000,\N
+3912,sophie,maupu,1966,\N
+3913,frederick mcintyre,bickel,1897,\N
+3914,hal,march,1920,\N
+3915,jane,march,1973,\N
+3916,corinne,marchand,1928,\N
+3917,henri,marchand,1898,\N
+3918,nancy marchand,,0000,\N
+3919,andrea marcovicci,,0000,\N
+3920,theodore,marcuse,1920,\N
+3921,janie,mar\`eze,0000,\N
+3922,arthur,margetson,1897,\N
+3923,marguerita maria guadelupe,boldao y castillo,1918,\N
+3924,janet,margolin,1943,\N
+3925,stuart,margolin,1940,\N
+3926,michael margotta,,0000,\N
+3927,richard,marin,0000,\N
+3928,jacques,marin,1919,\N
+3929,rikki marin,,0000,\N
+3930,howard,marion-crawford,1914,\N
+3931,gn,bn,1973,\N
+3932,jane,marken,1895,\N
+3933,enid,markey,1890,\N
+3934,kika markham,,0000,\N
+3935,monte,markham,1935,\N
+3936,ted markland,,0000,\N
+3937,john,marley,1916,\N
+3938,hugh,hipple,1911,\N
+3939,scott,marlowe,0000,\N
+3940,percy,marmont,1883,\N
+3941,evaristo marquez,,0000,\N
+3942,sally marr,,0000,\N
+3943,kenneth,mars,1936,\N
+3944,norma,simpson,1926,\N
+3945,leslie march,geraghty,1902,\N
+3946,mary warne,marsh,1895,\N
+3947,violet,krauth,1913,\N
+3948,alan,marshal,1909,\N
+3949,arthur,marshal,0000,\N
+3950,brenda,marshall,1915,\N
+3951,bryan marshall,,0000,\N
+3952,connie,marshall,1938,\N
+3953,don marshall,,0000,\N
+3954,everett g.,marshall,1910,\N
+3955,herbert,marshall,1890,\N
+3956,james,marshall,1967,\N
+3957,ken marshall,,0000,\N
+3958,penny marshall,,0000,\N
+3959,sarah marshall,,0000,\N
+3960,william,phillips,1864,\N
+3961,zena,marshall,1926,\N
+3962,anne-marie,martin,1957,\N
+3963,chris-pin,martin,1894,\N
+3964,dino,crocetti,1917,\N
+3965,dewey,martin,1923,\N
+3966,dick,martin,1923,\N
+3967,edie,martin,1880,\N
+3968,jean martin,,0000,\N
+3969,marion,martin,1916,\N
+3970,mary,martin,1913,\N
+3971,millicent,martin,1934,\N
+3972,pamela,martin,0000,\N
+3973,martin,rosenblatt,1920,\N
+3974,steve,martin,1945,\N
+3975,strother,martin,1920,\N
+3976,alfred,norris,1912,\N
+3977,elsa,martinelli,1933,\N
+3978,frederick martini,,0000,\N
+3979,nino,martini,1904,\N
+3980,al martino,,0000,\N
+3981,leslie h., martinson,0000,\N
+3982,lee,marvin,1924,\N
+3983,leonard,schoenberg,1886,\N
+3984,julius,schoenberg,1890,\N
+3985,adolph (arthur),schoenberg,1888,\N
+3986,milton,schoenberg,1893,\N
+3987,herbert,schoenberg,1901,\N
+3988,marx, brooks,n.a.,\N
+3989,ron masak,,0000,\N
+3990,giulietta,masina,1921,\N
+3991,johnny mask,,0000,\N
+3992,virginia,maskell,1936,\N
+3993,henry mason,,0000,\N
+3994,hilary mason,,0000,\N
+3995,jack mason,,0000,\N
+3996,james,mason,1909,\N
+3997,marsha,mason,1942,\N
+3998,leona,flugrath,1900,\N
+3999,lea,massari,1933,\N
+4000,osa,massen,1915,\N
+4001,anna,massey,1937,\N
+4002,daniel,massey,1933,\N
+4003,edith,massey,0000,\N
+4004,ilona,hajmassey,1912,\N
+4005,raymond,massey,1896,\N
+4006,paul,massie,1932,\N
+4007,mary stuart masterson,,1967,\N
+4008,peter masterson,,0000,\N
+4009,sean masterson,,0000,\N
+4010,mary elizabeth mastrantonio,,0000,\N
+4011,chiara ,mastroianni,1972,\N
+4012,marcello,mastroianni,1923,\N
+4013,richard,masur,0000,\N
+4014,clelia matania,,0000,\N
+4015,julian mateus,,0000,\N
+4016,aubrey,mather,1885,\N
+4017,james mathers,,0000,\N
+4018,murray,matheson,1912,\N
+4019,tim,matthieson,1926,\N
+4020,kerwin,mathews,1926,\N
+4021,walter,mathasschanskayasky,1920,\N
+4022,a.e.,matthews,1869,\N
+4023,jessie,matthews,1907,\N
+4024,lester,matthews,1900,\N
+4025,peter matthey,,0000,\N
+4026,robin mattson,,0000,\N
+4027,victor,mature,1915,\N
+4028,william,mauch,1925,\N
+4029,robert,mauch,1925,\N
+4030,gn,fn,0000,\N
+4031,carmen maura,,0000,\N
+4032,nicole,maurey,1925,\N
+4033,edwin,maxwell,1886,\N
+4034,elsa,maxwell,1883,\N
+4035,lois,hooker,1927,\N
+4036,marvel,maxwell,1921,\N
+4037,elaine,may,1932,\N
+4038,mathilda,may,1965,\N
+4039,russ, maxwell,0000,\N
+4040,eddie,mayehoff,1911,\N
+4041,peter mayhew,,0000,\N
+4042,bill,maynard,1928,\N
+4043,ken,maynard,1895,\N
+4044,ferdinand,mayer-boerckel,1916,\N
+4045,virginia,jones,1920,\N
+4046,mikhail,mazurwski,1909,\N
+4047,melanie mayron,,0000,\N
+4048,paul,mazursky,1938,\N
+4049,marianne,mcandrew,1938,\N
+4050,ray,mcannely,0000,\N
+4051,andrea mcardle,,0000,\N
+4052,may,mcavoy,1901,\N
+4053,diane,mcbain,1941,\N
+4054,donald,mcbride,1894,\N
+4055,marcia mcbroom,,0000,\N
+4056,frances lee mccain,,0000,\N
+4057,irish mccalla,,0000,\N
+4058,herbert alonzo,mccallister jnr,1923,\N
+4059,david,mccallum,1933,\N
+4060,john,mccallum,1917,\N
+4061,neil,mccallum,1929,\N
+4062,mercedes,mccambridge,1918,\N
+4063,andrew mccarthy,,0000,\N
+4064,kevin,mccarthy,1914,\N
+4065,rue mcclanahan,,0000,\N
+4066,fergus mcclelland,,0000,\N
+4067,sean,mcclory,1923,\N
+4068,doug,mcclure,1935,\N
+4069,marc mcclure,,0000,\N
+4070,keith mcconnell,,0000,\N
+4071,richard mcconnell,,0000,\N
+4072,kent mccord,,0000,\N
+4073,patty,mccormack,1945,\N
+4074,peter,judge,1891,\N
+4075,myron,mccormick,1908,\N
+4076,pat mccormick,,0000,\N
+4077,alec,mccowen,1925,\N
+4078,tim,mccoy,1891,\N
+4079,van mccoy,,0000,\N
+4080,jeff mccracken,,0000,\N
+4081,jody,mccrea,0000,\N
+4082,joel,mccrea,1905,\N
+4083,hattie,mcdaniel,1895,\N
+4084,hugh,mcdermott,1908,\N
+4085,ruth,mcdevitt,1895,\N
+4086,marie,frye,1923,\N
+4087,kit mcdonough,,0000,\N
+4088,betty,mcdowall,0000,\N
+4089,malcolm,mcdowell,1943,\N
+4090,roddy,mcdowall,1928,\N
+4091,john,mcenery,1945,\N
+4092,peter,mcenery,1940,\N
+4093,arnie mcenroe,,0000,\N
+4094,george emmett,mcfarland,1928,\N
+4095,gn,differentname,0000,\N
+4096,darren,mcgavin,1922,\N
+4097,vonetta,mcgee,0000,\N
+4098,everett mcgill,,0000,\N
+4099,ted mcginley,,0000,\N
+4100,john,mcgiver,1913,\N
+4101,frank~sr,mcglynn,1867,\N
+4102,patrick,mcgoohan,1928,\N
+4103,elizabeth,mcgovern,1961,\N
+4104,alec mcgowan,,0000,\N
+4105,ali,mcgraw,0000,\N
+4106,charles,mcgraw,1914,\N
+4107,angela punch mcgregor,,0000,\N
+4108,julie mcgregor,,0000,\N
+4109,biff,mcguire,1926,\N
+4110,bill mcguire,,0000,\N
+4111,don,mcguire,1919,\N
+4112,dorothy,mcguire,1919,\N
+4113,marlena mcguire,,0000,\N
+4114,stephen,mchattie,0000,\N
+4115,frank,mchugh,1899,\N
+4116,john,mcintire,1907,\N
+4117,michael mckean,,0000,\N
+4118,lonette mckee,,0000,\N
+4119,sir ian,mckellen,1935,\N
+4120,siobhan,mckenna,1923,\N
+4121,t.p.,mckenna,0000,\N
+4122,virginia,mckenna,1931,\N
+4123,kate mckenzie,,0000,\N
+4124,reginald,mckern,1920,\N
+4125,norman mckinnel,,0000,\N
+4126,bill mckinney,,0000,\N
+4127,victor,mclaglen,1883,\N
+4128,hollis mclaren,,0000,\N
+4129,gibb,mclaughlin,1884,\N
+4130,john c. mclaughlin,,0000,\N
+4131,diana mclean,,0000,\N
+4132,catherine,mcleod,1924,\N
+4133,allyn ann,mclerie,1926,\N
+4134,john mcliam,,0000,\N
+4135,marshall,mcluhan,0000,\N
+4136,ed mcmahon,,0000,\N
+4137,john mcmartin,,0000,\N
+4138,kenneth,mcmillan,0000,\N
+4139,barbara,mcnair,0000,\N
+4140,horace,mcnally,1913,\N
+4141,maggie,mcnamara,1928,\N
+4142,gus,mcnaughton,1884,\N
+4143,howard,mcnear,1905,\N
+4144,patrick,mcnee,1922,\N
+4145,claudia mcneil,,0000,\N
+4146,kathryn mcneil,,0000,\N
+4147,kristy,mcnichol,1963,\N
+4148,maggie mcomie,,0000,\N
+4149,thelma,mcqueen,1911,\N
+4150,steve,mcqueen,1930,\N
+4151,frank mcrae,,0000,\N
+4152,ian,mcshane,1942,\N
+4153,michael,mcshane,1955,\N
+4154,robert,mcwade,1865,\N
+4155,audrey meadows,,0000,\N
+4156,jayne,meadows,1920,\N
+4157,joyce meadows,,0000,\N
+4158,anne,meara,1929,\N
+4159,deann mears,,0000,\N
+4160,sylvie meda,,0000,\N
+4161,kay,medford,1914,\N
+4162,patricia,medina,1921,\N
+4163,michael,medwin,1923,\N
+4164,donald,meek,1880,\N
+4165,george meeker,,0000,\N
+4166,ralph,rathgeber,1920,\N
+4167,thomas,meighan,1879,\N
+4168,john,meillon,1934,\N
+4169,mariangela melato,,0000,\N
+4170,claudine melgrave,,0000,\N
+4171,george s.,melies,1861,\N
+4172,marisa,mell,1929,\N
+4173,michael melling,,0000,\N
+4174,fuller mellish~jr.,,0000,\N
+4175,breno mello,,0000,\N
+4176,j.p.,grumbach,1917,\N
+4177,sam melville,,0000,\N
+4178,murray,melvin,1932,\N
+4179,mauro mendonco,,0000,\N
+4180,adolphe,menjou,1890,\N
+4181,doro,merande,1898,\N
+4182,nerida mercado,,0000,\N
+4183,beryl,mercer,1882,\N
+4184,vivien,merchant,1929,\N
+4185,michele,mercier,1942,\N
+4186,melina,mercouri,1923,\N
+4187,george,burgess,1908,\N
+4188,don meredith,,0000,\N
+4189,lee meredith,,0000,\N
+4190,john, merivale,0000,\N
+4191,philip,merivale,1886,\N
+4192,lee,meriwether,1935,\N
+4193,una,merkel,1903,\N
+4194,ethel,zimmermann,1908,\N
+4195,mary,lloyd,0000,\N
+4196,nedenia hutton,rumbough,1928,\N
+4197,gary,merrill,1914,\N
+4198,george,merritt,1890,\N
+4199,jane,merrow,1941,\N
+4200,william,pickwood,1912,\N
+4201,hannes,messemer,1924,\N
+4202,mayo,methot,1904,\N
+4203,art,metrano,1937,\N
+4204,jim metzler,,0000,\N
+4205,emile,meyer,1903,\N
+4206,torben,meyer,0000,\N
+4207,vittorio mezzoglomo,,0000,\N
+4208,ralph champion,shotter,1907,\N
+4209,beverly,michaels,1927,\N
+4210,dolores,michaels,1930,\N
+4211,drew michaels,,0000,\N
+4212,jordan michaels,,0000,\N
+4213,matt michaels,,0000,\N
+4214,keith,michell,1926,\N
+4215,ann michelle,,0000,\N
+4216,charlotte michelle,,0000,\N
+4217,charles,middleton,1874,\N
+4218,guy,middleton-powell,1906,\N
+4219,ray,middleton,1908,\N
+4220,robert,middleton,1911,\N
+4221,bette,midler,1944,\N
+4222,toshiro,mifune,1920,\N
+4223,tatsuta mihashi,,0000,\N
+4224,mark mikulski,,0000,\N
+4225,mario milano,,0000,\N
+4226,sir bernard,miles,1907,\N
+4227,joanna,miles,1949,\N
+4228,kelly miles,,0000,\N
+4229,lillian miles,,0000,\N
+4230,gerald,perreau,1938,\N
+4231,sarah,miles,1941,\N
+4232,sherry miles,,0000,\N
+4233,sylvia,miles,1926,\N
+4234,vera,ralston,1929,\N
+4235,kim milford,,0000,\N
+4236,penelope milford,,0000,\N
+4237,tomas,milian,1938,\N
+4238,john,miljan,1893,\N
+4239,reginald,truscott-jones,1905,\N
+4240,ray millard,,0000,\N
+4241,johnny lucy ann,collier,1919,\N
+4242,barry miller,,0000,\N
+4243,david, miller,1909,\N
+4244,denny,miller,0000,\N
+4245,dick,miller,1928,\N
+4246,eve miller,,0000,\N
+4247,frank miller,,0000,\N
+4248,glenn,miller,1904,\N
+4249,jason,miller,1939,\N
+4250,kathleen miller,,0000,\N
+4251,linda miller,,0000,\N
+4252,mandy,miller,1944,\N
+4253,mark miller,,0000,\N
+4254,m.,mueller,1913,\N
+4255,harold,sargent,1895,\N
+4256,patsy ruth,miller,1905,\N
+4257,penelope ann,miller,0000,\N
+4258,seton i.,miller,1902,\N
+4259,walter c.,miller,1892,\N
+4260,andra millian,,0000,\N
+4261,spike,milligan,1918,\N
+4262,donna,mills,0000,\N
+4263,hayley,mills,1946,\N
+4264,sir john,mills,1908,\N
+4265,juliet,mills,1941,\N
+4266,mort mills,,0000,\N
+4267,martin,milner,1927,\N
+4268,josh milrad,,0000,\N
+4269,billy,milton,1905,\N
+4270,yvette,mimieux,1939,\N
+4271,esther,minciotti,1883,\N
+4272,silvio,minciotti,1883,\N
+4273,sal,mineo,1939,\N
+4274,jan miner,,0000,\N
+4275,liza,minelli,1946,\N
+4276,juliet,reilly,1902,\N
+4277,emile minty,,0000,\N
+4278,mioumiou,,1950,\N
+4279,irene miracle,,0000,\N
+4280,maria de carmo miranda,decunha,1913,\N
+4281,ines isabella,sanpietro,1905,\N
+4282,helen,miren,1926,\N
+4283,cameron,mizell,1918,\N
+4284,channing mitchell,,0000,\N
+4285,donna mitchell,,0000,\N
+4286,duke mitchell,,0000,\N
+4287,grant,mitchell,1874,\N
+4288,julien,mitchell,1884,\N
+4289,leigh mitchell,,0000,\N
+4290,mary mitchell,,0000,\N
+4291,millard,mitchell,1900,\N
+4292,thomas,mitchell,1892,\N
+4293,warren,mitchell,1926,\N
+4294,yvonne,joseph,1925,\N
+4295,christopher, mitchum,0000,\N
+4296,james,mitchum,1938,\N
+4297,john mitchum,,0000,\N
+4298,robert,mitchum,1917,\N
+4299,tom,mix,1880,\N
+4300,nobuko miyamoto,,0000,\N
+4301,jayne modean,,0000,\N
+4302,matthew modine,,0000,\N
+4303,gaston,modot,1887,\N
+4304,grace,moehrle,1960,\N
+4305,donald moffat,,0000,\N
+4306,graham,moffatt,1919,\N
+4307,sharyn,moffett,1936,\N
+4308,gerald,mohr,1914,\N
+4309,angela molina,,0000,\N
+4310,georgia moll,,0000,\N
+4311,henry,mollison,0000,\N
+4312,pierre,cuq,1925,\N
+4313,norma jean,baker (mortenson),1926,\N
+4314,tony monsanto,,0000,\N
+4315,lee,montague,1927,\N
+4316,carlos montalban,,0000,\N
+4317,ricardo,montalban,1920,\N
+4318,luigi,montagna,1887,\N
+4319,ivo,levi,1921,\N
+4320,lenny montano,,0000,\N
+4321,joe montegna,,0000,\N
+4322,maria,desanto silas,1919,\N
+4323,m.j. montfajon,,0000,\N
+4324,belinda,montgomery,1950,\N
+4325,robert douglass,montgomery,1907,\N
+4326,elizabeth,montgomery,1933,\N
+4327,george m.,letz,1916,\N
+4328,julie montgomery,,0000,\N
+4329,henry,montgomery,1904,\N
+4330,jim moody,,0000,\N
+4331,ronald,moodnick,1924,\N
+4332,keith moon,,0000,\N
+4333,alvy moore,,0000,\N
+4334,barry moore,,0000,\N
+4335,candy moore,,0000,\N
+4336,kathleen,morrison,1900,\N
+4337,constance,moore,1919,\N
+4338,gn,moore,0000,\N
+4339,dennis moore,,0000,\N
+4340,dickie,moore,1925,\N
+4341,dudley,moore,1935,\N
+4342,eileen moore,,0000,\N
+4343,eva,moore,1870,\N
+4344,grace,moore,1901,\N
+4345,ida,moore,1883,\N
+4346,juanita,moore,1922,\N
+4347,julianne,moore,1961,\N
+4348,kenny moore,,0000,\N
+4349,kieron,o'hanrahan,1925,\N
+4350,mary tyler,moore,1936,\N
+4351,matt,moore,1888,\N
+4352,owen,moore,1887,\N
+4353,robert,moore,1927,\N
+4354,roger,moore,1928,\N
+4355,helen,koford,1929,\N
+4356,tom,moore,1883,\N
+4357,victor,moore,1876,\N
+4358,agnes,moorehead,1906,\N
+4359,santos morales,,0000,\N
+4360,erin moran,,0000,\N
+4361,gerard moran,,0000,\N
+4362,lois,moran-young,1909,\N
+4363,polly,moran,1884,\N
+4364,kenneth,more,1914,\N
+4365,jeanne,moreau,1928,\N
+4366,agnes morehead,,0000,\N
+4367,mantan,moreland,1901,\N
+4368,andr\'e,mesritz,1909,\N
+4369,rina morelli,,0000,\N
+4370,antonio,moreno,1886,\N
+4371,rosita dolores,alverio,1931,\N
+4372,cindy morgan,,0000,\N
+4373,debbi morgan,,0000,\N
+4374,dennis,morgan,1910,\N
+4375,francis,wupperman,1890,\N
+4376,hank morgan,,0000,\N
+4377,harry,bratsburg,1915,\N
+4378,helen,morgan,1900,\N
+4379,simone,roussel,1920,\N
+4380,ralph,wupperman,1882,\N
+4381,sidney morgan,,0000,\N
+4382,stafford morgan,,0000,\N
+4383,terence,morgan,1921,\N
+4384,cathy moriarty,,0000,\N
+4385,michael moriarty,,0000,\N
+4386,eileen,morison,1915,\N
+4387,lucilla morlacchi,,0000,\N
+4388,blanche,fumoleau,1897,\N
+4389,mildred,linton,1905,\N
+4390,robert,morley,1908,\N
+4391,chester,morris,1901,\N
+4392,garrett morris,,0000,\N
+4393,glenn morris,,0000,\N
+4394,greg,morris,1934,\N
+4395,howard,morris,1919,\N
+4396,lana,morris,1930,\N
+4397,mary,morris,1895,\N
+4398,mary,morris,1915,\N
+4399,bert,dewayne morris,1914,\N
+4400,barbara,morrison,1908,\N
+4401,shelley morrison,,0000,\N
+4402,david,morrissey,19bb,\N
+4403,doretta,marano,1925,\N
+4404,carrie ann,morrow,1975,\N
+4405,jeff,morrow,1913,\N
+4406,jo,morrow,1940,\N
+4407,joshua,morrow,1975,\N
+4408,carrie ann,morrow,1975,\N
+4409,vic,morrow,1932,\N
+4410,barry,morse,1919,\N
+4411,david morse,,0000,\N
+4412,gary morse,,0000,\N
+4413,helen,morse,0000,\N
+4414,hilary, morse,0000,\N
+4415,robert,morse,1931,\N
+4416,clive,morton,1904,\N
+4417,morris,maaskoff,1871,\N
+4418,ivan,mosjoukine,1889,\N
+4419,roger e.,mosley,0000,\N
+4420,arnold,moss,1910,\N
+4421,joshua mostel,,0000,\N
+4422,zero,mostel,1915,\N
+4423,judy motulsky,,0000,\N
+4424,john,moulder brown,1945,\N
+4425,peggy,mount,1916,\N
+4426,mickey mouse,,19bb,\N
+4427,jane movak,,0000,\N
+4428,movita,castaneda,1915,\N
+4429,alan,mowbray,1893,\N
+4430,patrick,mower,1940,\N
+4431,leonard m.,cheetham,1884,\N
+4432,dorothy, mueller,1939,\N
+4433,elizabeth,mueller,1926,\N
+4434,armin,mueller-stahl,1930,\N
+4435,esther,muir,1895,\N
+4436,gavin,muir,1907,\N
+4437,madhuri,mukherjee,1942,\N
+4438,jean muir,fullerton,1911,\N
+4439,g.h.,mulcaster,1891,\N
+4440,diana,muldaur,1943,\N
+4441,jack,mulhall,1888,\N
+4442,edward,mulhare,1923,\N
+4443,martin mull,,0000,\N
+4444,jack,mullaney,1932,\N
+4445,arthur,mullard,1910,\N
+4446,barbara,mullen,1914,\N
+4447,renate,muller,1907,\N
+4448,richard,mulligan,1932,\N
+4449,billy,mumy,0000,\N
+4450,herbert,mundin,1898,\N
+4451,meg mundy,,0000,\N
+4452,muni,weisenfreund,1896,\N
+4453,jonathan munk,,0000,\N
+4454,caroline,munro,1951,\N
+4455,janet,munro,1934,\N
+4456,partice,munsel,1925,\N
+4457,jules,munshin,1915,\N
+4458,ona,wolcott,1906,\N
+4459,irina muravyova,,0000,\N
+4460,richard,murdoch,1907,\N
+4461,george murdock,,0000,\N
+4462,audie,murphy,1924,\N
+4463,ben,murphy,1941,\N
+4464,charlie,murphy,0000,\N
+4465,donald murphy,,0000,\N
+4466,eddie,murphy,1960,\N
+4467,george,murphy,1902,\N
+4468,mary,murphy,1931,\N
+4469,michael,murphy,0000,\N
+4470,rosemary,murphy,1925,\N
+4471,barbara,murray,1929,\N
+4472,bill murray,,0000,\N
+4473,charlie,murray,1872,\N
+4474,brian doyle murray,,0000,\N
+4475,don,murray,1929,\N
+4476,james,murray,1901,\N
+4477,don,court,1903,\N
+4478,marie adrienne,koenig,1889,\N
+4479,stephen,murray,1912,\N
+4480,tom murray,,0000,\N
+4481,peter,murray-hill,1908,\N
+4482,tony,musante,1936,\N
+4483,clarence,muse,1889,\N
+4484,burt,mustin,1884,\N
+4485,carmel,myers,1899,\N
+4486,harry,myers,1886,\N
+4487,susan myers,,0000,\N
+4488,odette,myrtil,1898,\N
+4489,jim nabors,,0000,\N
+4490,george,nader,1921,\N
+4491,anne,dolan,1912,\N
+4492,conrad,nagel,1896,\N
+4493,joanne nail,,0000,\N
+4494,j. carrol,naish,1900,\N
+4495,laurence,johnson,1908,\N
+4496,reggie nalder,,0000,\N
+4497,anita donna,dooley,1899,\N
+4498,jack nance,,0000,\N
+4499,john nance,,0000,\N
+4500,alan,napier-clavering,1903,\N
+4501,molly,ellis,1908,\N
+4502,brian narelle,,0000,\N
+4503,owen,nares,1888,\N
+4504,clarence,nash,0000,\N
+4505,marilyn,nash,1924,\N
+4506,mary,nash,1885,\N
+4507,stephen nathan,,0000,\N
+4508,mildred,natwick,1908,\N
+4509,david naughton,,0000,\N
+4510,james,naughton,1945,\N
+4511,ren\'e,navarre,18bb,\N
+4512,alla,nazimoff,1879,\N
+4513,amedeo,nazzari,1907,\N
+4514,dame marjorie,robertson,1904,\N
+4515,patricia,neal,1926,\N
+4516,tom,neal,1914,\N
+4517,kay,nebel,1889,\N
+4518,bernard,nedell,1898,\N
+4519,audrie j. neenan,,0000,\N
+4520,kay neer,,0000,\N
+4521,liam,neeson,0000,\N
+4522,hildegard frieda albertine,knef,1925,\N
+4523,appolonia,chalupek,1897,\N
+4524,hildegarde,neil,1939,\N
+4525,sam,neill,1948,\N
+4526,little nell,,0000,\N
+4527,kate,nelligan,1951,\N
+4528,robert,neilson,1920,\N
+4529,bob nelson,,0000,\N
+4530,craig t.,nelson,0000,\N
+4531,david nelson,,1947,\N
+4532,ed,nelson,1928,\N
+4533,leander,berg,1920,\N
+4534,,nelson,1959,\N
+4535,kenneth nelson,,0000,\N
+4536,lori,nelson,1933,\N
+4537,ozzie,nelson,1906,\N
+4538,richard nelson,,0000,\N
+4539,rick,nelson,1940,\N
+4540,willie,nelson,1933,\N
+4541,rosalba neri,,0000,\N
+4542,tommaso neri,,0000,\N
+4543,franco,nero,1942,\N
+4544,cathleen,nesbitt,1888,\N
+4545,derren,nesbitt,1932,\N
+4546,john,nettleton,1929,\N
+4547,lois,nettleton,1929,\N
+4548,robert neuman,,0000,\N
+4549,paul nevens,,0000,\N
+4550,guy,newall,1885,\N
+4551,carol irene newell,,0000,\N
+4552,bob,newhart,1923,\N
+4553,john,newland,1916,\N
+4554,anthony,newlands,1926,\N
+4555,anthony,newley,1931,\N
+4556,barry,newman,1940,\N
+4557,lorraine newman,,0000,\N
+4558,nanette,newman,1934,\N
+4559,paul,newman,1925,\N
+4560,newman,rachel,0000,\N
+4561,newman, scott,0000,\N
+4562,julia,newmeyer,1930,\N
+4563,robert,newton,1905,\N
+4564,olivia,newton-john,1948,\N
+4565,marie,ney,1895,\N
+4566,richard,ney,1917,\N
+4567,haing s. ngor,,0000,\N
+4568,barbara,nichols,1929,\N
+4569,britt nichols,,0000,\N
+4570,dandy,nichols,1907,\N
+4571,nichelle nichols,,0000,\N
+4572,jack,nicholson,1937,\N
+4573,nora,nicholson,1892,\N
+4574,alex,nicol,1919,\N
+4575,daria nicolodi,,0000,\N
+4576,asta,nielsen,1882,\N
+4577,brigitte,nielsen,0000,\N
+4578,leslie,nielsen,1925,\N
+4579,lisa,niemi,0000,\N
+4580,gertrude,niesen,1912,\N
+4581,jane,nigh,1926,\N
+4582,john niland,,0000,\N
+4583,anna q.,nilsson,1889,\N
+4584,derek,nimmo,1931,\N
+4585,leonard,,1931,\N
+4586,grethe,rutz-nissen,1906,\N
+4587,david,niven,1909,\N
+4588,cynthia nixon,,0000,\N
+4589,marian,nixon,1904,\N
+4590,marni,nixon,1929,\N
+4591,nancy lee noble,,0000,\N
+4592,trisha noble,,0000,\N
+4593,miyamoto,nobuko,0000,\N
+4594,magali,noel,1932,\N
+4595,lucien,noel,1897,\N
+4596,natalie nogulich,,0000,\N
+4597,philipe,noiret,1931,\N
+4598,robert, nolnan,0000,\N
+4599,doris,nolan,1916,\N
+4600,john nolan,,0000,\N
+4601,lloyd,nolan,1902,\N
+4602,mary imogene,robertson,1905,\N
+4603,nick,nolte,1941,\N
+4604,mike nomad,,0000,\N
+4605,christine noonan,,0000,\N
+4606,tom,noonan,0000,\N
+4607,thomas,noon,1921,\N
+4608,maria lydia,thornton,1924,\N
+4609,jack norman,,0000,\N
+4610,mabel,fortescue,1894,\N
+4611,christopher norris,,0000,\N
+4612,chuck,norris,1939,\N
+4613,edward,norris,1910,\N
+4614,mike norris,,0000,\N
+4615,jay,north,1952,\N
+4616,ted,north,1920,\N
+4617,dawn,bethel,1933,\N
+4618,harry northup,,0000,\N
+4619,edgar,norton,1868,\N
+4620,mortimer j.,naughton,1889,\N
+4621,,norton,0000,\N
+4622,michael nouri,,0000,\N
+4623,eva,novak,1899,\N
+4624,jane,novak,1896,\N
+4625,marilyn,novak,1933,\N
+4626,ramon,samaniegos,1899,\N
+4627,ivor,davies,1893,\N
+4628,jay,novello,1905,\N
+4629,elliott,nugent,1899,\N
+4630,terri nunn,,0000,\N
+4631,rudolph,nureyev,1938,\N
+4632,france,nuyen,1939,\N
+4633,will nye,,0000,\N
+4634,lewis d.,offield,1903,\N
+4635,simon,oakland,1922,\N
+4636,v.,anderson,1895,\N
+4637,vivian,eichelberger,1890,\N
+4638,cicely oates,,0000,\N
+4639,warren,oates,1928,\N
+4640,dan,o'bannon,0000,\N
+4641,estelle o'brien merle,thompson,1911,\N
+4642,ana obregon,,0000,\N
+4643,hugh,krampe,1925,\N
+4644,david,barclay,1912,\N
+4645,edmond,o'brien,1915,\N
+4646,george,o'brien,1900,\N
+4647,hugh obrien,,0000,\N
+4648,angela maxine,o'brien,1937,\N
+4649,maria,o'brien,0000,\N
+4650,pat,o'brien,1899,\N
+4651,virginia,o'brien,1921,\N
+4652,andrea occhipinti,,0000,\N
+4653,arthur,oconnell,1908,\N
+4654,taffy,o'connell,0000,\N
+4655,carrol,o'connor,1922,\N
+4656,hugh,o'connor,1922,\N
+4657,donald,o'connor,1925,\N
+4658,glynnis,o'connor,1956,\N
+4659,kevin,o'connor,0000,\N
+4660,tim,o'connor,1927,\N
+4661,una,o'connor,1880,\N
+4662,joseph,o'conor,1910,\N
+4663,carroll,o'dea,0000,\N
+4664,denis,o'dea,1905,\N
+4665,jimmy,o'dea,1899,\N
+4666,judith,o'dea,0000,\N
+4667,mary,goimbault,1901,\N
+4668,ann,steely,1923,\N
+4669,chris,o'donnell,0000,\N
+4670,martha,o'driscoll,1922,\N
+4671,bernadette,o'farrell,1926,\N
+4672,ian,ogilvy,1943,\N
+4673,charles,ogle,1865,\N
+4674,lani,o'grady,0000,\N
+4675,george,rice,1917,\N
+4676,catherine,o'hara,0000,\N
+4677,maureen,fitzsimmons,1920,\N
+4678,dan,o'herlihy,1919,\N
+4679,carol,ohmart,1928,\N
+4680,edward `bud',flanagan,1908,\N
+4681,michael,o'keefe,0000,\N
+4682,miles,o'keefe,0000,\N
+4683,warner,oland,1880,\N
+4684,lilian,oldland,1905,\N
+4685,gary,oldman,1958,\N
+4686,michael,o'leary,0000,\N
+4687,lena olin,,0000,\N
+4688,barret oliver,,0000,\N
+4689,edna may,cox-oliver,1883,\N
+4690,lord laurence,olivier,1907,\N
+4691,paul olivier,,0000,\N
+4692,susan olivier,,0000,\N
+4693,edward james olmes,,0000,\N
+4694,john sigurd,olsen,1892,\N
+4695,moroni,olsen,1889,\N
+4696,james,olson,1932,\N
+4697,nancy,olson,1928,\N
+4698,j. pat,o'malley,0000,\N
+4699,pat,o'malley,1901,\N
+4700,rex,o'malley,1901,\N
+4701,kate,o'mara,1939,\N
+4702,a.,ondrakova,1903,\N
+4703,patrick,o'neal,1927,\N
+4704,ron,o'neal,1937,\N
+4705,ryan,o'neal,1941,\N
+4706,tatum,o'neal,1962,\N
+4707,barbara,o'neil,1909,\N
+4708,colleen,o'neil,0000,\N
+4709,james k.,o'neil,0000,\N
+4710,cynthiaf,o'neil,0000,\N
+4711,nance,o'neil,1875,\N
+4712,virginia,noonan,1913,\N
+4713,shannon,o'neil,0000,\N
+4714,tricia,o'neil,0000,\N
+4715,dick,o'neill,0000,\N
+4716,jennifer,o'neill,0000,\N
+4717,henry,o'neill,1891,\N
+4718,james,o'neill,1847,\N
+4719,jennifer,o'neill,1947,\N
+4720,maire,allgood,1885,\N
+4721,remy,o'neill,0000,\N
+4722,yoko ono,,0000,\N
+4723,michael,ontkean,1946,\N
+4724,david,opatosky,1918,\N
+4725,alan,oppenheimer,0000,\N
+4726,don opper,,0000,\N
+4727,jerry,orbach,1935,\N
+4728,julian,orchard,1930,\N
+4729,kathleen,o'regan,0000,\N
+4730,brefni,o'rourke,1889,\N
+4731,jack,o'rourke,0000,\N
+4732,umberto orsini,,0000,\N
+4733,frank,orth,1880,\N
+4734,mechu ortiz,,0000,\N
+4735,bob,einstein,~1945,\N
+4736,vivienne,osborne,1900,\N
+4737,henry,wale,1891,\N
+4738,per,oscarsson,1927,\N
+4739,michael,o'shea,1906,\N
+4740,milo,o'shea,1926,\N
+4741,missy,o'shea,0000,\N
+4742,tessie,o'shea,1917,\N
+4743,cliff,osmond,0000,\N
+4744,pernilla,ostergren,0000,\N
+4745,jeff osterhage,,0000,\N
+4746,robert osth,,0000,\N
+4747,maureen,o'sullivan,1911,\N
+4748,richard,o'sullivan,1943,\N
+4749,ossi,oswalda,0000,\N
+4750,carr\'e,otis,1969,\N
+4751,annette,o'toole,1953,\N
+4752,peter,o'toole,1932,\N
+4753,fred,ott,1860,\N
+4754,rafaela,ottiano,1894,\N
+4755,brian,oulton,1908,\N
+4756,max g\'erard,tannenbaum,1919,\N
+4757,maria,ouspenskaya,1876,\N
+4758,lynne,overman,1887,\N
+4759,frank overton,,0000,\N
+4760,bill,rowbotham,1914,\N
+4761,reginald,owen,1887,\N
+4762,signe,auen,1894,\N
+4763,tony owen,,0000,\N
+4764,patricia,owens,1925,\N
+4765,david,oxley,1929,\N
+4766,frank,oznowicz,1944,\N
+4767,alfredo james,pacino,1939,\N
+4768,anna,pacquin,1982,\N
+4769,joanna pacula,,0000,\N
+4770,lee,padovani,1920,\N
+4771,anita page,,0000,\N
+4772,sally,rutter,1911,\N
+4773,genevieve,page,1931,\N
+4774,geraldine,page,1924,\N
+4775,anita,page,0000,\N
+4776,clara ann,fowler,1927,\N
+4777,debralee,griffin,1933,\N
+4778,marcelo,pagliero,0000,\N
+4779,jacqueline pagnol,,0000,\N
+4780,dre pahich,,0000,\N
+4781,donna mae,jaden,1922,\N
+4782,mabel,paige,1879,\N
+4783,john arthur,page,1910,\N
+4784,nestor,paiva,1905,\N
+4785,,lassie,0000,\N
+4786,walter,palanuik,1920,\N
+4787,michael,palin,1943,\N
+4788,anita pallenberg,,0000,\N
+4789,eugene,pallette,1889,\N
+4790,patricia,brumek,1929,\N
+4791,palmer,lee,1927,\N
+4792,lilli,peiser,1911,\N
+4793,maria,palmer,1924,\N
+4794,gwyneth,paltrow,1973,\N
+4795,peter,palmer,1931,\N
+4796,luciana,paluzzi,1939,\N
+4797,franklin,pangborn,1894,\N
+4798,stuart pankin,,0000,\N
+4799,joe pantoliano,,0000,\N
+4800,paul,panzer,1872,\N
+4801,tatania,papamoskou,1964,\N
+4802,irene,papas,1926,\N
+4803,don pardo,,0000,\N
+4804,michael pare,,0000,\N
+4805,jerry,paris,1925,\N
+4806,barnett,parker,1890,\N
+4807,cecil,schwabe,1897,\N
+4808,cecilia,parker,1905,\N
+4809,eleanor,parker,1922,\N
+4810,fess,parker,1925,\N
+4811,jameson,parker,1947,\N
+4812,lois mae,greene,1912,\N
+4813,mary-loise,parker,1960,\N
+4814,sarah jessica parker,parker,1965,\N
+4815,cecelia,parker,1932,\N
+4816,barbara,parkins,1942,\N
+4817,sam kleusman lawrence,parks,1914,\N
+4818,michael,parks,1938,\N
+4819,harry,einstein,1904,\N
+4820,gerthe,kornstadt,1906,\N
+4821,emory,parnell,1894,\N
+4822,helen,parrish,1922,\N
+4823,leslie parrish,,0000,\N
+4824,natasha,parry,1930,\N
+4825,estelle,parsons,1927,\N
+4826,l.,oettinger,0000,\N
+4827,dolly,parton,1946,\N
+4828,michael pataki,,0000,\N
+4829,walter,vinicombe,1888,\N
+4830,christopher pate,,0000,\N
+4831,michael,pate,1920,\N
+4832,pat,paterson,1911,\N
+4833,mandy patinkin,,0000,\N
+4834,charles paton,,0000,\N
+4835,dennis patrick,,0000,\N
+4836,margaret,fitzpatrick,1911,\N
+4837,lee,patrick,1906,\N
+4838,nigel,patrick,1913,\N
+4839,luana,patten,1938,\N
+4840,elizabeth,patterson,1876,\N
+4841,lee,patterson,1929,\N
+4842,lorna patterson,,0000,\N
+4843,neva,patterson,1925,\N
+4844,pat,patterson,1910,\N
+4845,mark patton,,0000,\N
+4846,rosemary paul,,0000,\N
+4847,scott paulin,,0000,\N
+4848,morgan paull,,0000,\N
+4849,pat paulsen,,0000,\N
+4850,marisa,pierangeli,1932,\N
+4851,luciano,pavarotti,1935,\N
+4852,anika pavel,,0000,\N
+4853,anna pavlova,,0000,\N
+4854,muriel,pavlow,1921,\N
+4855,lennox,pawle,1872,\N
+4856,katina,constantopoulos,1900,\N
+4857,john,payne,1912,\N
+4858,laurence,payne,1919,\N
+4859,barbara,payton,1934,\N
+4860,mary,peach,1934,\N
+4861,alice,pearch,1913,\N
+4862,sir eric, pearce,0000,\N
+4863,jacqueline pearce,,0000,\N
+4864,patricia pearcy,,0000,\N
+4865,jesse pearson,,0000,\N
+4866,lloyd,pearson,1897,\N
+4867,gregory,peck,1916,\N
+4868,charles peel,,0000,\N
+4869,david peel,,1920,\N
+4870,joan peers,,0000,\N
+4871,pele,,0000,\N
+4872,peggy,montgomery,1917,\N
+4873,raymond,pellegrini,1925,\N
+4874,lisa pelikan,,0000,\N
+4875,raymond pellegrin,,0000,\N
+4876,pina pellicer,,0000,\N
+4877,rick pemberton,,0000,\N
+4878,austin,pendleton,1940,\N
+4879,nat,pendleton,1895,\N
+4880,susan,penhaligon,1950,\N
+4881,christopher penn,,0000,\N
+4882,sean penn,,1960,\N
+4883,jack,pennick,1895,\N
+4884,joe penny,,0000,\N
+4885,virginia penta,,0000,\N
+4886,george,peppard,1929,\N
+4887,stacey peralta,,0000,\N
+4888,esm\'e,percy,1887,\N
+4889,jose perez,,0000,\N
+4890,fran{\c}cois,pilu,1919,\N
+4891,anthony,perkins,1932,\N
+4892,millie,perkins,1939,\N
+4893,osgood,perkins,1892,\N
+4894,ron perlman,,0000,\N
+4895,ghislaine,perreau-saussine,1941,\N
+4896,anna perrier,,0000,\N
+4897,valerie,perrine,1944,\N
+4898,leslie,perrins,1902,\N
+4899,felton perry,,0000,\N
+4900,louis perryman,,0000,\N
+4901,nehemiah,persoff,1920,\N
+4902,jon,pertwee,1919,\N
+4903,joseph,pesci,0000,\N
+4904,bernadette,peters,1948,\N
+4905,brock,peters,1927,\N
+4906,house,peters,1880,\N
+4907,jean,peters,1926,\N
+4908,susanne,carnahan,1921,\N
+4909,werner,peters,1918,\N
+4910,stewart petersen,,0000,\N
+4911,dorothy,peterson,1900,\N
+4912,anne-marie,petit,1938,\N
+4913,sammy petrillo,,0000,\N
+4914,howard petri,,0000,\N
+4915,george petrie,,0000,\N
+4916,hay,petrie,1895,\N
+4917,muriel,harding,1886,\N
+4918,elizabeth petterson,,0000,\N
+4919,joanna,pettet,1944,\N
+4920,frank,pettingell,1891,\N
+4921,michelle,pfeiffer,1959,\N
+4922,jo ann pflug,,0000,\N
+4923,mary,philbin,1903,\N
+4924,g\'erard,philipe,1922,\N
+4925,conrad,philips,1930,\N
+4926,lee,philips,1927,\N
+4927,mary,philips,1900,\N
+4928,robin,philips,1941,\N
+4929,john,philliber,1872,\N
+4930,leslie,phillips,1924,\N
+4931,mackenzie,phillips,1960,\N
+4932,michelle phillips,,0000,\N
+4933,sian,phillips,1934,\N
+4934,ambrosine,philpotts,1912,\N
+4935,james phipps,,0000,\N
+4936,nicholas,phipps,1913,\N
+4937,river phoenix,fn,1970,\N
+4938,michel,piccoli,1925,\N
+4939,paloma,picasso,0000,\N
+4940,paul,picerni,1922,\N
+4941,irving,pichel,1891,\N
+4942,sorrells pickard,,0000,\N
+4943,louis bert~jr.,lindley,1919,\N
+4944,jack,smith,1896,\N
+4945,lottie, smith,1895,\N
+4946,gladys,smith,1893,\N
+4947,wilfred,pickles,1904,\N
+4948,ronald,pickup,1940,\N
+4949,molly,picon,1898,\N
+4950,walter,pidgeon,1897,\N
+4951,tiana pierce,,0000,\N
+4952,francis,pierlot,1976,\N
+4953,tempe,pigott,1884,\N
+4954,nova,pilbeam,1919,\N
+4955,bronson pinchot,,0000,\N
+4956,miguel pinero,,0000,\N
+4957,dominique pinon,,0000,\N
+4958,gordon,pinsent,1933,\N
+4959,danny pintauro,,0000,\N
+4960,fortunato,pinza,1893,\N
+4961,sons of,pioneers,n.a.,\N
+4962,frederick,piper,1902,\N
+4963,marie-france,pisier,1944,\N
+4964,wensley,pithey,1914,\N
+4965,brad,pitt,dob,\N
+4966,ingrid,petrov,1944,\N
+4967,zasu,pitts,1898,\N
+4968,mary kay place,,0000,\N
+4969,michele placich,,0000,\N
+4970,roger planchon,,0000,\N
+4971,dana plato,,0000,\N
+4972,edward,platt,1916,\N
+4973,louise,platt,1914,\N
+4974,marc,platt,1913,\N
+4975,moliere players,,n.a.,\N
+4976,donald,pleasence,1919,\N
+4977,suzanne,pleshette,1937,\N
+4978,hilda plowright,,0000,\N
+4979,joan,plowright,1929,\N
+4980,amanda plummer,,0000,\N
+4981,christopher,plummer,1927,\N
+4982,patricia,plunkett,1928,\N
+4983,rossana,podesta,1934,\N
+4984,adelina poerio,,0000,\N
+4985,eric,pohlmann,1903,\N
+4986,sidney,poitier,1924,\N
+4987,jean,poiret,0000,\N
+4988,roman, polanski,1933,\N
+4989,sydney,pollack,1934,\N
+4990,michael j.,pollack,1939,\N
+4991,harold,fraser,1886,\N
+4992,tommy pollard,,0000,\N
+4993,sarah,polley,19bb,\N
+4994,ellen,pollock,1903,\N
+4995,lily,pons,1904,\N
+4996,roy poole,,0000,\N
+4997,albert popwell,,0000,\N
+4998,paul,porcasi,1880,\N
+4999,don porter,,0000,\N
+5000,eric porter,,0000,\N
+5001,nyree,porter,1940,\N
+5002,eric,portman,1903,\N
+5003,natalie,portman,1981,\N
+5004,markie post,,0000,\N
+5005,madeline potter,,0000,\N
+5006,annie potts,,0000,\N
+5007,cliff,potts,0000,\N
+5008,georges,poujouly,1940,\N
+5009,c.c.h.,pounder,0000,\N
+5010,louise pounds,,0000,\N
+5011,phyllis povah,,0000,\N
+5012,dick,powell,1904,\N
+5013,eleanor,powell,1910,\N
+5014,frank powell,,0000,\N
+5015,suzanne,burce,1929,\N
+5016,joynson powell,,0000,\N
+5017,michael, powell,1905,\N
+5018,robert,powell,1946,\N
+5019,albert,powell,1898,\N
+5020,william,powell,1892,\N
+5021,hartley,power,1894,\N
+5022,taryn power,,0000,\N
+5023,tyrone,power,1913,\N
+5024,tyrone,power snr,1869,\N
+5025,mary ellen,powers,1931,\N
+5026,stefania,federkiewicz,1942,\N
+5027,tom,powers,1890,\N
+5028,joan prather,,0000,\N
+5029,wolfgang,preiss,0000,\N
+5030,june,preisser,1921,\N
+5031,albert,pr\'ejean,1894,\N
+5032,otto,preminger,1906,\N
+5033,lucy prentiss,,0000,\N
+5034,paula,ragusa,1939,\N
+5035,robert prescott,,0000,\N
+5036,donna prescow,,0000,\N
+5037,micheline,chassagne,1922,\N
+5038,elvis,presley,1935,\N
+5039,priscilla,presley,1950,\N
+5040,harve,presnell,1933,\N
+5041,kelly,preston,1963,\N
+5042,robert preston,meservey,1917,\N
+5043,marie bickford,dunn,1893,\N
+5044,alan price,,0000,\N
+5045,dennistoun franklyn john,rose-price,1915,\N
+5046,lillian,maude,1880,\N
+5047,vincent,price,1911,\N
+5048,martin,priest,0000,\N
+5049,barry,primus,1938,\N
+5050,fc,bnc,1958,\N
+5051,william,prince,1913,\N
+5052,victoria,principal,1945,\N
+5053,andrew,prine,1936,\N
+5054,aileen,bisbee,1895,\N
+5055,jurgen prochnow,,0000,\N
+5056,robert prosky,,0000,\N
+5057,jed,prouty,1879,\N
+5058,dorothy,provine,1937,\N
+5059,david prowse,,0000,\N
+5060,juliet,prowse,1937,\N
+5061,cameron,prud'homme,0000,\N
+5062,jonathan,pryce,1947,\N
+5063,nicholas,pryor,0000,\N
+5064,richard,pryor,1940,\N
+5065,vladimir pucholt,,0000,\N
+5066,frank,puglia,1892,\N
+5067,liselotte,pulver,1929,\N
+5068,dick,purcell,1908,\N
+5069,lee purcell,,0000,\N
+5070,noel,purcell,1900,\N
+5071,r.,grasdorf,1896,\N
+5072,edmund,purdom,1924,\N
+5073,linda,purl,1955,\N
+5074,edna,purviance,1894,\N
+5075,roselyne puyo,,0000,\N
+5076,denver,pyle,1920,\N
+5077,monty python,,0000,\N
+5078,dennis,quaid,1955,\N
+5079,randy,quaid,1953,\N
+5080,john qualen,,0000,\N
+5081,robert,quarry,1923,\N
+5082,anna,quayle,1937,\N
+5083,anthony,quayle,1913,\N
+5084,diana,quick,1946,\N
+5085,rita quigley,,0000,\N
+5086,eddie,quillan,1907,\N
+5087,dennis,quilley,1933,\N
+5088,richard,quine,1920,\N
+5089,kathleen,quinlan,1954,\N
+5090,aidan quinn,,0000,\N
+5091,aileen quinn,,0000,\N
+5092,anthony,quinn,1915,\N
+5093,bill quinn,,0000,\N
+5094,valerie quinnessen,,0000,\N
+5095,francine racette,,0000,\N
+5096,kurt,raab,0000,\N
+5097,basil,radford,1897,\N
+5098,fn,bn,0000,\N
+5099,gilda,radner,*,\N
+5100,john,goffage,1909,\N
+5101,frances,rafferty,1922,\N
+5102,michael raffetto,,0000,\N
+5103,deborah,raffin,1953,\N
+5104,george,ranft,1895,\N
+5105,rags,ragland,1905,\N
+5106,steve,railsback,0000,\N
+5107,jules,muraire,1883,\N
+5108,douglas rain,,0000,\N
+5109,jack,rain,1895,\N
+5110,luise,rainer,1909,\N
+5111,cristina,raines,1954,\N
+5112,ella,raubes,1921,\N
+5113,claude,rains,1889,\N
+5114,ford rainey,,0000,\N
+5115,bill raisch,,0000,\N
+5116,rohn,raitt,1921,\N
+5117,laya,raki,1927,\N
+5118,giovanna,ralli,1935,\N
+5119,jessie ralph,chambers,1864,\N
+5120,esther,ralston,1902,\N
+5121,jobyna,ralston,1901,\N
+5122,vera hruba,ralston,1921,\N
+5123,marjorie,rambeau,1889,\N
+5124,dack rambo,,1941,\N
+5125,laura rambotham,,0000,\N
+5126,harold ramis,,0000,\N
+5127,charlotte,rampling,1945,\N
+5128,helen gould,beck,1904,\N
+5129,leonard,rosenberg,1920,\N
+5130,ron,randell,1918,\N
+5131,arthur,mcevoy,1901,\N
+5132,anders,randolph,1876,\N
+5133,elsie,randolph,1904,\N
+5134,jane,randolph,1919,\N
+5135,john,randolph,1917,\N
+5136,doris, rankin,0000,\N
+5137,prunella,ransome,1943,\N
+5138,david,rappaport,0000,\N
+5139,michael,rappaport,0000,\N
+5140,michael rapport,,0000,\N
+5141,fritz,rasp,1891,\N
+5142,thalmus,rasulala,1939,\N
+5143,mikhail,rasumny,1890,\N
+5144,basil,rathbone,1892,\N
+5145,gregory,ratoff,1897,\N
+5146,peter ratray,,0000,\N
+5147,heather rattray,,0000,\N
+5148,blanche ravalec,,0000,\N
+5149,herbert,rawlinson,1885,\N
+5150,aldo,da re,1926,\N
+5151,andrew,ray,1939,\N
+5152,charles,ray,1891,\N
+5153,johnnie,ray,1927,\N
+5154,irene (ren\'e),creese,1912,\N
+5155,charles,olden,1906,\N
+5156,kathleen,corkrey,1923,\N
+5157,maggie,o\'reed,1916,\N
+5158,candy raymond,,0000,\N
+5159,cyril,raymond,1897,\N
+5160,gary,raymond,1935,\N
+5161,raymond,guion,1908,\N
+5162,paula ramona,wright,1923,\N
+5163,sheila raynor,,0000,\N
+5164,stephen,rea,0000,\N
+5165,james read,,0000,\N
+5166,bertice reading,,0000,\N
+5167,ronald,reagan,1911,\N
+5168,bart,roberts,1928,\N
+5169,billy redden,,0000,\N
+5170,helen,reddy,0000,\N
+5171,william redfield,,0000,\N
+5172,basil redford,,0000,\N
+5173,robert,redford,1937,\N
+5174,corin,redgrave,1939,\N
+5175,jemma,redgrave,0000,\N
+5176,lynn,redgrave,1943,\N
+5177,sir michael,redgrave,1908,\N
+5178,vanessa,redgrave,1937,\N
+5179,joyce,redman,1918,\N
+5180,liam,redmond,1913,\N
+5181,moira,redmond,1958,\N
+5182,edward,bergman,1908,\N
+5183,donna,mullenger,1921,\N
+5184,george,reed,1867,\N
+5185,jerry reed,,0000,\N
+5186,maxwell,reed,1920,\N
+5187,oliver,reed,1938,\N
+5188,pamela reed,,*,\N
+5189,philip,reed,1908,\N
+5190,robert reed,,0000,\N
+5191,tracy reed,,0000,\N
+5192,herbert,streicher,1947,\N
+5193,angharad,rees,1949,\N
+5194,roger rees,,1944,\N
+5195,tom,reese,1930,\N
+5196,ada,reeve,1874,\N
+5197,christopher,reeve,1952,\N
+5198,george,brewer,1932,\N
+5199,kynaston,reeves,1893,\N
+5200,steve,reeves,1926,\N
+5201,joe regalbuto,,0000,\N
+5202,serge,reggiani,1922,\N
+5203,frank,reicher,1875,\N
+5204,whit reichert,,0000,\N
+5205,beryl,reid,1918,\N
+5206,carl,reid,1894,\N
+5207,elliott,reid,1920,\N
+5208,frances reid,,0000,\N
+5209,kate,reid,1930,\N
+5210,wallace,reid,1890,\N
+5211,peter reigert,,0000,\N
+5212,tom reilly,,0000,\N
+5213,carl,reiner,1922,\N
+5214,rob reiner,,1945,\N
+5215,thomas reiner,,0000,\N
+5216,judge reinhold,,0000,\N
+5217,ann,reinking,1949,\N
+5218,winston rekert,,0000,\N
+5219,george,relph,1888,\N
+5220,james remar,,0000,\N
+5221,lee,remick,1935,\N
+5222,bert remsen,,1925,\N
+5223,renault renaldo,duncan,1904,\N
+5224,simone,renat,0000,\N
+5225,liz renay,,0000,\N
+5226,james,rennie,1890,\N
+5227,michael,rennie,1909,\N
+5228,kelly reno,,0000,\N
+5229,pierre, renoir,1885,\N
+5230,eva,renzi,1944,\N
+5231,dan resin,,0000,\N
+5232,thomas,rettig,1951,\N
+5233,anne,revere,1903,\N
+5234,doris,velagra,1904,\N
+5235,clive,revill,1930,\N
+5236,aldo rey,,0000,\N
+5237,alejandro,rey,0000,\N
+5238,fernando,rey,1915,\N
+5239,adeline dewalt,reynolds,1862,\N
+5240,burt,reynolds,1936,\N
+5241,mary frances,reynolds,1932,\N
+5242,gene,reynolds,1925,\N
+5243,joyce,reynolds,1924,\N
+5244,marjorie,goodspeed,1921,\N
+5245,michael j. reynolds,,0000,\N
+5246,peter,horrocks,1926,\N
+5247,barbara,rhoades,1947,\N
+5248,sybil rhoda,,0000,\N
+5249,betty jane,rhodes,1921,\N
+5250,erik,rhodes,1906,\N
+5251,marjorie,rhodes,1902,\N
+5252,madeleine,roche,1934,\N
+5253,paul,rhys,0000,\N
+5254,john,rhys-davies,0000,\N
+5255,candice rialzon,,0000,\N
+5256,renie,riano,1899,\N
+5257,florence,rice,1907,\N
+5258,joan,rice,1930,\N
+5259,charlie rich,,1932,\N
+5260,irene,rich,1891,\N
+5261,harold,webb,1940,\N
+5262,addison,richards,1887,\N
+5263,ann,richards,1918,\N
+5264,beah,richards,0000,\N
+5265,richard mansfield,taylor,1922,\N
+5266,kim richards,,1964,\N
+5267,paul,richards,1924,\N
+5268,joely richardson,,0000,\N
+5269,john,richardson,1936,\N
+5270,lee richardson,,0000,\N
+5271,natasha, richardson,0000,\N
+5272,sir ralph,richardson,1902,\N
+5273,harry,richman,1895,\N
+5274,mark,richman,1927,\N
+5275,frederick w.,bowditch,1906,\N
+5276,debi richter,,0000,\N
+5277,don,rickles,1926,\N
+5278,hal, riddle,1920,\N
+5279,john huntingdon,rea,1909,\N
+5280,stanley,ridges,1892,\N
+5281,judith ridley,,0000,\N
+5282,leni,riefenstahl,1902,\N
+5283,peter riegert,,0000,\N
+5284,ron rifkin,,0000,\N
+5285,edward,rigby,1879,\N
+5286,terence,rigby,1937,\N
+5287,diana,rigg,1938,\N
+5288,terence right,,0000,\N
+5289,jack riley,,0000,\N
+5290,larry riley,,0000,\N
+5291,walter,rilla,1895,\N
+5292,shane,rimmer,0000,\N
+5293,rintintin,,1916,\N
+5294,molly,ringwald,1968,\N
+5295,brad rinn,,0000,\N
+5296,michael,ripper,1913,\N
+5297,arthur,riscoe,1896,\N
+5298,e.,evans,1887,\N
+5299,cyril,ritchard,1896,\N
+5300,june,ritchie,1939,\N
+5301,kristen riter,,0000,\N
+5302,martin,ritt,1919,\N
+5303,jonathan,ritter,1948,\N
+5304,woodward,ritter,1907,\N
+5305,thelma,ritter,1905,\N
+5306,harry, ritz,0000,\N
+5307,,joachim,n.a.,\N
+5308,emmanuele,riva,1932,\N
+5309,cecilia rivera,,0000,\N
+5310,dolores conchita,rigueroa del rivero,1933,\N
+5311,george rivero,,0000,\N
+5312,george rivers,,0000,\N
+5313,joan,rivers,0000,\N
+5314,brian,rix,1924,\N
+5315,bert,roach,1891,\N
+5316,lilian,roams,1967,\N
+5317,adam roarke,,0000,\N
+5318,jason,robards,1893,\N
+5319,jason,roberts~jr.,1920,\N
+5320,sam, robards,0000,\N
+5321,gale,robbins,1922,\N
+5322,jerome,robbins,1918,\N
+5323,mathew robbins,,0000,\N
+5324,richard,rober,1906,\N
+5325,john c. roberick,,0000,\N
+5326,lyda,roberti,1910,\N
+5327,christian roberts,,0000,\N
+5328,doris,roberts,1930,\N
+5329,eric,roberts,1956,\N
+5330,glenn roberts,,0000,\N
+5331,julia,roberts,1967,\N
+5332,michael d. roberts,,0000,\N
+5333,pernell,roberts,1930,\N
+5334,rachel,roberts,1930,\N
+5335,roy,roberts,1900,\N
+5336,tanya roberts,,*,\N
+5337,teal roberts,,0000,\N
+5338,theodore,roberts,1861,\N
+5339,tony,roberts,1939,\N
+5340,jerrold,robertshaw,1866,\N
+5341,cliff,robertson,1925,\N
+5342,dale,robertson,1923,\N
+5343,dennis robertson,,0000,\N
+5344,james robertson,,0000,\N
+5345,robbie robertson,,0000,\N
+5346,willard,robertson,1886,\N
+5347,paul,robeson,1898,\N
+5348,george edward,wade,1869,\N
+5349,hayward robillard,,0000,\N
+5350,dany,robin,1927,\N
+5351,andy,robinson,0000,\N
+5352,ann robinson,,0000,\N
+5353,bill,robinson,1878,\N
+5354,emmanuel,goldenberg,1893,\N
+5355,francis,robinson,1916,\N
+5356,jay,robinson,1930,\N
+5357,john,robinson,1908,\N
+5358,madeleine,svoboda,1916,\N
+5359,dame flora,robson,1902,\N
+5360,mary,robison,1858,\N
+5361,wayne robson,,0000,\N
+5362,felicia,riese,1918,\N
+5363,alex rocco,,1936,\N
+5364,eugene,roche,1928,\N
+5365,jean rochefort,,1930,\N
+5366,sam,rockwell,1969,\N
+5367,marcia rodd,,0000,\N
+5368,anton,rodgers,1927,\N
+5369,percy,rodriques,1924,\N
+5370,maurice,ro\"eves,0000,\N
+5371,charles,rogers,1904,\N
+5372,virginia,mcmath,1911,\N
+5373,eleanor,lovegren,1916,\N
+5374,lela,rogers,0000,\N
+5375,kenneth,rogers,1938,\N
+5376,mimi,rogers,1955,\N
+5377,paul,rogers,1917,\N
+5378,leonard,slye,1912,\N
+5379,wayne,rogers,1934,\N
+5380,will,rogers,1879,\N
+5381,helena rojo,,0000,\N
+5382,luis antonio,damaso dealonso,1905,\N
+5383,ruth,roland,1893,\N
+5384,guy,rolfe,1915,\N
+5385,howard e. rollins~jr.,,*,\N
+5386,yvonne,warren,1938,\N
+5387,leticia,roman,1939,\N
+5388,ruth,roman,1924,\N
+5389,vivianne,romance,1912,\N
+5390,andy romano,,0000,\N
+5391,harry,gerguson,1890,\N
+5392,septimus william,ryott,1887,\N
+5393,sydney rome,,1947,\N
+5394,fred romer,,0000,\N
+5395,cesar,romero,1907,\N
+5396,e.,rubenstein,1919,\N
+5397,maurice,ronet,1927,\N
+5398,linda,ronstadt,1946,\N
+5399,joe~jnr,yule,1920,\N
+5400,noel,ert,1894,\N
+5401,francoise,denaleche,1891,\N
+5402,george,rose,1920,\N
+5403,maxie,rosenbloom,1906,\N
+5404,arthur milton,lunt,1881,\N
+5405,annie ross,,0000,\N
+5406,diana,ross,1944,\N
+5407,herbert, ross,1927,\N
+5408,katharine,ross,1942,\N
+5409,bernice,gaunt,1909,\N
+5410,yvonne ross,,0000,\N
+5411,isabella,rossellini,1955,\N
+5412,george rossi,,0000,\N
+5413,leo rossi,,0000,\N
+5414,palmina,omiccioli,1925,\N
+5415,norman,rossington,1928,\N
+5416,leonard,rossiter,1926,\N
+5417,lillian,rutstein,1910,\N
+5418,tim,roth,19bb,\N
+5419,richard,roundtree,1937,\N
+5420,robert,rounseville,1914,\N
+5421,mickey rourke,,1957,\N
+5422,dan,rowan,1922,\N
+5423,virginia,rowlands,1934,\N
+5424,patsy,rowlands,1934,\N
+5425,,royce,0000,\N
+5426,christian,rub,1887,\N
+5427,alma,smith,1897,\N
+5428,saul rubinek,,0000,\N
+5429,john,rubinstein,0000,\N
+5430,paul, rudd,1970,\N
+5431,herbert,rudley,1911,\N
+5432,rita, rudner,0000,\N
+5433,mercedes,ruehl,~1992,\N
+5434,charles,ruggles,1886,\N
+5435,heinz,r\"uhmann,1902,\N
+5436,barbara,ruick,1933,\N
+5437,janice,rule,1931,\N
+5438,siegfried,rumann,1884,\N
+5439,john rumar,,0000,\N
+5440,jenny,runacre,1943,\N
+5441,jennifer runyon,,0000,\N
+5442,gn,bn,0000,\N
+5443,barbara,rush,1927,\N
+5444,deborah rush,,0000,\N
+5445,elizabeth rush,,0000,\N
+5446,william russ,,0000,\N
+5447,del,russel,1952,\N
+5448,theresa,russell,1957,\N
+5449,betsy russell,,0000,\N
+5450,craig russell,,0000,\N
+5451,gail,russell,1924,\N
+5452,harold,russell,1914,\N
+5453,jane,russell,1921,\N
+5454,john,russell,1921,\N
+5455,ken, russell,0000,\N
+5456,kurt,russell,1951,\N
+5457,helen louise,leonard,1861,\N
+5458,nipsey,russell,1925,\N
+5459,rosalind,russell,1908,\N
+5460,gianni russo,,0000,\N
+5461,ren\'e,russo,1955,\N
+5462,ann,rutherford,1917,\N
+5463,margaret,rutherford,1892,\N
+5464,basil,ruysdael,1888,\N
+5465,fran ryan,,0000,\N
+5466,irene,riordan,1903,\N
+5467,james ryan,,0000,\N
+5468,john p.,ryan,1938,\N
+5469,kathleen,ryan,1922,\N
+5470,meg ryan,,1962,\N
+5471,mitchell,ryan,1928,\N
+5472,peggy,ryan,1924,\N
+5473,robert,ryan,1909,\N
+5474,katherine,mclaughlin,1921,\N
+5475,tim,ryan,1889,\N
+5476,raisa ryazonova,,0000,\N
+5477,david rydall,,0000,\N
+5478,bobby,rydell,1942,\N
+5479,mark rydell,,1934,\N
+5480,horowitz,winona,1971,\N
+5481,jack ryland,,0000,\N
+5482,yacef saadi,,0000,\N
+5483,sabu,dastagir,1924,\N
+5484,greta sacchi,,0000,\N
+5485,stephen sachs,,0000,\N
+5486,michael sacks,,0000,\N
+5487,marianne,s\"agebrecht,0000,\N
+5488,kengji sahara,,0000,\N
+5489,mort,sahl,1926,\N
+5490,eva marie,saint,1924,\N
+5491,michael,saint denis,0000,\N
+5492,susan,miller,1946,\N
+5493,eugene gero,szakall,1884,\N
+5494,harold,sakata,1920,\N
+5495,theresa saldana,,0000,\N
+5496,charles,sale,1885,\N
+5497,p.j. sales,,0000,\N
+5498,milton,hines,1926,\N
+5499,peter,sallis,1921,\N
+5500,albert,salmi,1928,\N
+5501,louis salon,,0000,\N
+5502,jennifer,salt,1944,\N
+5503,renato salvatori,,0000,\N
+5504,tatania,samoilova,1934,\N
+5505,will,sampson,1935,\N
+5506,joanne samuel,,0000,\N
+5507,henry sanada,,0000,\N
+5508,jaime sanchez,,0000,\N
+5509,salvatore sanchez,,0000,\N
+5510,paul,sanchez,1944,\N
+5511,dominique,varaigne,1948,\N
+5512,walter,sande,1906,\N
+5513,george,sanders,1906,\N
+5514,scott,sanders,1885,\N
+5515,william sanderson,,0000,\N
+5516,stanley j.,sandford,1894,\N
+5517,adam,sandler,1966,\N
+5518,steve sandor,,0000,\N
+5519,diana,sands,1934,\N
+5520,julian sands,,0000,\N
+5521,tommy,sands,1937,\N
+5522,erskine,sanford,1880,\N
+5523,ralph,sanford,1899,\N
+5524,laura,san giacomo,1952,\N
+5525,olga,san juan,1927,\N
+5526,tom santchi,,0000,\N
+5527,reni,santoni,1939,\N
+5528,joe santos,,0000,\N
+5529,tom,santschi,1879,\N
+5530,chris,sarandon,1942,\N
+5531,susan abigail,tomaling,1946,\N
+5532,dick,sargent,1937,\N
+5533,michael,sarne,1939,\N
+5534,michael,sarrazin,1940,\N
+5535,jaqueline,sassard,1940,\N
+5536,bernie,lyon,1921,\N
+5537,fred savage,,1976,\N
+5538,john,savage,1953,\N
+5539,vic savage,,0000,\N
+5540,danielle nadine suzanne,salle,1940,\N
+5541,george savalas,,0000,\N
+5542,aristotles,savalas,1924,\N
+5543,tom savini,,0000,\N
+5544,jimmy,savo,1895,\N
+5545,teresa ann savoy,,0000,\N
+5546,joseph,sawyer,1901,\N
+5547,peggy sawyer,,0000,\N
+5548,carmen,orrico,1935,\N
+5549,greta,scacchi,1960,\N
+5550,giovanna,scoglio,1934,\N
+5551,diana,scarwid,0000,\N
+5552,felice schacter,,0000,\N
+5553,natalie,schafer,1912,\N
+5554,wendy schall,,0000,\N
+5555,william,schallert,1922,\N
+5556,sabrina scharf,,0000,\N
+5557,roy,scheider,1934,\N
+5558,catherine,vonschell,0000,\N
+5559,maria,schell,1926,\N
+5560,maximilian,schell,1930,\N
+5561,ronnie schell,,0000,\N
+5562,august schellenberg,,0000,\N
+5563,mary kate,schellhardt,1979,\N
+5564,rosanna,schiaffino,1939,\N
+5565,ralph schicha,,0000,\N
+5566,claudia,schiffer,19bb,\N
+5567,joseph,schildkraut,1895,\N
+5568,gus,schilling,1908,\N
+5569,anja schmidt,,0000,\N
+5570,joseph,schmidt,1906,\N
+5571,john schneider,,0000,\N
+5572,magda,schneider,0000,\N
+5573,maria,schneider,1952,\N
+5574,rosemarie,albach-retty,1938,\N
+5575,michael schoeffling,,0000,\N
+5576,kyra schon,,0000,\N
+5577,avery schreiber,,0000,\N
+5578,max,schrek,1879,\N
+5579,ricky,schroder,1970,\N
+5580,john,schuck,1944,\N
+5581,dwight,schultz,0000,\N
+5582,reinhold,schunzel,1886,\N
+5583,scott schwartz,,0000,\N
+5584,maurice,schwarz,1891,\N
+5585,arnold,schwarzenegger,1947,\N
+5586,hanna,schygulla,1943,\N
+5587,john schyck,,0000,\N
+5588,patti scialfa,,0000,\N
+5589,annabelle,sciorra,0000,\N
+5590,paul,scofield,1922,\N
+5591,edith scon,,0000,\N
+5592,zvee scooler,,0000,\N
+5593,martin,scorcese,0000,\N
+5594,campbell,scott,0000,\N
+5595,david scott,,0000,\N
+5596,donovan scott,,0000,\N
+5597,george campbell,scott,1926,\N
+5598,gordon m.,werschkul,1927,\N
+5599,hazel,scott,1920,\N
+5600,jane scott,,0000,\N
+5601,janette,scott,1938,\N
+5602,kathryn leigh,scott,1947,\N
+5603,ken,scott,0000,\N
+5604,emma,matzo,1922,\N
+5605,margaretta,scott,1912,\N
+5606,martha,scott,1914,\N
+5607,mary,scott,0000,\N
+5608,pippa,scott,1935,\N
+5609,randolph,crane,1903,\N
+5610,terry,scott,1927,\N
+5611,zachary,scott,1914,\N
+5612,vito scotti,,0000,\N
+5613,none,scraps,1914,\N
+5614,alexander,scourby,1913,\N
+5615,linda scruggs,,0000,\N
+5616,steven,seagal,1952,\N
+5617,barbara,herzstine (hershey),1948,\N
+5618,franklyn seales,,0000,\N
+5619,jackie,searle,1920,\N
+5620,heather,sears,1935,\N
+5621,victor,sjostrom,1879,\N
+5622,james seay,,0000,\N
+5623,josef sebanek,,0000,\N
+5624,jean,seberg,1938,\N
+5625,harry,secombe,1921,\N
+5626,george,segal,1934,\N
+5627,vivienne,segal,1897,\N
+5628,pierre segui,,0000,\N
+5629,emmanuelle,seigner,1967,\N
+5630,johnny,sekka,0000,\N
+5631,david,selby,1941,\N
+5632,elizabeth,sellars,1923,\N
+5633,tom,selleck,0000,\N
+5634,peter,sellers,1925,\N
+5635,morton,stubbs,1860,\N
+5636,milton selzer,,0000,\N
+5637,larry,semon,1889,\N
+5638,kent senatore,,0000,\N
+5639,joe seneca,,0000,\N
+5640,giuseppe,segato,1917,\N
+5641,assumpta serna,,0000,\N
+5642,jacques,sernas,1925,\N
+5643,julieta serrano,,0000,\N
+5644,christopher,serrone,1976,\N
+5645,jean,servais,1910,\N
+5646,almira,sessions,1888,\N
+5647,bruce,seton,1909,\N
+5648,pilar,seurat,0000,\N
+5649,george,sewell,1924,\N
+5650,athene,seyler,1889,\N
+5651,anne,seymour,1909,\N
+5652,dan,seymour,1915,\N
+5653,jane,seymour,1951,\N
+5654,ralph seymour,,0000,\N
+5655,delphine,seyrig,1932,\N
+5656,kamran,shah,0000,\N
+5657,shabbadoo,,0000,\N
+5658,glen shadix,,0000,\N
+5659,wallace shaen,,0000,\N
+5660,paul shaffer,,0000,\N
+5661,tupac amaru>,shakur,1971,\N
+5662,tony,shalboub,19bb,\N
+5663,harry,shannon,1890,\N
+5664,ken shapiro,,0000,\N
+5665,michael,shalhouz,1932,\N
+5666,ray,sharkey,1952,\N
+5667,anthony sharp,,0000,\N
+5668,albert sharpe,,0000,\N
+5669,cornelia sharpe,,0000,\N
+5670,william,shatner,1931,\N
+5671,mickey,shaughnessy,1920,\N
+5672,helen shaver,,0000,\N
+5673,reta,shaw,1912,\N
+5674,robert,shaw,1927,\N
+5675,sebastian,shaw,1905,\N
+5676,stan shaw,,0000,\N
+5677,patsy,sloots,1929,\N
+5678,susan damante shaw,,0000,\N
+5679,jeanette,elphick,1935,\N
+5680,winfred lei,momi,1899,\N
+5681,joan,fulton,1929,\N
+5682,dick,schulefand,1928,\N
+5683,wallace shawn,,0000,\N
+5684,robert shaen,dawe,1910,\N
+5685,tamara, nikoulin,1897,\N
+5686,john shea,,0000,\N
+5687,alfred,shoenberg,1868,\N
+5688,harry shearer,,0000,\N
+5689,moira,king,1926,\N
+5690,norma,shearer,1900,\N
+5691,alice sheedy,,0000,\N
+5692,charlie,sheen,0000,\N
+5693,ramon,estevez,1940,\N
+5694,johnny,sheffield,1931,\N
+5695,reginald,sheffield,1901,\N
+5696,gene,sheldon,1909,\N
+5697,shelley,barbara,1933,\N
+5698,john,price,1917,\N
+5699,joy,shelton,1922,\N
+5700,susan,shentall,1934,\N
+5701,samuel shepard,rogers,1943,\N
+5702,cybill,shepherd,1949,\N
+5703,elizabeth,shepherd,0000,\N
+5704,michael,shepley-smith,1907,\N
+5705,paula sheppard,,0000,\N
+5706,shepperd,strudwick,1907,\N
+5707,clara lou,sheridan,1915,\N
+5708,dinah,sheridan,1920,\N
+5709,margaret sheridan,,0000,\N
+5710,lowell,sherman,1885,\N
+5711,madeleine,thronton,1926,\N
+5712,vladek,sheybal,1928,\N
+5713,arthur,shields,1895,\N
+5714,brooke,shields,1965,\N
+5715,james,shigeta,1933,\N
+5716,joseph shiloal,,0000,\N
+5717,yoko shimada,,0000,\N
+5718,joanna,shimkus,1943,\N
+5719,yuki,shimoda,1924,\N
+5720,takashi,shimura,1905,\N
+5721,bill,shine,1911,\N
+5722,ronald,shiner,1903,\N
+5723,sue shiomi,,0000,\N
+5724,yumi shirakawa,,0000,\N
+5725,talia,shire,1947,\N
+5726,dawn (o'day),paris,1918,\N
+5727,anne,shoemaker,1891,\N
+5728,dan shor,,0000,\N
+5729,francis (fanny) rose,shore,1917,\N
+5730,dorothy short,,0000,\N
+5731,martin short,,1950,\N
+5732,winifred,shotter,1904,\N
+5733,robert show,,0000,\N
+5734,casey,adams,1904,\N
+5735,ricky shroder,,0000,\N
+5736,richard b. shull,,0000,\N
+5737,elizabeth,shue,1963,\N
+5738,mort shuman,,0000,\N
+5739,sabrina siami,,0000,\N
+5740,basil sidney,,0000,\N
+5741,sammy,greenfield,1878,\N
+5742,sophia,kosow,1910,\N
+5743,gregory,sierra,0000,\N
+5744,simone,kaminker,1921,\N
+5745,cynthia sikes,,0000,\N
+5746,james b.,sikking,0000,\N
+5747,milton,silvs,1882,\N
+5748,henry,silva,1928,\N
+5749,trididad silva,,0000,\N
+5750,silvain,,0000,\N
+5751,cyndi silver,,0000,\N
+5752,joan micklin, silver,1935,\N
+5753,joe silver,,0000,\N
+5754,ron,silver,1946,\N
+5755,frank,silvera,1914,\N
+5756,jay,silverheels,1919,\N
+5757,philip,silver,1912,\N
+5758,alistair,sim,1900,\N
+5759,gerald,sim,1925,\N
+5760,sheila,sim,1922,\N
+5761,vasek,simek,1928,\N
+5762,arlene simmons,,0000,\N
+5763,jean,simmons,1929,\N
+5764,francois,simon,1895,\N
+5765,paul,simon,1942,\N
+5766,simone,simon,1910,\N
+5767,ivan,simpson,1875,\N
+5768,o.j.,simpson,1947,\N
+5769,peggy simpson,,0000,\N
+5770,russel,simpson,1878,\N
+5771,joan,sims,1930,\N
+5772,francis albert,sinatra,1915,\N
+5773,nancy,sinatra,1940,\N
+5774,gordon john sinclair,,0000,\N
+5775,hugh,sinclair,1903,\N
+5776,donald,sinden,1923,\N
+5777,campbell,singer,1909,\N
+5778,lori singer,,0000,\N
+5779,marc singer,,0000,\N
+5780,steve singer,,0000,\N
+5781,mariana,mcnulty,0000,\N
+5782,joseph sirola,,0000,\N
+5783,lilia,skala,0000,\N
+5784,hal,skelly,1891,\N
+5785,richard,skelton,1910,\N
+5786,tom,skerritt,1933,\N
+5787,cornelia,skinner,1901,\N
+5788,otis,skinner,1858,\N
+5789,alison,groom,1875,\N
+5790,helgi,skulason,0000,\N
+5791,olga slade,,0000,\N
+5792,richard b. skull,,0000,\N
+5793,jeremy,slate,1925,\N
+5794,christian slater,,1969,\N
+5795,helen slater,,0000,\N
+5796,john,slater,1916,\N
+5797,richard x. slattery,,0000,\N
+5798,n.carter,slaughter,1885,\N
+5799,walter,slezak,1902,\N
+5800,hana slikova,,0000,\N
+5801,everett,sloane,1909,\N
+5802,olive,sloane,1896,\N
+5803,marya small,,0000,\N
+5804,gladys,smith,1921,\N
+5805,art,smith,1899,\N
+5806,brooke,smith,1968,\N
+5807,bubba smith,,0000,\N
+5808,sir c.~aubrey,smith,1863,\N
+5809,charles,smith,1920,\N
+5810,charles martin smith,,0000,\N
+5811,constance,smith,1929,\N
+5812,cyril,smith,1892,\N
+5813,jaclyn smith,,0000,\N
+5814,robert,van orden,1931,\N
+5815,kate smith,,0000,\N
+5816,kent,smith,1907,\N
+5817,lane smith,,0000,\N
+5818,lois,smith,1930,\N
+5819,maggie,smith,1934,\N
+5820,mel smith,,0000,\N
+5821,paul, smith,0000,\N
+5822,cheryl,smith,0000,\N
+5823,rex smith,,0000,\N
+5824,roger,smith,1932,\N
+5825,innokenti,smoktunovsky,1925,\N
+5826,terri susan smith,,0000,\N
+5827,william smith,,0000,\N
+5828,sonja smits,,0000,\N
+5829,tom,smothers,1937,\N
+5830,wesley,snipes,0000,\N
+5831,carrie,snodgrass,1946,\N
+5832,jimmy `the greek' snyder,,0000,\N
+5833,park jong sod,,0000,\N
+5834,abraham,sofaer,1896,\N
+5835,fn,sojin,0000,\N
+5836,vladimir,sokoloff,1889,\N
+5837,p.j. soles,,0000,\N
+5838,ewen,solon,1923,\N
+5839,andrew solt,,0000,\N
+5840,suzanne,somers,1946,\N
+5841,julie sommars,,0000,\N
+5842,elke,schletz,1940,\N
+5843,josef,sommer,1930,\N
+5844,edith,sondergaard,1899,\N
+5845,paul sonkkila,,0000,\N
+5846,goro,suzuki,1916,\N
+5847,alberto,sordi,1919,\N
+5848,jean,de rochbrune,1934,\N
+5849,louise,sorel,1944,\N
+5850,linda sorenson,,0000,\N
+5851,paul,sorvino,1939,\N
+5852,harriette,lake,1909,\N
+5853,gn,bn,0000,\N
+5854,david,solberg,1943,\N
+5855,ann southern,,0000,\N
+5856,catherine,spaak,1945,\N
+5857,arthur,space,1908,\N
+5858,sissy,spacek,1950,\N
+5859,merrie spaeth,,0000,\N
+5860,fay spain,,0000,\N
+5861,vincent spano,,0000,\N
+5862,edward,sparkman,1883,\N
+5863,camilla,sparv,1943,\N
+5864,hazel spears,,0000,\N
+5865,bruce spence,,0000,\N
+5866,carlo,pedersoli,1929,\N
+5867,george spencer,,0000,\N
+5868,jeremy,spenser,1937,\N
+5869,victoria, beckham,19bb,\N
+5870,david,spielberg,0000,\N
+5871,joe spinell,,0000,\N
+5872,victor,spinetti,1932,\N
+5873,the loving spoonful,,n.a.,\N
+5874,g.d. spradlin,,0000,\N
+5875,rick springfield,,0000,\N
+5876,ronald,squire,1886,\N
+5877,robert,modini,1919,\N
+5878,james stacy,,0000,\N
+5879,frederick,stafford,1928,\N
+5880,richard stahl,,0000,\N
+5881,philip,stainton,1908,\N
+5882,sylvester,stallone,1946,\N
+5883,james staley,,0000,\N
+5884,terence,stamp,1940,\N
+5885,enid,stamp-taylor,1904,\N
+5886,lionel,stander,1908,\N
+5887,sir guy,standing,1873,\N
+5888,john,leon,1934,\N
+5889,michael,st. angel,0000,\N
+5890,jiri stanislav,,0000,\N
+5891,forrest stanley,,0000,\N
+5892,patricia,reid,1921,\N
+5893,lora stanley,,0000,\N
+5894,frank stanmore,,0000,\N
+5895,harry,stanton,1926,\N
+5896,ruby,stevens,1907,\N
+5897,jean,murray,1923,\N
+5898,maureen,stapleton,1925,\N
+5899,graham,stark,1922,\N
+5900,koo stark,,0000,\N
+5901,pauline,starke,1901,\N
+5902,kay starr,,0000,\N
+5903,ringo starr,,0000,\N
+5904,charles,starrett,1904,\N
+5905,valerie starrett,,0000,\N
+5906,imaelda staunton,,0000,\N
+5907,alison steadman,,0000,\N
+5908,anthony,steel,1920,\N
+5909,barbara,steele,1938,\N
+5910,robert,bradbury,1907,\N
+5911,tommy,hicks,1936,\N
+5912,mary,steenburgen,1952,\N
+5913,simonetta stefanelli,,0000,\N
+5914,rod,steiger,1925,\N
+5915,david steinberg,,0000,\N
+5916,john steiner,,0000,\N
+5917,albert steinruck,,0000,\N
+5918,carolyn steller,,0000,\N
+5919,annel,stenskaja sudakevich,1908,\N
+5920,gordon,summer,0000,\N
+5921,karel,stepanek,1899,\N
+5922,susan,stephen,1931,\N
+5923,ann,stephens,1931,\N
+5924,harvey stephens,,0000,\N
+5925,harvey stephens,,1970,\N
+5926,martin,stephens,1949,\N
+5927,pamela stephens,,0000,\N
+5928,robert,stephens,1931,\N
+5929,h.s.,garroway,1871,\N
+5930,james,stephenson,1888,\N
+5931,pamela,stephenson,1951,\N
+5932,ilse,steppat,1917,\N
+5933,george f.,stitch,1883,\N
+5934,jan sterling,adriance,1923,\N
+5935,linda sterling,,0000,\N
+5936,william john,hart,1917,\N
+5937,tisa sterling,,0000,\N
+5938,jimmy sterman,,0000,\N
+5939,daniel stern,,0000,\N
+5940,erik stern,,0000,\N
+5941,tom stern,,0000,\N
+5942,frances sternhagen,,0000,\N
+5943,andrew,stevens,1955,\N
+5944,casey stevens,,0000,\N
+5945,concetta,ingolia,1938,\N
+5946,gail,shekles,1918,\N
+5947,inger,stensland,1935,\N
+5948,gloria,wood,1919,\N
+5949,leslie, stevens,1924,\N
+5950,stephen,richards,1916,\N
+5951,morgan stevens,,0000,\N
+5952,onslow ford,stevenson,1902,\N
+5953,rise,stevens,1913,\N
+5954,robert stevens,,1925,\N
+5955,ronnie,stevens,1925,\N
+5956,estelle,eggleston,1936,\N
+5957,warren,stevens,1919,\N
+5958,housely,stevenson,1879,\N
+5959,maclean stevenson,,0000,\N
+5960,alana stewart,,0000,\N
+5961,alexandra,stewart,1939,\N
+5962,anna may,stewart,1895,\N
+5963,athole,stewart,1879,\N
+5964,catherine mary stewart,,0000,\N
+5965,charlotte stewart,,0000,\N
+5966,donald stewart,,0000,\N
+5967,elsy,steinberg,1929,\N
+5968,james maitland,stewart,1908,\N
+5969,paul,stewart,1908,\N
+5970,patrick,stewart,0000,\N
+5971,sandy stewart,,0000,\N
+5972,sophie,stewart,1909,\N
+5973,ren\'ee,st cyr,1907,\N
+5974,ivy sthelier,,0000,\N
+5975,pat stich,,0000,\N
+5976,david ogden,stiers,0000,\N
+5977,hugo stiglitz,,0000,\N
+5978,ben,stiller,0000,\N
+5979,sting,,n.a.,\N
+5980,james,johnson,1930,\N
+5981,al,st john,1893,\N
+5982,betta,streidler,1930,\N
+5983,christopher,st john,0000,\N
+5984,howard,st john,1905,\N
+5985,jill,oppenheim,1940,\N
+5986,nigel,stock,1919,\N
+5987,walter stocker,,0000,\N
+5988,betty,stockfield,1905,\N
+5989,dean,stockwell,1938,\N
+5990,guy,stockwell,1936,\N
+5991,john stockwell,,0000,\N
+5992,austin stoker,,0000,\N
+5993,shirley stoler,,0000,\N
+5994,eric,stoltz,1962,\N
+5995,christopher stone,,0000,\N
+5996,danny stone,,0000,\N
+5997,fred stone,,0000,\N
+5998,george,stein,1903,\N
+5999,harold,stone,1911,\N
+6000,ivory stone,,0000,\N
+6001,lewis,stone,1879,\N
+6002,marianne,stone,1920,\N
+6003,milburn,stone,1904,\N
+6004,philip stone,,0000,\N
+6005,sharon,stone,0000,\N
+6006,paolo,stoppa,1906,\N
+6007,larry,storch,1923,\N
+6008,josephine,cottle,1922,\N
+6009,ludwig,stossel,1883,\N
+6010,rose,stradner,1913,\N
+6011,beatrice,straight,1916,\N
+6012,glenn,strange,1899,\N
+6013,blanche,oelrichs,1890,\N
+6014,lee,strasberg,1901,\N
+6015,susan,strasberg,1938,\N
+6016,marcia strassman,,0000,\N
+6017,dorothy,stratten,1960,\N
+6018,peter,strauss,1942,\N
+6019,robert,strauss,1913,\N
+6020,mary louise,streep,1949,\N
+6021,russel streiner,,0000,\N
+6022,barbara joan,streisand,1942,\N
+6023,ray,stricklyn,1930,\N
+6024,john,stride,1936,\N
+6025,elaine,stritch,1926,\N
+6026,woodrow,strode,1914,\N
+6027,don,stroud,1937,\N
+6028,annette,stroyberg,0000,\N
+6029,sally,struthers,1947,\N
+6030,barbara stuart,,0000,\N
+6031,binkie,stuart,1932,\N
+6032,gloria stuart,finch,1909,\N
+6033,john,croall,1898,\N
+6034,richard styles,,0000,\N
+6035,margaret,brooke,1911,\N
+6036,patrick,barry,1912,\N
+6037,ed sullivan,,0000,\N
+6038,francis l.\,sullivan,1903,\N
+6039,michael sullivan,,0000,\N
+6040,tom sullivan,,0000,\N
+6041,frank,sully,1910,\N
+6042,*,sul-te-wan,0000,\N
+6043,donna summer,,0000,\N
+6044,eleanor,summerfield,1921,\N
+6045,george j.\,summerville,1892,\N
+6046,geoffrey,sumner,1908,\N
+6047,clinton,sundberg,1919,\N
+6048,todd susman,,0000,\N
+6049,donald,sutherland,1935,\N
+6050,kiefer,sutherland,1968,\N
+6051,dudley,sutton,1933,\N
+6052,frank sutton,,0000,\N
+6053,grady,sutton,1908,\N
+6054,john,sutton,1908,\N
+6055,janet,suzman,1939,\N
+6056,bo,svenson,1941,\N
+6057,dominique,swain,0000,\N
+6058,mack,swain,1876,\N
+6059,robert swann,,0000,\N
+6060,forrest swanson,,0000,\N
+6061,gary swanson,,0000,\N
+6062,josephine,swenson,1897,\N
+6063,maureen,swanson,1932,\N
+6064,gladys,swarthout,1904,\N
+6065,swazey,,1952,\N
+6066,fn,sweeney,0000,\N
+6067,daphne,wayne,1895,\N
+6068,dolph,sweet,0000,\N
+6069,inga,swenson,1932,\N
+6070,stanley swerdlow,,0000,\N
+6071,elinore,johnson,1902,\N
+6072,tilda swinton,,0000,\N
+6073,loretta,swit,1937,\N
+6074,carl,switzer,1926,\N
+6075,ken,swofford,0000,\N
+6076,basil,nugent,1894,\N
+6077,eric,sykes,1923,\N
+6078,harold sylvester,,0000,\N
+6079,william,sylvester,1922,\N
+6080,louise,sylvain,1883,\N
+6081,donald symington,,0000,\N
+6082,sylvia may laura ,syms,1934,\N
+6083,mr. t,,0000,\N
+6084,sidney,tafler,1916,\N
+6085,george takei,,0000,\N
+6086,lyle,talbot,1902,\N
+6087,constance,talmadge,1898,\N
+6088,natalie,talmadge,19bb,\N
+6089,norma,talmadge,1893,\N
+6090,william,talman,1915,\N
+6091,tetsuro,tamba,1929,\N
+6092,russ,tamblyn,1934,\N
+6093,zo\"e,tamerlis,1965,\N
+6094,akim,tamiroff,1899,\N
+6095,mary tamm,,0000,\N
+6096,jessica,tandy,1909,\N
+6097,yoki,tani,1932,\N
+6098,tony,tanner,1932,\N
+6099,colin,tapley,1911,\N
+6100,quentin,tarantino,0000,\N
+6101,lilyan,tashman,1899,\N
+6102,reba,tassel,0000,\N
+6103,reginald,tate,1896,\N
+6104,sharon,tate,1943,\N
+6105,jaques,tati,1908,\N
+6106,sven-bertil,taube,0000,\N
+6107,richard,tauber,1892,\N
+6108,vic,tayback,0000,\N
+6109,alma,taylor,1895,\N
+6110,delores taylor,,0000,\N
+6111,don,taylor,1920,\N
+6112,dub taylor,,0000,\N
+6113,elizabeth,taylor,1932,\N
+6114,estelle,boylan,1899,\N
+6115,george taylor,,0000,\N
+6116,louis,weiss,1907,\N
+6117,kit taylor,,0000,\N
+6118,laurette,cooney,1884,\N
+6119,renee taylor,,0000,\N
+6120,rip taylor,,0000,\N
+6121,spangler arlington,brugh,1911,\N
+6122,robert,taylor,1929,\N
+6123,sharon taylor,,0000,\N
+6124,valerie,taylor,0000,\N
+6125,vaughn taylor,,0000,\N
+6126,zack taylor,,0000,\N
+6127,leigh,taylor-young,1944,\N
+6128,ray,teal,1902,\N
+6129,frederick,levy,1878,\N
+6130,sir godfrey,tearle,1884,\N
+6131,verree,teasdale,1904,\N
+6132,shirley,temple,1928,\N
+6133,victoria,tennant,1950,\N
+6134,william tepper,,0000,\N
+6135,ellen,lewin,1871,\N
+6136,alice,taafe,1899,\N
+6137,donald,locher,1902,\N
+6138,ellen,terry,1848,\N
+6139,harry terry,,0000,\N
+6140,nigel terry,,0000,\N
+6141,philip,terry,1909,\N
+6142,gn,terry-thomas,0000,\N
+6143,laurent,terzieff,0000,\N
+6144,desmond,tester,1919,\N
+6145,joan,tetzel,1924,\N
+6146,lauren tewes,,0000,\N
+6147,heather,thatcher,1897,\N
+6148,torin,thatcher,1905,\N
+6149,john,thaw,1942,\N
+6150,phyllis,thaxter,1921,\N
+6151,lorna thayer,,0000,\N
+6152,joe theismann,,0000,\N
+6153,jodi thelen,,0000,\N
+6154,charlize theron,,0000,\N
+6155,ernest,thesiger,1879,\N
+6156,jack thibeau,,0000,\N
+6157,ursula,thiess,1929,\N
+6158,helene,thimig,1889,\N
+6159,roy,thinnes,1938,\N
+6160,brondon thomas,,0000,\N
+6161,muzyad (amos),yakhoob (jacobs),1914,\N
+6162,heather thomas,,0000,\N
+6163,henry thomas,,0000,\N
+6164,jameson,thomas,1892,\N
+6165,kristin scott thomas,,0000,\N
+6166,margaret,thomas,1944,\N
+6167,richard,thomas,1951,\N
+6168,terry thomas,hoar-stevens,1911,\N
+6169,tim thomerson,,0000,\N
+6170,juan carlos,mundanschaffter,1916,\N
+6171,derek thompson,,0000,\N
+6172,dorri thompson,,0000,\N
+6173,emma,thompson,0000,\N
+6174,thompsn,fred,dob,\N
+6175,eric,thompson,1929,\N
+6176,hal thompson,,0000,\N
+6177,j.lee, lee thompson,1914,\N
+6178,john,payne,1940,\N
+6179,lea thompson,,0000,\N
+6180,linda thompson,,0000,\N
+6181,kay thompson,,0000,\N
+6182,kim thompson,,0000,\N
+6183,marshall,thompson,1925,\N
+6184,sada,thompson,1929,\N
+6185,shawn thompson,,0000,\N
+6186,martha thomsen,,0000,\N
+6187,fred,thomson,1890,\N
+6188,sybil dame,thorndyke,1882,\N
+6189,frank,thornton,1921,\N
+6190,sigrid,thornton,1959,\N
+6191,frank,thring,0000,\N
+6192,thu thuy,,0000,\N
+6193,ingrid,thulin,1929,\N
+6194,bill thurman,,0000,\N
+6195,theodora thurman,,0000,\N
+6196,uma,thurman,1971,\N
+6197,tiana thi thanh,nga,0000,\N
+6198,lawrence,tibbett,1896,\N
+6199,joseph ticka,,0000,\N
+6200,cheryl, tiegs,0000,\N
+6201,gene,tierney,1920,\N
+6202,lawrence,tierney,1919,\N
+6203,zeffie,tilbury,1863,\N
+6204,nadja,tiller,1929,\N
+6205,mel tillis,,0000,\N
+6206,johnny tillotson,,0000,\N
+6207,jennifer, tilly,0000,\N
+6208,meg,tilly,1960,\N
+6209,charlene tilton,,0000,\N
+6210,martha,tilton,1915,\N
+6211,charles,tingwell,1917,\N
+6212,kenneth,tobey,1919,\N
+6213,george,tobias,1901,\N
+6214,oliver,tobias,1947,\N
+6215,dan,tobin,1909,\N
+6216,genevieve,tobin,1901,\N
+6217,ann,todd,1909,\N
+6218,ann todd,mayfield,1932,\N
+6219,richard, todd,1919,\N
+6220,thelma,todd,1905,\N
+6221,ugo,tognazzi,1922,\N
+6222,sidney,toler,1878,\N
+6223,marilu tolo,,0000,\N
+6224,jeana tomasina,,0000,\N
+6225,marisa,tomei,0000,\N
+6226,andrew,tombes,1889,\N
+6227,lily,tomlin,1939,\N
+6228,david,tomlinson,1917,\N
+6229,stanislas pascal franchot,tone,1905,\N
+6230,regis,toomey,1902,\N
+6231,geoffrey toonen,,0000,\N
+6232,chaim,topol,1935,\N
+6233,marta,toren,1926,\N
+6234,mel,torm\'e,1923,\N
+6235,elmore,torn,1931,\N
+6236,david,torrence,1864,\N
+6237,ernest,torrence,1878,\N
+6238,paula marie,osterman,1908,\N
+6239,fn,gn,0000,\N
+6240,audrey,totter,1918,\N
+6241,tamara toumanova,,0000,\N
+6242,harry townes,,0000,\N
+6243,jill townsend,,0000,\N
+6244,patrice townsend,,0000,\N
+6245,gn,fn,0000,\N
+6246,j.r. tozer,,0000,\N
+6247,harry,rosenberg,1903,\N
+6248,lee,tracy,1898,\N
+6249,spencer,tracy,1900,\N
+6250,william,tracy,1917,\N
+6251,mary ellen trainor,,0000,\N
+6252,helen,traubel,1899,\N
+6253,daniel j. travanti,,0000,\N
+6254,bill,travers,1922,\N
+6255,travers,heagerty,1874,\N
+6256,jemru travers,,0000,\N
+6257,florence,lindon-tavers,1913,\N
+6258,nancy,travis,0000,\N
+6259,william,justice,1913,\N
+6260,john,travolta,1954,\N
+6261,arthur treacher,veary,1894,\N
+6262,david,tree,1915,\N
+6263,mary,treen,1907,\N
+6264,luis,trenker,1893,\N
+6265,noel trevarthen,,0000,\N
+6266,a.,schilsky,1897,\N
+6267,claire,wemlinger,1909,\N
+6268,jack trevor,,0000,\N
+6269,les tremayne,,0000,\N
+6270,ivan,triesault,1898,\N
+6271,none,tigger,1932,\N
+6272,tommy,trinder,1909,\N
+6273,jean-louis,trintignant,1930,\N
+6274,jeanne,tripplehorn,1964,\N
+6275,dorothy tristan,,0000,\N
+6276,massimo,troisi,1953,\N
+6277,judy trott,,0000,\N
+6278,patrick,troughton,1920,\N
+6279,cecil,trouncer,1898,\N
+6280,charles,trowbridge,1882,\N
+6281,michael,trubshawe,0000,\N
+6282,ernest,truex,1890,\N
+6283,francois, truffaut,1932,\N
+6284,ralph,truman,1900,\N
+6285,natalie,trundy,0000,\N
+6286,thomas,tryon,1919,\N
+6287,paris tselios,,0000,\N
+6288,irene,tsu,1943,\N
+6289,william,tubbs,1909,\N
+6290,forrest,tucker,1919,\N
+6291,michael tucker,,0000,\N
+6292,sophia,abuza,1884,\N
+6293,bowen charleston,tufts,1911,\N
+6294,tom,tully,1896,\N
+6295,ann,turkel,0000,\N
+6296,elizabeth turner,,0000,\N
+6297,guinevere,turner,1968,\N
+6298,florence,turner,1887,\N
+6299,janine,turner,1964,\N
+6300,john,turner,1932,\N
+6301,kathleen turner,,1954,\N
+6302,judy julia,turner,1920,\N
+6303,tina turner,,0000,\N
+6304,ben,turpin,1874,\N
+6305,rita,tushingham,1940,\N
+6306,dorothy,tutin,1930,\N
+6307,lurene tuttle,,0000,\N
+6308,shannon,tweed,0000,\N
+6309,tracy, tweed,0000,\N
+6310,helen,jurgens,1908,\N
+6311,lesley,hornby,1946,\N
+6312,beverly,tyler,1924,\N
+6313,beverly,tyler,1924,\N
+6314,liv,tyler,0000,\N
+6315,charles tyner,,0000,\N
+6316,susan,tyrrell,1946,\N
+6317,cicely,tyson,1933,\N
+6318,margaret,tyzack,1933,\N
+6319,meier,tzelniker,1894,\N
+6320,leslie,uggams,1943,\N
+6321,liv,ullmann,1939,\N
+6322,tracey,ullmann,1959,\N
+6323,leonore,ulrich,1892,\N
+6324,miyoshi,umeki,1929,\N
+6325,edward,underdown,1908,\N
+6326,mary,ure,1933,\N
+6327,minerva,urecal,1896,\N
+6328,robert urich,,0000,\N
+6329,robert,urquhart,1922,\N
+6330,peter,ustinov,1921,\N
+6331,badi uzza,,0000,\N
+6332,brenda,vaccaro,1939,\N
+6333,vera vague,,0000,\N
+6334,karen,valentine,1948,\N
+6335,rodolpho,d'antonguolla,1895,\N
+6336,frederick,valk,1901,\N
+6337,hubert,vallee,1901,\N
+6338,alida maria,altenburger,1921,\N
+6339,romolo valli,,0000,\N
+6340,virginia,mcsweeny,1898,\N
+6341,raf,vallone,1916,\N
+6342,saverio vallone,,0000,\N
+6343,robert,stein,1930,\N
+6344,irene,barnes,1872,\N
+6345,vivian,vance,1911,\N
+6346,lee,van cleef,1925,\N
+6347,jos\'e,vandam,0000,\N
+6348,trish,van devere,1943,\N
+6349,joan lucille,olander,1933,\N
+6350,barry vandyke,,0000,\N
+6351,conny vandyke,,0000,\N
+6352,dick,van dyke,1925,\N
+6353,charles,vanel,1892,\N
+6354,peter,van eyck,1911,\N
+6355,john,van eyssen,1925,\N
+6356,jo,van fleet,1919,\N
+6357,kevin vanhentenryck,,0000,\N
+6358,jon vanness,,0000,\N
+6359,rik vannutter,,0000,\N
+6360,nina,van pallandt,1932,\N
+6361,dick,van patten,1928,\N
+6362,james, van patten,0000,\N
+6363,joyce,van patten,1934,\N
+6364,timothy vanpatten,,0000,\N
+6365,vincent vanpatten,,0000,\N
+6366,deborah vanrhyn,,0000,\N
+6367,luis,van rooten,1906,\N
+6368,edward,van sloan,1882,\N
+6369,deborah vanvalkenburgh,,0000,\N
+6370,monique vanvooren,,0000,\N
+6371,philip,van zandt,1904,\N
+6372,victor,varconi,1896,\N
+6373,evelyn,varden,1895,\N
+6374,norma,varden,1898,\N
+6375,leonor,varela,1985,\N
+6376,valentina vargas,,0000,\N
+6377,beatrice,varley,1896,\N
+6378,reg,varney,1922,\N
+6379,diane,varsi,1938,\N
+6380,frank,abelson,1928,\N
+6381,peter,ohm,1923,\N
+6382,martin vaughn,,0000,\N
+6383,robert,vaughn,1932,\N
+6384,conrad,veidt,1893,\N
+6385,guadeloupe,velez de villalobos,1908,\N
+6386,reginald veljohnson,,0000,\N
+6387,evelyn,venable,1913,\N
+6388,amy,veness,1876,\N
+6389,chick vennera,,0000,\N
+6390,diane venora,,0000,\N
+6391,wanda,ventham,0000,\N
+6392,angelino,borrini,1919,\N
+6393,vera-ellen westmeyr,rohe,1920,\N
+6394,gwen,verdon,1925,\N
+6395,ellen,verdugo,1926,\N
+6396,ben,vereen,1946,\N
+6397,ingabor katrine,klinekerfuss,1915,\N
+6398,jerry,verno,1895,\N
+6399,edith,vignaud,1925,\N
+6400,john,vernon,1935,\N
+6401,wally,vernon,1904,\N
+6402,militza,de poliakoff-baidarov,1930,\N
+6403,verushka,,0000,\N
+6404,virginia vestoff,,0000,\N
+6405,angela,dorian,1944,\N
+6406,marcel vibert,,0000,\N
+6407,m.,macvicar,1925,\N
+6408,charles,victor,1896,\N
+6409,henry,victor,1898,\N
+6410,henri,vidal,1919,\N
+6411,florence,arto,1895,\N
+6412,asia viera,,0000,\N
+6413,abe,vigoda,1919,\N
+6414,robert viharo,,0000,\N
+6415,tony vilar,,0000,\N
+6416,henri vilbert,,0000,\N
+6417,francois,drouineau,1917,\N
+6418,herve,villechaize,1943,\N
+6419,james,villiers,1933,\N
+6420,jan-michael,vincent,1944,\N
+6421,june,vincent,1919,\N
+6422,helen,rulfs,1907,\N
+6423,jesse vint,,0000,\N
+6424,enzo vitale,,0000,\N
+6425,mario vitale,,0000,\N
+6426,milly,vitale,1928,\N
+6427,monica luisa,ceciarelli,1933,\N
+6428,viva,,0000,\N
+6429,ruth vivian,,0000,\N
+6430,marina,de poliakoff-baidarov,1938,\N
+6431,karl,vogler,1928,\N
+6432,jon,voight,1938,\N
+6433,gian,volont\'e,1930,\N
+6434,ferdinand vonalten,,0000,\N
+6435,thomas,von br\"omssen,0000,\N
+6436,lenny vondohlen,,0000,\N
+6437,gustav,von seyffertitz,1863,\N
+6438,hans erich maria stroheim,von nordenwall,1885,\N
+6439,carl adolf,von sydow,1929,\N
+6440,gustav,von wangenheim,0000,\N
+6441,george,voskovec,1905,\N
+6442,frank,vosper,1899,\N
+6443,andreas voutsina,,0000,\N
+6444,milena vukotic,,0000,\N
+6445,murvyn,vye,1913,\N
+6446,henry,wadsworth,1902,\N
+6447,john wade,,0000,\N
+6448,russel wade,,0000,\N
+6449,anthony,wager,1933,\N
+6450,christie wagner,,0000,\N
+6451,lindsay,wagner,1949,\N
+6452,robert,wagner,1930,\N
+6453,ken,wahl,1956,\N
+6454,james,wainwright,0000,\N
+6455,ralph,waite,1928,\N
+6456,akiko wakabayashi,,0000,\N
+6457,eijo wakabayashi,,0000,\N
+6458,duggie,wakefield,1899,\N
+6459,hugh,wakefield,1888,\N
+6460,adolf anton,wohlbr\"uck,1900,\N
+6461,raymond,walburn,1887,\N
+6462,christopher,walken,1943,\N
+6463,norman,walker,1927,\N
+6464,helen,walker,1921,\N
+6465,kathryn walker,,0000,\N
+6466,maggie walker,,0000,\N
+6467,ann swoyer,barto,1921,\N
+6468,nella,walker,1886,\N
+6469,robert,walker,1914,\N
+6470,robert~jr.,waker,1941,\N
+6471,syd,walker,1887,\N
+6472,tippy walker,,0000,\N
+6473,zena,walker,1934,\N
+6474,max,wall,0000,\N
+6475,bill wallace,,0000,\N
+6476,dee,wallace stone,0000,\N
+6477,jean,wallasek,1923,\N
+6478,eli,wallach,1915,\N
+6479,bill wallis,,0000,\N
+6480,shani,wallis,1938,\N
+6481,tom,walls,1883,\N
+6482,sir hugh,walpole,1884,\N
+6483,dermot,walsh,1924,\N
+6484,j.t,walsh,1944,\N
+6485,kay,walsh,1914,\N
+6486,ray,walston,1917,\N
+6487,jessica,walter,1944,\N
+6488,julie walter,,0000,\N
+6489,tracey walter,,0000,\N
+6490,julie walters,,0000,\N
+6491,thorley,walters,1913,\N
+6492,henry,walthall,1878,\N
+6493,sam,wanamaker,1919,\N
+6494,jimmy,wang yu,0000,\N
+6495,fannie,ward,1865,\N
+6496,fred ward,,0000,\N
+6497,michael,ward,1915,\N
+6498,pyno,poluski,1908,\N
+6499,rachel,ward,1957,\N
+6500,simon,ward,1920,\N
+6501,jack,warden,1920,\N
+6502,herta ware,,0000,\N
+6503,andy,warhol,1926,\N
+6504,s.j. warmington,,0000,\N
+6505,david,warner,0000,\N
+6506,henry byron,warner-lickford,1876,\N
+6507,jack,waters,1894,\N
+6508,marcia warner,,0000,\N
+6509,c. denier,warren,1889,\N
+6510,fran warren,,0000,\N
+6511,jennifer,warren,1941,\N
+6512,lesley ann,warren,1946,\N
+6513,michael warren,,0000,\N
+6514,harold,warrender,1903,\N
+6515,ruth,warrick,1915,\N
+6516,david warrilow,,0000,\N
+6517,dionne warwick,,0000,\N
+6518,john mcintosh,beattie,1905,\N
+6519,richard warwick,,0000,\N
+6520,robert taylor,bien,1878,\N
+6521,mona,washbourne,1903,\N
+6522,beverly washburn,,0000,\N
+6523,bryant,washburn,1988,\N
+6524,denzel,washington,1955,\N
+6525,mavis washington,,0000,\N
+6526,ted wass,,0000,\N
+6527,craig,wasson,1954,\N
+6528,gedde watanabe,,0000,\N
+6529,dennis,waterman,1948,\N
+6530,william waterman,,0000,\N
+6531,ethel,waters,1896,\N
+6532,john waters,,0000,\N
+6533,russell,waters,1908,\N
+6534,sam,waterston,1940,\N
+6535,pierre,watkin,1894,\N
+6536,charlene watkins,,0000,\N
+6537,jack,watling,1923,\N
+6538,bobby watson,,0000,\N
+6539,bobs,watson,1931,\N
+6540,douglass watson,,0000,\N
+6541,emily,watson,1967,\N
+6542,jack,watson,1921,\N
+6543,lucile,watson,1879,\N
+6544,minor,watson,1889,\N
+6545,robert,watson,1888,\N
+6546,timothy watson,,0000,\N
+6547,john wylie,robertson,1889,\N
+6548,richard,wattis,1912,\N
+6549,kristina wayborn,,0000,\N
+6550,wayne,mcmeekan,1914,\N
+6551,ethan, wayne,0000,\N
+6552,marion michael (duke),morrison,1907,\N
+6553,johnny wayne,,0000,\N
+6554,keith wayne,,0000,\N
+6555,michael, wayne,0000,\N
+6556,naunton,davies,1901,\N
+6557,nina wayne,,0000,\N
+6558,patrick,wayne,1939,\N
+6559,carl weathers,,0000,\N
+6560,dennis,weaver,1924,\N
+6561,winstead sheffield,weaver,1911,\N
+6562,fritz,weaver,1926,\N
+6563,marjorie,weaver,1913,\N
+6564,sigourney,weaver,1949,\N
+6565,alan,webb,1906,\N
+6566,webb parmelee,hollenbeck,1893,\N
+6567,jack,webb,1920,\N
+6568,richard,webb,0000,\N
+6569,robert,webber,1928,\N
+6570,ben,webster,1864,\N
+6571,ann wedgeworth,,0000,\N
+6572,paul,wegener,1874,\N
+6573,virginia,weidler,1927,\N
+6574,leslie weiner,,0000,\N
+6575,peter john,weissmuller,1904,\N
+6576,bruce weitz,,0000,\N
+6577,joseph l.,welch,1891,\N
+6578,fn,welch,0000,\N
+6579,raquel,tejada,1940,\N
+6580,tahnee welch,,0000,\N
+6581,susan ker,weld,1943,\N
+6582,ben,welden,1901,\N
+6583,mary louise weller,,0000,\N
+6584,gwen welles,,0000,\N
+6585,jacqueline,brown,1914,\N
+6586,mel welles,,0000,\N
+6587,orson,welles,1915,\N
+6588,billy wells,,0000,\N
+6589,dawn wells,,0000,\N
+6590,jennifer wells,,0000,\N
+6591,johann,wenngraft,1897,\N
+6592,klaus wenneman,,0000,\N
+6593,fritz wepper,,0000,\N
+6594,josef,schliessmayer,1922,\N
+6595,dick,wessel,1910,\N
+6596,paula,wessely,1908,\N
+6597,dick,wesson,1922,\N
+6598,william,anderson,1929,\N
+6599,dianne west,,0000,\N
+6600,mae,west,1892,\N
+6601,timothy,west,1934,\N
+6602,john,westbrook,0000,\N
+6603,gordon,westcott,1903,\N
+6604,myrthas helen,hickman,1929,\N
+6605,james,westerfield,1912,\N
+6606,henrietta,conroy,1879,\N
+6607,nydia,westman,1902,\N
+6608,james westmoreland,,0000,\N
+6609,david,weston,1938,\N
+6610,jack,weston,1926,\N
+6611,margaret weycherle,,0000,\N
+6612,joseph kenneth,shovlin,1899,\N
+6613,joanne,whalley-kilmer,1960,\N
+6614,arleen,whelan,1916,\N
+6615,alan,wheatley,1907,\N
+6616,russ wheeler,,0000,\N
+6617,manning,whiley,1915,\N
+6618,leigh,whipper,1877,\N
+6619,alice,white,1907,\N
+6620,carol,white,1941,\N
+6621,david,white,1916,\N
+6622,jessie,wiedenfeld,1918,\N
+6623,john sylvester white,,0000,\N
+6624,pearl,white,1889,\N
+6625,ruth,white,1914,\N
+6626,ted white,,0000,\N
+6627,valerie,white,1916,\N
+6628,wilfrid hyde white,,0000,\N
+6629,billie,whitelaw,1932,\N
+6630,jon,whiteley,1945,\N
+6631,paul,whiteman,1890,\N
+6632,lynn,whitfield,1954,\N
+6633,leonard,whiting,1950,\N
+6634,ernest,whitman,0000,\N
+6635,mae,whitman,1989,\N
+6636,stuart,whitman,1926,\N
+6637,james,whitmore,1921,\N
+6638,james whitmore~jr.,,0000,\N
+6639,peter king,engle,1916,\N
+6640,paul,whitsun-jones,1923,\N
+6641,dame may,whitty,1865,\N
+6642,the who,,n.a.,\N
+6643,richard,whorf,1906,\N
+6644,mary,wickenhauser,1916,\N
+6645,richard,widmark,1914,\N
+6646,dorothea,wieck,1908,\N
+6647,the wiere~brothers,,n.a.,\N
+6648,lynda wiesmeyer,,0000,\N
+6649,dianne wiest,,*,\N
+6650,collin,wilcox,0000,\N
+6651,frank,wilcox,1907,\N
+6652,larry wilcox,,0000,\N
+6653,henry,wilcoxon,1905,\N
+6654,jack,wild,1952,\N
+6655,cornel,wilde,1915,\N
+6656,jerry,silberman,1934,\N
+6657,michael,wilding,1912,\N
+6658,estelle wildwood,,0000,\N
+6659,jan wiley,,0000,\N
+6660,robert,wilke,1911,\N
+6661,jose wilker,,0000,\N
+6662,joy wilkerson,,0000,\N
+6663,donna wilkes,,0000,\N
+6664,fred willard,,0000,\N
+6665,toyah willcox,,0000,\N
+6666,warren,krech,1895,\N
+6667,adam,williams,1929,\N
+6668,bernie williams,,0000,\N
+6669,william,katt,1916,\N
+6670,billy-dee,williams,0000,\N
+6671,bransby,williams,1870,\N
+6672,bernice,kamiat,1925,\N
+6673,cindy,williams,1948,\N
+6674,eric bransby williams,,0000,\N
+6675,emlyn,williams,1905,\N
+6676,esther,williams,1923,\N
+6677,grant,williams,1930,\N
+6678,guinn,williams,1900,\N
+6679,guy,williams,1924,\N
+6680,harcourt,williams,1880,\N
+6681,brian,williams,1904,\N
+6682,jobeth,williams,0000,\N
+6683,john,williams,1903,\N
+6684,kathlyn,williams,1888,\N
+6685,kenneth,williams,1926,\N
+6686,paul,williams,1940,\N
+6687,rhys,williams,1892,\N
+6688,robert,williams,1897,\N
+6689,robin,williams,1951,\N
+6690,sharon, williams,0000,\N
+6691,simon williams,,1946,\N
+6692,richard,williams,1952,\N
+6693,vanessa l., williams,1963,\N
+6694,vanessa, williams,1963,\N
+6695,fred,williamson,1938,\N
+6696,nicol,williamson,1939,\N
+6697,noble willingham,,0000,\N
+6698,austin willis,,0000,\N
+6699,bruce willis,,1941,\N
+6700,pierre-richard willm,,0000,\N
+6701,noel,willman,1918,\N
+6702,dave,willock,1909,\N
+6703,beverly,wills,0000,\N
+6704,brember,wills,1883,\N
+6705,chill,wills,1903,\N
+6706,douglas,wilmer,1920,\N
+6707,candy wilson,,0000,\N
+6708,dooley,wilson,1894,\N
+6709,elizabeth wilson,,0000,\N
+6710,clerow,wilson,1933,\N
+6711,george wilson,,0000,\N
+6712,josephine wilson,,0000,\N
+6713,lambert wilson,,0000,\N
+6714,lois,wilson,1895,\N
+6715,margery wilson,,0000,\N
+6716,katherine elizabeth,white,1916,\N
+6717,mary louise wilson,,0000,\N
+6718,michael g. wilson,,0000,\N
+6719,scott,wilson,1942,\N
+6720,trey,wilsom,0000,\N
+6721,paul winchell,,0000,\N
+6722,walter,winchell,1897,\N
+6723,william,windom,1923,\N
+6724,barbara,decks,1937,\N
+6725,olga,cronk,1898,\N
+6726,emily marie,bertelson,1923,\N
+6727,penelope windust,,0000,\N
+6728,paul,winfield,1941,\N
+6729,debra,winger,1954,\N
+6730,henry,winkler,1946,\N
+6731,kitty winn,,0000,\N
+6732,kate,winslet,1975,\N
+6733,karl,winninger,1884,\N
+6734,george,wenzlaff,1946,\N
+6735,philip winter,,0000,\N
+6736,vincent,winter,1947,\N
+6737,deborah winters,,0000,\N
+6738,jonathan,winters,1925,\N
+6739,roland,winters,1904,\N
+6740,shirley,schrift,1922,\N
+6741,estelle,goodwin,1882,\N
+6742,norman,wisdom,1918,\N
+6743,joseph,wiseman,1919,\N
+6744,georgette,withers,1917,\N
+6745,grant,withers,1904,\N
+6746,jane,withers,1926,\N
+6747,cora,witherspoon,1890,\N
+6748,michael james,wixted,0000,\N
+6749,alexander wolcott,,0000,\N
+6750,michael wolf,,0000,\N
+6751,allan wolfe,,0000,\N
+6752,ian,wolfe,1896,\N
+6753,donald,wolfit,1902,\N
+6754,louis,wolheim,1880,\N
+6755,edna may,wonacott,1888,\N
+6756,liu tsong,wong,1907,\N
+6757,arthur,wontner,1875,\N
+6758,cyndi wood,,0000,\N
+6759,david wood,,0000,\N
+6760,edward d. jr.,wood,1924,\N
+6761,elijah,wood,1981,\N
+6762,gary wood,,0000,\N
+6763,john,wood,1937,\N
+6764,lana,wood,0000,\N
+6765,natasha,gurdin,1938,\N
+6766,peggy,wood,1892,\N
+6767,alfre,woodard,0000,\N
+6768,george,woodbridge,1907,\N
+6769,joan,woodbury,1915,\N
+6770,aubrey,woods,1928,\N
+6771,bill woods,,0000,\N
+6772,ralph l.,zink,1904,\N
+6773,james woods,,0000,\N
+6774,edward,woodward,0000,\N
+6775,joanne,woodward,1930,\N
+6776,morgan woodward,,0000,\N
+6777,norman,wooland,1905,\N
+6778,edgar montillion,woolley,1888,\N
+6779,norton earl,worden,1901,\N
+6780,christina world,,0000,\N
+6781,frederick,worlock,1886,\N
+6782,mary woronov,,0000,\N
+6783,brian,worth,1914,\N
+6784,irene,worth,1916,\N
+6785,fay,wray,1907,\N
+6786,john,malloy,1890,\N
+6787,marie wright,,0000,\N
+6788,michael wright,,0000,\N
+6789,robin,wright,0000,\N
+6790,teresa,wright,1918,\N
+6791,tony,wright,1925,\N
+6792,will,wright,1894,\N
+6793,vivian,wu,0000,\N
+6794,maris,wrixon,1917,\N
+6795,jane,wyatt,1912,\N
+6796,margaret,wycherly,1881,\N
+6797,sandy wyeth,,0000,\N
+6798,richard,stapley,1934,\N
+6799,sarah jane,faulks,1914,\N
+6800,william, wyman,1939,\N
+6801,stephen, wyman,1963,\N
+6802,patrick,cheesman,0000,\N
+6803,patrice,wymore,1926,\N
+6804,dennis wyndham,,0000,\N
+6805,isaiah edwin,leopold,1886,\N
+6806,keenan,wynn,1916,\N
+6807,donna lee,hickey,1931,\N
+6808,greg wynne,,0000,\N
+6809,dagmar,wynter,1930,\N
+6810,dorothy isobel,cox,1906,\N
+6811,tsutomu yamazaki,,0000,\N
+6812,jean,gouille,1933,\N
+6813,celeste yarnall,,0000,\N
+6814,cassie yates,,0000,\N
+6815,yury yarvet,,0000,\N
+6816,dick,york,1928,\N
+6817,jeffrey, york,0000,\N
+6818,michael,york,1942,\N
+6819,rebecca york,,0000,\N
+6820,susannah,york,1941,\N
+6821,angus,young,1919,\N
+6822,arthur,young,1898,\N
+6823,burt,young,0000,\N
+6824,carleton,young,1906,\N
+6825,clara kimball,young,1890,\N
+6826,byron,barr,1913,\N
+6827,karen young,,0000,\N
+6828,gretchen michaela,young,1913,\N
+6829,mat young,,0000,\N
+6830,otis,young,1932,\N
+6831,robert,young,1907,\N
+6832,roland,young,1887,\N
+6833,sean,young,0000,\N
+6834,skip young,,0000,\N
+6835,stephen young,,0000,\N
+6836,tony,young,1932,\N
+6837,victor sen young,,0000,\N
+6838,harris,yulin,0000,\N
+6839,,yune,0000,\N
+6840,victor sen,yung,1915,\N
+6841,blanche,yurka,1887,\N
+6842,george zacco,,0000,\N
+6843,pia,zadora,1956,\N
+6844,lenore zann,,0000,\N
+6845,frank zappa,,0000,\N
+6846,michael zaslow,,0000,\N
+6847,suzanne zenor,,0000,\N
+6848,gn,fmn,1970,\N
+6849,delphine,zentout,1973,\N
+6850,anthony,zerbe,0000,\N
+6851,mai,zetterling,1925,\N
+6852,carla ziegfeld,,0000,\N
+6853,sonja,ziemann,1926,\N
+6854,efrem jr.,zimbalist,1918,\N
+6855,laurie zimmer,,0000,\N
+6856,adrian zmed,,0000,\N
+6857,eva brigitta,hartwig,1917,\N
+6858,george,zucco,1886,\N
+6859,david zucker,,0000,\N
+6860,jerry zucker,,0000,\N
+6861,daphne zuniga,,0000,\N
+6862,frantisek zvarik,,0000,\N
+6863,darrell zwerling,,0000,\N
